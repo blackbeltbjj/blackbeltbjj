@@ -9,7 +9,6 @@
 # Hi, I'm Fabio Vieira Machado 👋
 ----------------------------------------------------
 
-Hi, I'm Fabio Vieira Machado 👋
 Climate Scientist • Oceanographer • Scientific Python Developer
 
 Welcome to my GitHub profile!
