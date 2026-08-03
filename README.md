@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/banner.png" alt="Fabio Vieira Machado" width="100%">
+  <img src="images/blackbeltbjjBanner.png" alt="Fabio Vieira Machado" width="100%">
 </p>
 
 ## Using open science and reproducible computing to better understand Earth's climate system.
