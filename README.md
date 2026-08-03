@@ -6,7 +6,7 @@
 ## Using open science and reproducible computing to better understand Earth's climate system.
 
 ----------------------------------------------------
-👋 Hi there
+# Hi, I'm Fabio Vieira Machado 👋
 ----------------------------------------------------
 
 Hi, I'm Fabio Vieira Machado 👋
