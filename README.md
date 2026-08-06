@@ -6,7 +6,7 @@
 ## Using authentic data to better understand Earth's climate system.
 
 ----------------------------------------------------
-# Hi, I'm Fabio Vieira Machado 
+# Hi, I'm Fabio
 ----------------------------------------------------
 
 Climate Scientist • Oceanographer • Scientific Python Developer
