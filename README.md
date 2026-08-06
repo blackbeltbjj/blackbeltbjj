@@ -6,7 +6,7 @@
 ## Using open science and reproducible computing to better understand Earth's climate system.
 
 ----------------------------------------------------
-# Hi, I'm Fabio Vieira Machado 👋
+# Hi, I'm Fabio Vieira Machado 
 ----------------------------------------------------
 
 Climate Scientist • Oceanographer • Scientific Python Developer
@@ -53,7 +53,7 @@ Pacific Warm Pool
 
 Climate Data for Education
 
-### 🌊 ENSO Time-Series Analysis
+### ENSO Time-Series Analysis
 
 Professional Python pipeline for analysing and forecasting Niño SST indices.
 
