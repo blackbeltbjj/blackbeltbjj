@@ -3,7 +3,7 @@
   <img src="images/blackbeltbjjBanner.png" alt="Fabio Vieira Machado" width="100%">
 </p>
 
-## Using open science and reproducible computing to better understand Earth's climate system.
+## Using authentic data to better understand Earth's climate system.
 
 ----------------------------------------------------
 # Hi, I'm Fabio Vieira Machado 
