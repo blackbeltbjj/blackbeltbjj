@@ -16,23 +16,21 @@ Welcome to my GitHub profile!
 I develop reproducible Python tools for climate variability, ocean–atmosphere interactions, and oceanographic data analysis, with a focus on ENSO variability, the Pacific Warm Pool, time-series analysis, statistical modelling, and scientific visualization. My goal is to combine scientific research, open-source software, and education to better understand climate variability and make authentic climate data more accessible.
 
 ----------------------------------------------------
-About Me
+## About Me
 ----------------------------------------------------
 
 I am interested in understanding the physical mechanisms that govern climate variability using observational datasets, statistical methods, and scientific computing.
 
 My work combines:
 
-- 🌊 Physical Oceanography
-- 🌎 Climate Variability
-- 🌡 ENSO Dynamics
-- 📈 Time-Series Analysis
-- 🐍 Scientific Python
-
-My hobbies are Brazilian Jiu-Jitsu, Judo, "altinha", bodyboarding and surfing. I love brazilian BBQ and watching the world soccer games. My favorite place is any nice beach where we can watch people surfing drinking coconut water and watching people walking to and thro and playing altinha.
+- Physical Oceanography
+- Climate Variability
+- ENSO Dynamics
+- Time-Series Analysis
+- Scientific Python
 
 ----------------------------------------------------
-🌎 Research Interests
+## Research Interests
 ----------------------------------------------------
 
 Climate variability
@@ -46,7 +44,7 @@ Scientific computing with Python
 Climate education using authentic datasets
 
 ----------------------------------------------------
-Featured Projects
+## Featured Projects
 ----------------------------------------------------
 
 ENSO Time-Series Analysis
@@ -61,7 +59,7 @@ Professional Python pipeline for analysing and forecasting Niño SST indices.
 
 ---
 
-### 🌏 Pacific Warm Pool
+## Pacific Warm Pool
 
 Investigating annual and interannual variability of the Pacific Warm Pool.
 
@@ -69,12 +67,12 @@ Research tools investigating the spatial and temporal variability of the Pacific
 
 ---
 
-### 📚 Climate Data for Education
+## Climate Data for Education
 
 Educational resources demonstrating how authentic climate datasets can support the teaching of statistics and data science.
 
 ----------------------------------------------------
-Skills
+## Skills
 ----------------------------------------------------
 
 ## Programming
@@ -111,7 +109,7 @@ NOAA Climate Data
 Machine Learning
 
 ----------------------------------------------------
-Current Work
+## Current Work
 ----------------------------------------------------
 
 Project: Warm Pool & ENSO Time-Series Analysis
@@ -183,7 +181,7 @@ This GitHub account documents the development of scientific software, climate an
 These update automatically.
 
 ----------------------------------------------------
-Philosophy
+## Philosophy
 ----------------------------------------------------
 
 I believe that scientific research should be:
@@ -195,10 +193,13 @@ Well documented
 Accessible to researchers, educators, and students
 
 ----------------------------------------------------
-Contact
+##  Contact
 ----------------------------------------------------
 
 Email: fvmachado.oceanscience@gmail.com
 Google Scholar
 ORCID
 LinkedIn
+
+
+Outside research, I enjoy Brazilian Jiu-Jitsu, surfing, bodyboarding, and spending time at the beach
