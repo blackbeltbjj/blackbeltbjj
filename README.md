@@ -19,68 +19,57 @@ I develop reproducible Python tools for climate variability, ocean–atmosphere 
 ## About Me
 ----------------------------------------------------
 
-Featured Projects
+## Featured Projects
+
 ### Coastal Engineering & Climate Adaptation (New Zealand)
 
-#### 1. Mapeamento de Risco de Inundação Costeira e Elevação do Nível do Mar (Onerahi, Whangārei)
-*   **Objetivo:** Identificar zonas de infraestrutura civil vulneráveis a cenários combinados de Elevação do Nível do Mar (SLR) do IPCC e ressacas de tempestade até o ano 2100 no Whangārei Harbour.
-*   **Resultados de Engenharia:** Determinação do limite crítico de inundação a **3.00 metros**, revelando que as áreas mais baixas da simulação possuem alto risco de perda de ativos estruturais caso medidas de adaptação não sejam implementadas.
-*   **Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 Visualizar Código-Fonte](coastal_flooding_analysis.py) | [👉 Visualizar Mapa de Inundação](whangarei_coastal_flooding_map.png)
+#### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
+*   **Objective:** Identify low-lying civil infrastructure vulnerable to the joint impacts of IPCC Sea-Level Rise (SLR) scenarios and extreme storm surge events up to the year 2100 within the Whangārei Harbour.
+*   **Engineering Outcomes:** Established a critical design flood level threshold of **3.00 meters** via spatial masking workflows. The diagnostics revealed that **74.7%** of the evaluated low-elevation coastal boundary sits within high-risk asset loss zones if nature-based infrastructure solutions or engineered seawalls are not implemented.
+*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
+*   [👉 View Source Code](coastal_flooding_analysis.py) | [👉 View Hazard Map Visualization](whangarei_coastal_flooding_map.png)
 
-#### 2. Análise de Eventos Extremos de Ondas e Limites de Projeto (Bream Bay, Northland)
-*   **Objetivo:** Estabelecer a linha de base do clima de ondas local, dando suporte aos limites de design de engenharia para infraestrutura costeira em Northland.
-*   **Insights práticos:** Determinação do Percentil 95 ($H_s = 2.45m$) como limite de segurança operacional e mapeamento de picos de tempestade ($4.41m$) para cálculo de sobrevivência de ativos estruturais (marinas e quebra-mares).
-*   **Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 Visualizar Código-Fonte](wave_analysis.py) | [👉 Visualizar Gráfico de Engenharia](bream_bay_wave_analysis.png)
+#### 2. Extreme Wave Climate Modeling & Design Limit Analysis (Bream Bay, Northland)
+*   **Objective:** Establish the historical wave climate baseline to determine structural design constraints and engineering tolerances for local offshore energy and marine infrastructure developments.
+*   **Operational Insights:** Processed hourly significant wave height data ($H_s$) to calculate the **95th Percentile extreme operating limit ($H_s = 2.45\text{m}$)**. Modeled severe winter storm anomalies to evaluate structural asset survivability against peak wave impacts reaching **4.41 meters**.
+*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
+*   [👉 View Source Code](wave_analysis.py) | [👉 View Wave Diagnostics Chart](bream_bay_wave_analysis.png)
+
+---
 
 ### ENSO Time-Series Analysis & SST Mapping
 Professional Python pipeline for analysing OISST using global observational datasets.
 
 *   **Methodology:** Processed global Sea Surface Temperature (SST) to identify spatial thermal patterns linked to ocean-atmosphere interactions, highlighting the historical 1998 Strong El Niño event.
-*   **Technical Stack:** Python (`Xarray`, `NetCDF4`, `Cartopy` / `Matplotlib`, assisted by advanced AI prompt engineering).
-*   [👉 View Climate Visualization](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/methodological_domain/methodological_domain_figure_1998-03-31_el_nino.png)
+*   **Technical Stack:** Python (`Xarray`, `NetCDF4`, `Cartopy`, `Matplotlib`, assisted by advanced AI prompt engineering).
+*   [👉 View Climate Visualization](pwp_domain_definition_19980331.png)
 
-![SST Map Visualization](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/methodological_domain/methodological_domain_figure_1998-03-31_el_nino.png)
+![SST Map Visualization](pwp_domain_definition_19980331.png)
 
+---
 
-### Pacific Warm Pool (PWP) Dynamics & Wavelet Analysis
-Investigating annual and interannual variability of the Pacific Warm Pool using advanced climate diagnostics, nonlinear detrending, and spectral decomposition.
+### Pacific Warm Pool (PWP) Dynamics, STL Decomposition & Wavelets
+Investigating the annual and interannual variability of the Pacific Warm Pool (area and centroid longitude) using advanced climate diagnostics, non-linear signal processing, and rigorous algorithm validation.
 
-*   **Methodology:** Applied Continuous Wavelet Transform (CWT) to isolate low-frequency variability, tracking physical shifts in the PWP centroid boundaries, total surface area, and zonal core migration.
+*   **Methodology:** Applied Continuous Wavelet Transform (CWT) to isolate low-frequency variability and track physical shifts in the PWP centroid boundaries, zonal core migration, and surface area. Implemented **STL Decomposition (Seasonal & Trend decomposition using LOESS)** to robustly decouple long-term climate change trends from seasonal cycles and stochastic anomalies.
 *   **Algorithm Verification:** Developed a robust **Synthetic Validation Pipeline** featuring known multi-frequency signals and stochastic noise components to benchmark, calibrate, and verify the accuracy of the Wavelet spectral decomposition code before deploying it on raw observational datasets.
-*   **Technical Stack:** Python (`Xarray`, `SciPy.signal`, `PyWavelets` / `Wavelet-Analysis`), Core Climate Diagnostics.
+*   **Technical Stack:** Python (`Statsmodels.tsa.seasonal.STL`, `PyWavelets`, `Xarray`, `SciPy.signal`, `Matplotlib`).
 
-#### Spectral, Time-Series Visualizations, Climate Signal Diagnostics & Code Validation::
-*   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_longitude.png)
-*   [👉 View Wavelet Power Spectrum - PWP Total Area Expansion](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_area.png) 
-*   **Technical Stack:** Python (`Statsmodels.tsa.seasonal.STL`, `PyWavelets` / `SciPy.signal`, `Xarray`, `Matplotlib`).
+#### Climate Signal Diagnostics & Code Validation:
+*   [👉 View STL Decomposition - PWP Total Area Expansion](pwp_stl_area.png)
+*   [👉 View STL Decomposition - Longitude Core Shifts](pwp_stl_longitude.png)
+*   [👉 View Wavelet Power Spectrum - Area Variability](pwp_wavelet_tc_area.png)
+*   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](pwp_wavelet_tc_longitude.png)
+*   [👉 View Pipeline Code Verification - Synthetic Wavelet Validation Chart](pwp_wavelet_tc_synthetic_validation.png)
 
-#### 📊 
-*   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_longitude.png)
-*   [👉 View Wavelet Power Spectrum - PWP Total Area Expansion](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_area.png)
+---
 
 ### Climate Data for Education
 Educational resources and interactive pipelines demonstrating how authentic, large-scale climate datasets can be used to teach advanced statistics, time-series decomposition, and data science.
 
-*   **Methodology:** Developed curriculum-ready visualization workflows focusing on signal extraction. The core module demonstrates how to dissect raw climate signals into long-term secular trends and short-term interannual anomalies.
+*   **Methodology:** Developed curriculum-ready visualization workflows focusing on signal extraction. The core module acts as a visual teaching aid to demonstrate climate variance, helping students isolate the underlying global warming trend from seasonal and interannual noise.
 *   **Technical Stack:** Python (`Pandas`, `Statsmodels`, `Matplotlib`), Signal Decomposition, Climate Literacy.
-*   [👉 View Educational Python Pipeline](wave_analysis/educational_pipeline.py)
-
-#### Featured Classroom Visualization (Raw Signal, Trend & Anomalies):
-This multi-panel diagnostic chart acts as a visual teaching aid to demonstrate climate variance, helping students isolate the underlying global warming trend from seasonal and interannual noise.
-
-## Pacific Warm Pool (PWP) Dynamics & STL Decomposition
-Investigating the annual and interannual variability of the Pacific Warm Pool (area and centroid longitude) using advanced climate diagnostics and non-linear signal processing.
-
-*   **Methodology:** Implemented **STL Decomposition (Seasonal & Trend decomposition using LOESS)** to robustly decouple long-term climate change trends from seasonal cycles and stochastic anomalies in the PWP domain. 
-*   **Technical Stack:** Python (`Statsmodels.tsa.seasonal.STL`, `Xarray`, `SciPy`, `Matplotlib`).
-
-### Climate Signal Diagnostics (Raw, Trend & Anomalies):
-*   [👉 View STL Decomposition - PWP Total Area Expansion](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_stl/pwp_stl_area.png)
-*   [👉 View STL Decomposition - Longitude Core Shifts](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_stl/pwp_stl_longitude.png)
-*   [👉 View STL Decomposition - PWP Total Area and Longitude](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_stl/)
-*   [👉 View Pipeline Code Verification - Synthetic Wavelet Validation Chart](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_synthetic_validation.png)
+*   [👉 View Educational Python Pipeline](wave_analysis.py)
 
 ----------------------------------------------------
 ## Research Interests
