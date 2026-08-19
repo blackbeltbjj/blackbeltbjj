@@ -48,9 +48,15 @@ Professional Python pipeline for analysing OISST using global observational data
 Investigating annual and interannual variability of the Pacific Warm Pool using advanced climate diagnostics, nonlinear detrending, and spectral decomposition.
 
 *   **Methodology:** Applied Continuous Wavelet Transform (CWT) to isolate low-frequency variability, tracking physical shifts in the PWP centroid boundaries, total surface area, and zonal core migration.
+*   **Algorithm Verification:** Developed a robust **Synthetic Validation Pipeline** featuring known multi-frequency signals and stochastic noise components to benchmark, calibrate, and verify the accuracy of the Wavelet spectral decomposition code before deploying it on raw observational datasets.
 *   **Technical Stack:** Python (`Xarray`, `SciPy.signal`, `PyWavelets` / `Wavelet-Analysis`), Core Climate Diagnostics.
 
-#### Spectral & Time-Series Visualizations:
+#### Spectral, Time-Series Visualizations, Climate Signal Diagnostics & Code Validation::
+*   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_longitude.png)
+*   [👉 View Wavelet Power Spectrum - PWP Total Area Expansion](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_area.png) 
+*   **Technical Stack:** Python (`Statsmodels.tsa.seasonal.STL`, `PyWavelets` / `SciPy.signal`, `Xarray`, `Matplotlib`).
+
+#### 📊 
 *   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_longitude.png)
 *   [👉 View Wavelet Power Spectrum - PWP Total Area Expansion](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_area.png)
 
@@ -73,7 +79,8 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 ### Climate Signal Diagnostics (Raw, Trend & Anomalies):
 *   [👉 View STL Decomposition - PWP Total Area Expansion](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_stl/pwp_stl_area.png)
 *   [👉 View STL Decomposition - Longitude Core Shifts](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_stl/pwp_stl_longitude.png)
-
+*   [👉 View STL Decomposition - PWP Total Area and Longitude](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_stl/)
+*   [👉 View Pipeline Code Verification - Synthetic Wavelet Validation Chart](timeseries/ENSO_INDICES/wavelets/pwp_mascara/outputs/figures/pwp_wavelet_tc/pwp_wavelet_tc_synthetic_validation.png)
 
 ----------------------------------------------------
 ## Research Interests
