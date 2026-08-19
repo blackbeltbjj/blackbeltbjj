@@ -62,6 +62,10 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 *   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](pwp_wavelet_tc_longitude.png)
 *   [👉 View Pipeline Code Verification - Synthetic Wavelet Validation Chart](pwp_wavelet_tc_synthetic_validation.png)
 
+![Longitude Core Shifts](pwp_wavelet_tc_longitude.png)
+
+![Wavelet Synthetic validation](pwp_wavelet_tc_synthetic_validation.png)
+
 ---
 
 ### Climate Data for Education
