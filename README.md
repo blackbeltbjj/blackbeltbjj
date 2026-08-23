@@ -20,21 +20,6 @@ I develop reproducible Python tools for climate variability, ocean–atmosphere 
 ----------------------------------------------------
 
 ## Featured Projects
-
-### Coastal Engineering & Climate Adaptation (New Zealand)
-
-#### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
-*   **Objective:** Identify low-lying civil infrastructure vulnerable to the joint impacts of IPCC Sea-Level Rise (SLR) scenarios and extreme storm surge events up to the year 2100 within the Whangārei Harbour.
-*   **Engineering Outcomes:** Established a critical design flood level threshold of **3.00 meters** via spatial masking workflows. The diagnostics revealed that **74.7%** of the evaluated low-elevation coastal boundary sits within high-risk asset loss zones if nature-based infrastructure solutions or engineered seawalls are not implemented.
-*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 View Source Code](coastal_flooding_analysis.py) | [👉 View Hazard Map Visualization](whangarei_coastal_flooding_map.png)
-
-#### 2. Extreme Wave Climate Modeling & Design Limit Analysis (Bream Bay, Northland)
-*   **Objective:** Establish the historical wave climate baseline to determine structural design constraints and engineering tolerances for local offshore energy and marine infrastructure developments.
-*   **Operational Insights:** Processed hourly significant wave height data ($H_s$) to calculate the **95th Percentile extreme operating limit ($H_s = 2.45\text{m}$)**. Modeled severe winter storm anomalies to evaluate structural asset survivability against peak wave impacts reaching **4.41 meters**.
-*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 View Source Code](wave_analysis.py) | [👉 View Wave Diagnostics Chart](bream_bay_wave_analysis.png)
-
 ---
 
 ### ENSO Time-Series Analysis & SST Mapping
@@ -68,6 +53,22 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 
 ---
 
+### Coastal Engineering & Climate Adaptation (New Zealand)
+
+#### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
+*   **Objective:** Identify low-lying civil infrastructure vulnerable to the joint impacts of IPCC Sea-Level Rise (SLR) scenarios and extreme storm surge events up to the year 2100 within the Whangārei Harbour.
+*   **Engineering Outcomes:** Established a critical design flood level threshold of **3.00 meters** via spatial masking workflows. The diagnostics revealed that **74.7%** of the evaluated low-elevation coastal boundary sits within high-risk asset loss zones if nature-based infrastructure solutions or engineered seawalls are not implemented.
+*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
+*   [👉 View Source Code](coastal_flooding_analysis.py) | [👉 View Hazard Map Visualization](whangarei_coastal_flooding_map.png)
+
+#### 2. Extreme Wave Climate Modeling & Design Limit Analysis (Bream Bay, Northland)
+*   **Objective:** Establish the historical wave climate baseline to determine structural design constraints and engineering tolerances for local offshore energy and marine infrastructure developments.
+*   **Operational Insights:** Processed hourly significant wave height data ($H_s$) to calculate the **95th Percentile extreme operating limit ($H_s = 2.45\text{m}$)**. Modeled severe winter storm anomalies to evaluate structural asset survivability against peak wave impacts reaching **4.41 meters**.
+*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
+*   [👉 View Source Code](wave_analysis.py) | [👉 View Wave Diagnostics Chart](bream_bay_wave_analysis.png)
+
+---
+
 ### Climate Data for Education
 Educational resources and interactive pipelines demonstrating how authentic, large-scale climate datasets can be used to teach advanced statistics, time-series decomposition, and data science.
 
@@ -79,86 +80,141 @@ Educational resources and interactive pipelines demonstrating how authentic, lar
 ## Research Interests
 ----------------------------------------------------
 
-Climate variability
-El Niño–Southern Oscillation (ENSO)
-Pacific Warm Pool dynamics
-Sea Surface Temperature (SST) analysis
-Time-series analysis and forecasting
-Wavelet analysis
-Statistical modelling
-Scientific computing with Python
-Climate education using authentic datasets
+_El Niño–Southern Oscillation 
+      and Climate variability_
+
+_Ocean-Atmosphere interaction_
+
+_Physics of the Ocean_
+
+_Ocean heat content_
+
+_Pacific Warm Pool dynamic_
+
+_Dynamics of the Atmosphere_
+
+_Oceanographic Instrumentation_
+
+_AUV High resolution 
+      data processing and collection_ 
+
+_Sea floor Information System_
 
 ----------------------------------------------------
 ## Featured Projects
 ----------------------------------------------------
 
-ENSO Time-Series Analysis
+_Scientific computing 
+      with Python and Matlab_
 
-Pacific Warm Pool
+_Wavelet analysis and 
+      scale-averaged wavelet variance 
+            for non-stationary dataset_
 
-Climate Data for Education
+_Time-series analysis, seasonal variations, 
+      long-term trends and forecasting_ 
+
+_Sea Surface Temperature (SST) analysis_
+
+_Evenly spaced observation fields 
+      from irregularly sampled data_
+
+_Hydrographic high resolution 
+      data processing (MBE, SVP, CTD)_
+
+_AUV high-resolution survey_
+
+_Climate education 
+      using authentic datasets_
 
 ### ENSO Time-Series Analysis
 
-Professional Python pipeline for analysing and forecasting Niño SST indices.
+_Pacific Warm Pool Scale-Dependent Variability_
 
----
+_Threshold-Dependent Expansion, Seasonality, and 
+      Spatial Reorganization of the Pacific Warm Pool_
+
+_ENSO indices analysis_
 
 ## Pacific Warm Pool
 
-Investigating annual and interannual variability of the Pacific Warm Pool.
+_Pacific Warm Pool dynamics_
 
-Research tools investigating the spatial and temporal variability of the Pacific Warm Pool, including centroid analysis, wavelet methods, and climate diagnostics.
+_ENSO event classification and 
+        temporal evolution of Pacific warm-pool geometry_
+
+_Integrated sequence of 
+        tropical-Pacific reorganization_
+
+_Investigating annual and 
+        interannual variability of the Pacific Warm Pool_
+
+_Pacific Warm Pool
+    surface-area variability and long-term change_
 
 ---
 
 ## Climate Data for Education
 
-Educational resources demonstrating how authentic climate datasets can support the teaching of statistics and data science.
+_Authentic climate datasets 
+      as Educational resources for 
+            the teaching of statistics in high school_
 
 ----------------------------------------------------
 ## Skills
 ----------------------------------------------------
 
+_NavLab_
+_Git
+_GitHub_
+
+
 ## Programming
 
-Python
-MatLab
-NavLab
-Git
-GitHub
+_Python_
+_MatLab_
 
 ## Scientific Python
 
-NumPy
-Pandas
-SciPy
-Statsmodels
-Matplotlib
-
-## Research Areas
-
-Time-Series Analysis
-Climate Data Analysis
-Statistical Forecasting
-Ocean–Atmosphere Interactions
-Scientific Visualization
-Phase diagram
-Wavelet analysis
+_NumPy_
+_Pandas_
+_SciPy_
+_Statsmodels_
+_Matplotlib_
 
 ## More
 
-VS Code
-Jupyter
-NOAA Climate Data
-Machine Learning
+_VS Code_
+_Jupyter_
+_NOAA Climate Data_
+_Machine Learning_
 
 ----------------------------------------------------
 ## Current Work
 ----------------------------------------------------
 
-Project: Warm Pool & ENSO Time-Series Analysis
+Currently developing open and reproducible software for:
+
+_Daily Sea Surface 
+      Temperature analysis (1981–present)_
+
+_ENSO monitoring and analysis_
+
+_Pacific Warm Pool variability_
+
+_Scientific software for 
+      research and education_
+
+_Python climate analysis toolkit_
+
+_Educational resources using 
+      authentic climate datasets_
+
+_Pacific Warm Pool 
+      Scale-Dependent Variability_
+
+_Threshold-Dependent Expansion, Seasonality, 
+      and Spatial Reorganization of the Pacific Warm Pool_
 
 ## Scientific Workflow
 
@@ -191,22 +247,6 @@ Scientific Visualisation
 ↓
 
 Publication
-
-## Currently Working On
-
-I am currently developing open and reproducible software for:
-
-Daily Sea Surface Temperature analysis (1981–present)
-ENSO monitoring and forecasting
-Pacific Warm Pool variability
-Climate time-series modelling
-Scientific software for research and education
-
-- Daily SST analysis (1981–present)
-- ENSO monitoring forecasting
-- Pacific Warm Pool dynamics
-- Python climate analysis toolkit
-- Educational resources using authentic climate datasets
 
 ----------------------------------------------------
 GitHub Statistics
