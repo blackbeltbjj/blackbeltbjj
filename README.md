@@ -16,11 +16,8 @@ Welcome to my GitHub profile!
 I develop reproducible Python tools for climate variability, ocean–atmosphere interactions, and oceanographic data analysis, with a focus on ENSO variability, the Pacific Warm Pool, time-series analysis, statistical modelling, and scientific visualization. My goal is to combine scientific research, open-source software, and education to better understand climate variability and make authentic climate data more accessible.
 
 ----------------------------------------------------
-## About Me
-----------------------------------------------------
-
 ## Featured Projects
----
+----------------------------------------------------
 
 ### ENSO Time-Series Analysis & SST Mapping
 Professional Python pipeline for analysing OISST using global observational datasets.
