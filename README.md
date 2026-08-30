@@ -48,10 +48,10 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 
 ![Wavelet Synthetic validation](pwp_wavelet_tc_synthetic_validation.png)
 
-*Machado & d’Ávila (2006)*
+**Machado & d’Ávila (2006)**
 Machado, F. V., & d’Ávila, V. A. (2006). A Track and Area of the Pacific Warm Pool. Revista Brasileira de Meteorologia, 21(2), 161–169.
 
-*Machado & d’Ávila (2014)*
+**Machado & d’Ávila (2014)**
 Machado, F. V., & d’Ávila, V. A. (2014). The Centroid of the Pacific Warm Pool as an Index for the El Niño and La Niña Phenomena. Revista Brasileira de Meteorologia, 29(3), 443–456. https://doi.org/10.1590/0102-778620130595
 
 ---
