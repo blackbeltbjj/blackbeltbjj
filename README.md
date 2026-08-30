@@ -48,6 +48,12 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 
 ![Wavelet Synthetic validation](pwp_wavelet_tc_synthetic_validation.png)
 
+*Machado & d’Ávila (2006)*
+Machado, F. V., & d’Ávila, V. A. (2006). A Track and Area of the Pacific Warm Pool. Revista Brasileira de Meteorologia, 21(2), 161–169.
+
+*Machado & d’Ávila (2014)*
+Machado, F. V., & d’Ávila, V. A. (2014). The Centroid of the Pacific Warm Pool as an Index for the El Niño and La Niña Phenomena. Revista Brasileira de Meteorologia, 29(3), 443–456. https://doi.org/10.1590/0102-778620130595
+
 ---
 
 ### Southern Ocean Climatology and changes from observations
@@ -59,6 +65,7 @@ Evenly spaced observation fields from irregularly sampled data in the Southern O
 
 <img width="900.4" height="380.8" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
 
+VIEIRA MACHADO, Fabio. Evenly spaced observation fields from irregularly sampled data in the Southern Ocean. In: **2019 Annual Report**. Auckland: Centre for eResearch, University of Auckland, 2019. p. 50–55.
 
 ---
 
