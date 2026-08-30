@@ -71,7 +71,7 @@ Educational resources and interactive pipelines demonstrating how authentic, lar
 
 *   **Methodology:** Developed curriculum-ready visualization workflows focusing on signal extraction. The core module acts as a visual teaching aid to demonstrate climate variance, helping students isolate the underlying global warming trend from seasonal and interannual noise.
 *   **Technical Stack:** Python (`Pandas`, `Statsmodels`, `Matplotlib`), Signal Decomposition, Climate Literacy.
-*   [👉 View Educational Python Pipeline](wave_analysis.py)
+*  ![Longitude Core Shifts](pwp_stl_longitude.png)
 
 ----------------------------------------------------
 ## Research Interests
