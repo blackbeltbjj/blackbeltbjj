@@ -55,10 +55,18 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 Evenly spaced observation fields from irregularly sampled data in the Southern Ocean 
 - Argo and Seal data were combined to create a climatology for the Southern Ocean 
 
-<img width="1432" height="601" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
+<img width="1002.4" height="422.8" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
 
-<img width="697" height="360" alt="image" src="https://github.com/user-attachments/assets/1b20d3da-a592-425e-b5d3-c4389bbbe975" />
+<img width="487.9" height="252" alt="image" src="https://github.com/user-attachments/assets/1b20d3da-a592-425e-b5d3-c4389bbbe975" />
 
+---
+
+### Climate Data for Education
+Educational resources and interactive pipelines demonstrating how authentic, large-scale climate datasets can be used to teach advanced statistics, time-series decomposition, and data science.
+
+*   **Methodology:** Developed curriculum-ready visualization workflows focusing on signal extraction. The core module acts as a visual teaching aid to demonstrate climate variance, helping students isolate the underlying global warming trend from seasonal and interannual noise.
+*   **Technical Stack:** Python (`Pandas`, `Statsmodels`, `Matplotlib`), Signal Decomposition, Climate Literacy.
+*  ![Longitude Core Shifts](pwp_stl_longitude.png)
 
 
 #### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
@@ -82,14 +90,6 @@ Evenly spaced observation fields from irregularly sampled data in the Southern O
 *   [👉 View Source Code](wave_analysis.py) | [👉 View Wave Diagnostics Chart](bream_bay_wave_analysis.png)
 
 ---
-
-### Climate Data for Education
-Educational resources and interactive pipelines demonstrating how authentic, large-scale climate datasets can be used to teach advanced statistics, time-series decomposition, and data science.
-
-*   **Methodology:** Developed curriculum-ready visualization workflows focusing on signal extraction. The core module acts as a visual teaching aid to demonstrate climate variance, helping students isolate the underlying global warming trend from seasonal and interannual noise.
-*   **Technical Stack:** Python (`Pandas`, `Statsmodels`, `Matplotlib`), Signal Decomposition, Climate Literacy.
-*  ![Longitude Core Shifts](pwp_stl_longitude.png)
-
 ----------------------------------------------------
 ## Research Interests
 ----------------------------------------------------
