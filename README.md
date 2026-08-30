@@ -50,6 +50,23 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 
 ---
 
+### Southern Ocean Climatology and changes from observations
+
+Evenly spaced observation fields from irregularly sampled data in the Southern Ocean 
+- Argo and Seal data were combined to create a climatology for the Southern Ocean 
+
+<img width="1432" height="601" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
+
+<img width="697" height="360" alt="image" src="https://github.com/user-attachments/assets/1b20d3da-a592-425e-b5d3-c4389bbbe975" />
+
+
+
+#### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
+*   **Objective:** Identify low-lying civil infrastructure vulnerable to the joint impacts of IPCC Sea-Level Rise (SLR) scenarios and extreme storm surge events up to the year 2100 within the Whangārei Harbour.
+*   **Engineering Outcomes:** Established a critical design flood level threshold of **3.00 meters** via spatial masking workflows. The diagnostics revealed that **74.7%** of the evaluated low-elevation coastal boundary sits within high-risk asset loss zones if nature-based infrastructure solutions or engineered seawalls are not implemented.
+*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
+*   [👉 View Source Code](coastal_flooding_analysis.py) | [👉 View Hazard Map Visualization](whangarei_coastal_flooding_map.png)
+
 ### Coastal Engineering & Climate Adaptation (New Zealand)
 
 #### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
@@ -130,6 +147,12 @@ _Pacific Warm Pool Scale-Dependent Variability_
 
 _Threshold-Dependent Expansion, Seasonality, and 
       Spatial Reorganization of the Pacific Warm Pool_
+
+_Defining the Pacific Warm Pool: Threshold Dependence of 
+      Centroid Geometry and Robustness of Interannual Variance Modulation_
+
+_Variability, expansion and spatial organization of 
+      the 28 °C Pacific Warm Pool from 1981 to 2026_
 
 _ENSO indices analysis_
 
