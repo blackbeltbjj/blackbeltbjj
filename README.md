@@ -55,9 +55,10 @@ Investigating the annual and interannual variability of the Pacific Warm Pool (a
 Evenly spaced observation fields from irregularly sampled data in the Southern Ocean 
 - Argo and Seal data were combined to create a climatology for the Southern Ocean 
 
-<img width="1002.4" height="422.8" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
+<img width="404" height="395" alt="image" src="https://github.com/user-attachments/assets/467602e7-9466-4694-981b-ccfdced4b64f" />
 
-<img width="487.9" height="252" alt="image" src="https://github.com/user-attachments/assets/1b20d3da-a592-425e-b5d3-c4389bbbe975" />
+<img width="900.4" height="380.8" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
+
 
 ---
 
