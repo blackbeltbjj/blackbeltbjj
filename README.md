@@ -23,7 +23,7 @@ I develop reproducible Python tools for climate variability, ocean–atmosphere 
 Professional Python pipeline for analysing OISST using global observational datasets.
 
 *   **Methodology:** Processed global Sea Surface Temperature (SST) to identify spatial thermal patterns linked to ocean-atmosphere interactions, highlighting the historical 1998 Strong El Niño event.
-*   **Technical Stack:** Python (`Xarray`, `NetCDF4`, `Cartopy`, `Matplotlib`, assisted by advanced AI prompt engineering).
+*   **Technical Stack:** Python (`Xarray`, `NetCDF4`, `Cartopy`, `Matplotlib`).
 *   [👉 View Climate Visualization](pwp_domain_definition_19980331.png)
 
 ![SST Map Visualization](pwp_domain_definition_19980331.png)
@@ -196,7 +196,6 @@ _NavLab_
 _Git
 _GitHub_
 
-
 ## Programming
 
 _Python_
@@ -209,13 +208,13 @@ _Pandas_
 _SciPy_
 _Statsmodels_
 _Matplotlib_
+_PyWavelets_
 
 ## More
 
 _VS Code_
 _Jupyter_
 _NOAA Climate Data_
-_Machine Learning_
 
 ----------------------------------------------------
 ## Current Work
