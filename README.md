@@ -40,8 +40,10 @@ Areas where I can contribute include:
 
 - Hydrographic and offshore survey projects
 - AUV and marine survey operations
+- Marine geophysical survey acquisition and processing
 - Marine and metocean data analysis
 - Oceanographic observational programmes
+- Oceanographic mooring line installation, recovery and data processing
 - Environmental monitoring and scientific assessment
 - Hydrographic and oceanographic data QA/QC
 - Scientific Python development
@@ -60,7 +62,7 @@ Areas where I can contribute include:
 
 **Hydrographic Survey | Offshore Survey | Physical Oceanography | Metocean**
 
-**Marine Geophysics | Underwater Acoustics | Subsea Positioning**
+**Marine Geophysics | Underwater Acoustics | Subsea Positioning | AUV Operations**
 
 **Oceanographic Instrumentation | Environmental Monitoring | Ocean Observations**
 
@@ -92,33 +94,36 @@ This combination allows me to understand environmental and survey data not simpl
 | --- | --- | --- |
 | Multibeam bathymetry | Physical oceanography | Python & MATLAB |
 | AUV/HUGIN operations | CTD/SVP observations | Large environmental datasets |
-| Seabed mapping | ADCP/current measurements | NetCDF / gridded data |
-| Side-scan sonar | Oceanographic moorings | Statistics & time-series |
-| Sub-bottom profiling | Waves and currents | Spectral & wavelet analysis |
-| Offshore/subsea positioning | Satellite oceanography | Spatial analysis |
-| Pipeline & as-built surveys | SST / ENSO / climate variability | Scientific visualisation |
-| Dredging & backfilling | Environmental monitoring | Automated QA/QC & reproducibility |
+| High-resolution AUV surveys | ADCP/current measurements | NetCDF / gridded data |
+| Seabed mapping | Oceanographic moorings | Statistics & time-series |
+| Side-scan sonar | Waves and currents | Fourier & wavelet analysis |
+| Sub-bottom profiling | Satellite oceanography | Spatial analysis |
+| Offshore/subsea positioning | SST / ENSO / climate variability | Scientific visualisation |
+| Pipeline & as-built surveys | Environmental monitoring | Automated QA/QC |
+| Dredging & backfilling | Marine observations | Reproducible workflows |
 
 ---
 
-## Hydrographic Survey & Data Processing
+## Hydrographic, AUV & Offshore Survey
 
 ### Survey & Processing Software
 
 `CARIS HIPS / SIPS` | `Kongsberg SIS` | `Hydromap Multibeam` | `Fledermaus` | `NavLab` | `Hypack / Hysweep`
 
-Experience includes hydrographic acquisition and processing, bathymetric editing, real-time survey operations, sound-velocity integration, positioning and navigation data, seabed mapping, QA/QC and technical survey deliverables.
-
 ### Survey Applications
 
+- Hydrographic and marine geophysical surveys
 - Multibeam bathymetry and high-resolution seabed mapping
+- AUV high-resolution survey acquisition and processing
 - Real-time and post-processed hydrographic data
-- AUV survey acquisition and processing
 - Side-scan sonar and sub-bottom profiling
 - Pipeline-route, pre-lay, post-lay and as-built surveys
 - Shore approaches, dredging and backfilling monitoring
+- Offshore navigation and acoustic positioning
 - Environmental survey support
-- Survey planning, field execution and technical reporting
+- Survey planning and field execution
+- Real-time marine geophysical data analysis
+- Survey QA/QC and technical reporting
 
 ---
 
@@ -142,7 +147,7 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 
 ---
 
-## Oceanographic Instrumentation
+## Oceanographic Instrumentation & Field Operations
 
 ### CTD Systems & Sensors - Sea-Bird Scientific
 
@@ -158,7 +163,18 @@ Experience includes instrument configuration, CTD deployment, real-time acquisit
 
 **Software:** `PlanADCP` | `WinADCP` | `WinSC` | `BBTalk`
 
-Additional operational experience includes DVL data, current profiling, oceanographic moorings, instrument deployment/recovery, acoustic releases, Teledyne Benthos R-Series systems and environmental observations.
+Experience includes:
+
+- ADCP and DVL data acquisition and processing
+- Current profiling
+- Oceanographic mooring line installation
+- Mooring recovery
+- Mooring data processing and QA/QC
+- Instrument configuration
+- Acoustic releases
+- Teledyne Benthos R-Series systems
+- Wave and current observations
+- Environmental monitoring
 
 ### Marine Sampling & Observational Systems
 
@@ -180,21 +196,25 @@ Working directly with instruments and field observations provides important cont
 
 ### Analytical Capabilities
 
+- Python-based scientific data analysis
 - Large multidimensional ocean and climate datasets
 - NetCDF and gridded geophysical observations
 - Satellite sea-surface temperature
 - Statistical and time-series analysis
 - Spatial analysis and spherical geometry
 - Connected-component analysis
-- Fourier analysis
+- Fourier and wavelet analysis
 - Welch power spectral density
 - Continuous wavelet transforms
 - STL decomposition
 - Robust trend estimation
 - Occurrence and persistence analysis
+- Geospatial and satellite-data analysis
 - Scientific visualisation
 - Automated QA/QC
-- Scientific provenance and reproducibility
+- Scientific provenance
+- Reproducible computational workflows
+- Research-data management
 
 ---
 
@@ -231,7 +251,7 @@ The work combines daily satellite-derived SST observations with spherical geomet
 
 ### Southern Ocean Observational Data
 
-At the **University of Auckland Centre for eResearch**, I worked with irregularly sampled Southern Ocean observations, including **Argo profiling-float and animal-borne observations**, supporting regularly gridded observational fields and climatological products.
+At the **University of Auckland Centre for eResearch**, I worked with irregularly sampled Southern Ocean observations, including Argo profiling-float and animal-borne observations, supporting the development of regularly gridded observational fields and climatological products.
 
 This work combined physical-oceanographic interpretation with scientific data processing and was reported through the Centre for eResearch in 2019.
 
@@ -297,6 +317,16 @@ The study investigates the long-term evolution of the largest spatially connecte
 
 ---
 
+## Research Reports & Research Contributions
+
+### Machado, F. V. - University of Auckland Centre for eResearch (2019)
+
+Research contribution reported through the **University of Auckland Centre for eResearch Annual Report**, associated with Southern Ocean observational-data research.
+
+The work involved irregularly sampled ocean observations, including Argo profiling-float and animal-borne observations, and supported the development of regularly gridded observational fields and climatological products.
+
+---
+
 ## Scientific & Research Communication
 
 Scientific communication has been part of my work from early oceanographic research through postgraduate atmospheric science and current climate research.
@@ -308,14 +338,14 @@ Scientific communication has been part of my work from early oceanographic resea
 - **Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP** - Research seminar / oral presentation
 - **Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP** - Second research seminar / oral presentation
 
-### Poster Presentations
+### Poster & Conference Presentations
 
-- **Brazilian Symposium of Oceanography - SBO** - Scientific poster presentation
+- **Brazilian Symposium of Oceanography - SBO** - Scientific poster presentations
 - **Brazilian Congress of Oceanography - CBO** - Scientific poster presentation
 - **Brazilian Congress of Meteorology - CBMet** - Scientific poster presentation
 - **Regional Meeting of Applied and Computational Mathematics - ERMAC / SBMAC** - Scientific presentation
 
-### Conference Proceedings / Scientific Software
+### Conference Proceedings & Scientific Software
 
 **d'Avila, V. A., & Machado, F. V. (2004).**
 
@@ -329,16 +359,21 @@ This early work involved development of software for visualising ocean surface-t
 
 ## Offshore & Marine Survey Career
 
-My offshore career progressed from navigation, processing and survey-support responsibilities to AUV/HUGIN and multibeam operations, senior oceanographic work, field supervision, client-side technical support and project coordination.
+My offshore career progressed from navigation, processing and survey-support responsibilities to hydrographic surveying, Offshore Operations Party Chief responsibilities, metocean operations, AUV/HUGIN and multibeam operations, marine geophysical real-time data analysis, senior oceanographic work, field supervision, client-side technical support and project coordination.
 
 ### C&C Technologies do Brasil
 
-- Vessel-based hydrographic and marine-geophysical operations
-- AUV/HUGIN survey operations
+- Hydrographic and marine geophysical surveys
+- Offshore Operations Party Chief responsibilities
+- AUV/HUGIN high-resolution survey operations
+- HiPAP acoustic positioning
 - Multibeam acquisition and processing
-- Real-time marine-data processing
+- Marine geophysical real-time data analysis
+- Metocean services
+- Physical-oceanographic and meteorological observations
 - Navigation and positioning
 - ADCP/DVL and associated oceanographic data
+- Marine environmental programme support
 - Field QA/QC
 - Survey procedures and operational support
 
@@ -359,7 +394,7 @@ My offshore career progressed from navigation, processing and survey-support res
 - Freespan and shore-approach work
 - Dredging and backfilling projects
 - AUV high-resolution geophysical surveys
-- Oceanographic moorings
+- Oceanographic mooring projects
 - ADCP deployments
 - Client representation
 - Technical reporting and field support
@@ -386,31 +421,31 @@ Advanced study related to ocean and Earth-system dynamics, including marine and 
 
 **State University of Rio de Janeiro - UERJ, Brazil | 2002**
 
-Professional university education across physical, geological and chemical oceanography, hydrography, marine observations and environmental sciences, supported by mathematics, statistics and physics.
+Professional university education across physical, chemical, biological and geological oceanography, hydrography, marine observations and environmental sciences, supported by mathematics, statistics and physics.
 
 ---
 
-## Quantitative, Ocean & Atmospheric Science Foundation
+## Scientific & Quantitative Foundation
 
-### Mathematics & Statistics
+### Advanced Physics of the Ocean & Dynamics of the Atmosphere
 
-`Calculus I & II` | `Statistics` | `Differential Equations` | `Time-Series Analysis` | `Spherical Trigonometry`
-
-### Physics & Dynamics
-
-`Physics` | `Fluid Dynamics` | `Atmospheric Dynamics`
+`Fluid Dynamics` | `Wind Waves` | `Physics of the Ocean` | `Atmospheric Dynamics` | `Micrometeorology & Turbulence` | `Remote Sensing in Oceanography`
 
 ### Ocean Sciences
 
-`Physical Oceanography` | `Ocean Physics` | `Hydrography` | `Geological Oceanography` | `Marine Geophysics` | `Estuarine Oceanography`
+`Physical Oceanography` | `Chemical Oceanography` | `Biological Oceanography` | `Geological Oceanography` | `Marine Geophysics` | `Hydrography` | `Marine Pollution` | `Water-Mass Analysis` | `Astronomy & Navigation`
+
+### Coastal Oceanography & Marine Sciences
+
+`Estuarine Oceanography` | `Marine Pollution` | `Mangroves` | `Coastal Processes` | `Marine Ecology` | `Estuaries` | `Estuarine Water Quality` | `Hydrodynamic Modelling` | `Tides` | `Paleontology` | `Cartography`
 
 ### Atmospheric & Climate Sciences
 
-`Meteorology` | `Climatology` | `Atmospheric Dynamics` | `Micrometeorology` | `Climate Variability` | `Ocean-Atmosphere Interaction`
+`Meteorology` | `Climatology` | `Atmospheric Dynamics` | `Micrometeorology` | `Climate Variability` | `Ocean-Atmosphere Interaction` | `Stochastic Processes & Time Series in Climatology and Meteorology` | `Observational Methods in Mesoscale Climatology and Meteorology`
 
-### Navigation & Geospatial Sciences
+### Mathematics & Statistics
 
-`Navigation` | `Astronomy` | `Spherical Trigonometry` | `GIS` | `Spatial / Geographic Data`
+`Advanced Differential & Integral Calculus I & II` | `Statistics` | `Differential Equations` | `Time-Series Analysis` | `Spherical Trigonometry` | `Introduction to Data Processing` | `Stochastic Processes`
 
 This interdisciplinary foundation allows me to move between the **underlying physics, observations and computational analysis** rather than treating environmental data as abstract numerical inputs.
 
@@ -418,7 +453,7 @@ This interdisciplinary foundation allows me to move between the **underlying phy
 
 ## Advanced Scientific & Professional Training
 
-- **Advanced fluid dynamics / Navier-Stokes training** - National Laboratory for Scientific Computing (LNCC), Brazil
+- **Instability Problems - LNCC (2003)** - Advanced scientific training related to instability problems, applied mathematics and physical systems
 - **Summer School in Geophysics** - National Observatory / Ministry of Science and Technology, Brazil
 - **Mid-Ocean Ridge Geophysics** - LAGEMAR / Fluminense Federal University & Universite de Bretagne Occidentale
 - **Estuarine Oceanography** - Oceanographic Institute, University of Sao Paulo
@@ -426,6 +461,11 @@ This interdisciplinary foundation allows me to move between the **underlying phy
 - **Satellite Oceanography**
 - **CARIS HIPS** - Hydrographic data-processing training
 - **Sea-Bird CTD** - Instrument operation and data processing
+
+### Additional Marine Science Training
+
+- **Morphology of Elasmobranchii - UERJ (2002)**
+- Additional specialist courses and scientific training across oceanography, marine science, geophysics, atmospheric science and environmental observations
 
 ---
 
@@ -472,13 +512,19 @@ This early combination of **physical oceanography, computing and underwater acou
 
 ## Professional & Academic Recognition
 
-Independent professional and academic references document different stages of my development from scientific programming and oceanographic research to offshore data analysis, AUV operations, field coordination and subsea project delivery.
+My offshore survey and scientific work is supported by professional and academic references covering different stages of my career.
+
+### Donizeti de Jesus Carneiro, PhD - C&C Technologies
+
+A professional reference from former C&C Technologies do Brasil Business Development Manager and Brazilian Branch Director **Donizeti de Jesus Carneiro** documents my work across hydrographic, marine-geophysical, AUV high-resolution, metocean and earth-science data projects.
+
+The reference records progression through responsibilities including Hydrographic Surveyor, Offshore Operations Party Chief, Metocean Specialist, HiPAP/AUV Operator and Marine Geophysical Real-Time Data Analyst.
 
 ### David Aucoin - Offshore Survey & AUV Operations
 
 A professional testimonial from former Offshore Manager **David Aucoin** documents my work aboard the **R/V Northern Resolution** and **Rig Supporter** in AUV survey operations, data acquisition and processing.
 
-His assessment particularly recognised my ability to identify potential technical and data-quality problems, develop procedures and assume responsibility in operational and analytical environments.
+His assessment particularly recognised my ability to identify potential technical and data-quality problems and develop procedures to address operational problems.
 
 ### Luciano Arvelo - Subsea & Marine Projects
 
