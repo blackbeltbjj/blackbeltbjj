@@ -1,321 +1,539 @@
-
-<p align="center">
+﻿<p align="center">
   <img src="images/blackbeltbjjBanner.png" alt="Fabio Vieira Machado" width="100%">
 </p>
 
-## Using authentic data to better understand Earth's climate system.
+<h1 align="center">Fabio Vieira Machado</h1>
 
-----------------------------------------------------
-# Hi, I'm Fabio
-----------------------------------------------------
+<p align="center">
+  <strong>Oceanographer Â· Hydrographic & Offshore Survey Â· Metocean Â· Scientific Data</strong>
+</p>
 
-Climate Scientist • Oceanographer • Scientific Python Developer
+<p align="center">
+  <em>From measurements at sea to defensible scientific information.</em>
+</p>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <strong>20+ years spanning offshore survey operations, oceanographic observations, marine geophysics, subsea project support, scientific data analysis and climate research.</strong>
+</p>
 
-I develop reproducible Python tools for climate variability, ocean–atmosphere interactions, and oceanographic data analysis, with a focus on ENSO variability, the Pacific Warm Pool, time-series analysis, statistical modelling, and scientific visualization. My goal is to combine scientific research, open-source software, and education to better understand climate variability and make authentic climate data more accessible.
-
-----------------------------------------------------
-## Featured Projects
-----------------------------------------------------
-
-### ENSO Time-Series Analysis & SST Mapping
-Professional Python pipeline for analysing OISST using global observational datasets.
-
-*   **Methodology:** Processed global Sea Surface Temperature (SST) to identify spatial thermal patterns linked to ocean-atmosphere interactions, highlighting the historical 1998 Strong El Niño event.
-*   **Technical Stack:** Python (`Xarray`, `NetCDF4`, `Cartopy`, `Matplotlib`).
-*   [👉 View Climate Visualization](pwp_domain_definition_19980331.png)
-
-![SST Map Visualization](pwp_domain_definition_19980331.png)
+<p align="center">
+  Based in New Zealand Â· Available for consulting, project-based and fixed-term assignments nationally and internationally
+</p>
 
 ---
 
-### Pacific Warm Pool (PWP) Dynamics, STL Decomposition & Wavelets
-Investigating the annual and interannual variability of the Pacific Warm Pool (area and centroid longitude) using advanced climate diagnostics, non-linear signal processing, and rigorous algorithm validation.
+## Professional Profile
 
-*   **Methodology:** Applied Continuous Wavelet Transform (CWT) to isolate low-frequency variability and track physical shifts in the PWP centroid boundaries, zonal core migration, and surface area. Implemented **STL Decomposition (Seasonal & Trend decomposition using LOESS)** to robustly decouple long-term climate change trends from seasonal cycles and stochastic anomalies.
-*   **Algorithm Verification:** Developed a robust **Synthetic Validation Pipeline** featuring known multi-frequency signals and stochastic noise components to benchmark, calibrate, and verify the accuracy of the Wavelet spectral decomposition code before deploying it on raw observational datasets.
-*   **Technical Stack:** Python (`Statsmodels.tsa.seasonal.STL`, `PyWavelets`, `Xarray`, `SciPy.signal`, `Matplotlib`).
+I am an oceanographer, hydrographic survey professional and scientific data specialist whose career bridges **field operations and quantitative science**.
 
-#### Climate Signal Diagnostics & Code Validation:
-*   [👉 View STL Decomposition - PWP Total Area Expansion](pwp_stl_area.png)
-*   [👉 View STL Decomposition - Longitude Core Shifts](pwp_stl_longitude.png)
-*   [👉 View Wavelet Power Spectrum - Area Variability](pwp_wavelet_tc_area.png)
-*   [👉 View Wavelet Power Spectrum - Longitude Core Shifts](pwp_wavelet_tc_longitude.png)
-*   [👉 View Pipeline Code Verification - Synthetic Wavelet Validation Chart](pwp_wavelet_tc_synthetic_validation.png)
+My experience spans satellite oceanography and climate research, vessel-based hydrographic and marine-geophysical surveys, AUV/HUGIN and multibeam operations, acoustic positioning, oceanographic instrumentation, subsea project support, environmental observations, scientific computing and reproducible ocean and climate research.
 
-![Longitude Core Shifts](pwp_wavelet_tc_longitude.png)
+I have worked across the data lifecycle:
 
-![Wavelet Synthetic validation](pwp_wavelet_tc_synthetic_validation.png)
+**sensor deployment â†’ positioning â†’ real-time acquisition â†’ processing â†’ QA/QC â†’ analysis â†’ interpretation â†’ technical and scientific reporting**
 
-**Machado & d’Ávila (2006)**
-Machado, F. V., & d’Ávila, V. A. (2006). A Track and Area of the Pacific Warm Pool. Revista Brasileira de Meteorologia, 21(2), 161–169.
-
-**Machado & d’Ávila (2014)**
-Machado, F. V., & d’Ávila, V. A. (2014). The Centroid of the Pacific Warm Pool as an Index for the El Niño and La Niña Phenomena. Revista Brasileira de Meteorologia, 29(3), 443–456. https://doi.org/10.1590/0102-778620130595
+This combination allows me to understand environmental and survey data not simply as numerical products, but as measurements shaped by instrumentation, positioning, environmental conditions, acquisition procedures and physical processes.
 
 ---
 
-### Southern Ocean Climatology and changes from observations
+## Professional Capabilities
 
-Evenly spaced observation fields from irregularly sampled data in the Southern Ocean 
-- Argo and Seal data were combined to create a climatology for the Southern Ocean 
-
-<img width="404" height="395" alt="image" src="https://github.com/user-attachments/assets/467602e7-9466-4694-981b-ccfdced4b64f" />
-
-<img width="900.4" height="380.8" alt="image" src="https://github.com/user-attachments/assets/e22ab7a6-4ad4-4789-b189-9c186bcf15cf" />
-
-VIEIRA MACHADO, Fabio. Evenly spaced observation fields from irregularly sampled data in the Southern Ocean. In: **2019 Annual Report**. Auckland: Centre for eResearch, University of Auckland, 2019. p. 50–55.
-
----
-
-### Climate Data for Education
-Educational resources and interactive pipelines demonstrating how authentic, large-scale climate datasets can be used to teach advanced statistics, time-series decomposition, and data science.
-
-*   **Methodology:** Developed curriculum-ready visualization workflows focusing on signal extraction. The core module acts as a visual teaching aid to demonstrate climate variance, helping students isolate the underlying global warming trend from seasonal and interannual noise.
-*   **Technical Stack:** Python (`Pandas`, `Statsmodels`, `Matplotlib`), Signal Decomposition, Climate Literacy.
-*  ![Longitude Core Shifts](pwp_stl_longitude.png)
-
-
-#### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
-*   **Objective:** Identify low-lying civil infrastructure vulnerable to the joint impacts of IPCC Sea-Level Rise (SLR) scenarios and extreme storm surge events up to the year 2100 within the Whangārei Harbour.
-*   **Engineering Outcomes:** Established a critical design flood level threshold of **3.00 meters** via spatial masking workflows. The diagnostics revealed that **74.7%** of the evaluated low-elevation coastal boundary sits within high-risk asset loss zones if nature-based infrastructure solutions or engineered seawalls are not implemented.
-*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 View Source Code](coastal_flooding_analysis.py) | [👉 View Hazard Map Visualization](whangarei_coastal_flooding_map.png)
-
-### Coastal Engineering & Climate Adaptation (New Zealand)
-
-#### 1. Coastal Inundation Risk & Sea-Level Rise Mapping (Onerahi, Whangārei Harbour)
-*   **Objective:** Identify low-lying civil infrastructure vulnerable to the joint impacts of IPCC Sea-Level Rise (SLR) scenarios and extreme storm surge events up to the year 2100 within the Whangārei Harbour.
-*   **Engineering Outcomes:** Established a critical design flood level threshold of **3.00 meters** via spatial masking workflows. The diagnostics revealed that **74.7%** of the evaluated low-elevation coastal boundary sits within high-risk asset loss zones if nature-based infrastructure solutions or engineered seawalls are not implemented.
-*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 View Source Code](coastal_flooding_analysis.py) | [👉 View Hazard Map Visualization](whangarei_coastal_flooding_map.png)
-
-#### 2. Extreme Wave Climate Modeling & Design Limit Analysis (Bream Bay, Northland)
-*   **Objective:** Establish the historical wave climate baseline to determine structural design constraints and engineering tolerances for local offshore energy and marine infrastructure developments.
-*   **Operational Insights:** Processed hourly significant wave height data ($H_s$) to calculate the **95th Percentile extreme operating limit ($H_s = 2.45\text{m}$)**. Modeled severe winter storm anomalies to evaluate structural asset survivability against peak wave impacts reaching **4.41 meters**.
-*   **Technical Stack:** Python (`NumPy`, `Pandas`, `Matplotlib`).
-*   [👉 View Source Code](wave_analysis.py) | [👉 View Wave Diagnostics Chart](bream_bay_wave_analysis.png)
-
----
-----------------------------------------------------
-## Research Interests
-----------------------------------------------------
-
-_El Niño–Southern Oscillation 
-      and Climate variability_
-
-_Ocean-Atmosphere interaction_
-
-_Physics of the Ocean_
-
-_Ocean heat content_
-
-_Pacific Warm Pool dynamic_
-
-_Dynamics of the Atmosphere_
-
-_Oceanographic Instrumentation_
-
-_AUV High resolution 
-      data processing and collection_ 
-
-_Sea floor Information System_
-
-----------------------------------------------------
-## Featured Projects
-----------------------------------------------------
-
-_Scientific computing 
-      with Python and Matlab_
-
-_Wavelet analysis and 
-      scale-averaged wavelet variance 
-            for non-stationary dataset_
-
-_Time-series analysis, seasonal variations, 
-      long-term trends and forecasting_ 
-
-_Sea Surface Temperature (SST) analysis_
-
-_Evenly spaced observation fields 
-      from irregularly sampled data_
-
-_Hydrographic high resolution 
-      data processing (MBE, SVP, CTD)_
-
-_AUV high-resolution survey_
-
-_Climate education 
-      using authentic datasets_
-
-### ENSO Time-Series Analysis
-
-_Pacific Warm Pool Scale-Dependent Variability_
-
-_Threshold-Dependent Expansion, Seasonality, and 
-      Spatial Reorganization of the Pacific Warm Pool_
-
-_Defining the Pacific Warm Pool: Threshold Dependence of 
-      Centroid Geometry and Robustness of Interannual Variance Modulation_
-
-_Variability, expansion and spatial organization of 
-      the 28 °C Pacific Warm Pool from 1981 to 2026_
-
-_ENSO indices analysis_
-
-## Pacific Warm Pool
-
-_Pacific Warm Pool dynamics_
-
-_ENSO event classification and 
-        temporal evolution of Pacific warm-pool geometry_
-
-_Integrated sequence of 
-        tropical-Pacific reorganization_
-
-_Investigating annual and 
-        interannual variability of the Pacific Warm Pool_
-
-_Pacific Warm Pool
-    surface-area variability and long-term change_
+| Hydrographic & Offshore Survey | Oceanography & Metocean | Scientific Data |
+| --- | --- | --- |
+| Multibeam bathymetry | Physical oceanography | Python & MATLAB |
+| AUV/HUGIN operations | CTD/SVP observations | Large environmental datasets |
+| Seabed mapping | ADCP/current measurements | NetCDF / gridded data |
+| Side-scan sonar | Oceanographic moorings | Statistics & time-series |
+| Sub-bottom profiling | Waves and currents | Spectral & wavelet analysis |
+| Offshore/subsea positioning | Satellite oceanography | Spatial analysis |
+| Pipeline & as-built surveys | SST / ENSO / climate variability | Scientific visualisation |
+| Dredging & backfilling | Environmental monitoring | Automated QA/QC & reproducibility |
 
 ---
 
-## Climate Data for Education
+## Hydrographic Survey & Data Processing
 
-_Authentic climate datasets 
-      as Educational resources for 
-            the teaching of statistics in high school_
+### Survey & Processing Software
 
-----------------------------------------------------
-## Skills
-----------------------------------------------------
+`CARIS HIPS / SIPS` Â· `Kongsberg SIS` Â· `Hydromap Multibeam` Â· `Fledermaus` Â· `NavLab` Â· `Hypack / Hysweep`
 
-_NavLab_
-_Git
-_GitHub_
+Experience includes hydrographic acquisition and processing, bathymetric editing, real-time survey operations, sound-velocity integration, positioning and navigation data, seabed mapping, QA/QC and technical survey deliverables.
 
-## Programming
+### Survey Applications
 
-_Python_
-_MatLab_
+- Multibeam bathymetry and high-resolution seabed mapping
+- Real-time and post-processed hydrographic data
+- AUV survey acquisition and processing
+- Side-scan sonar and sub-bottom profiling
+- Pipeline-route, pre-lay, post-lay and as-built surveys
+- Shore approaches, dredging and backfilling monitoring
+- Environmental survey support
+- Survey planning, field execution and technical reporting
 
-## Scientific Python
+---
 
-_NumPy_
-_Pandas_
-_SciPy_
-_Statsmodels_
-_Matplotlib_
-_PyWavelets_
+## Acoustic Positioning & Subsea Navigation
 
-## More
+`Kongsberg HiPAP` Â· `APOS` Â· `C-NAV DGPS` Â· `USBL` Â· `LBL` Â· `AUV / HUGIN`
 
-_VS Code_
-_Jupyter_
-_NOAA Climate Data_
+Experience with offshore navigation, subsea acoustic positioning and autonomous survey operations, including AUV mission support and integration of navigation, positioning and survey data.
 
-----------------------------------------------------
-## Current Work
-----------------------------------------------------
+My background in physical oceanography and underwater acoustics provides additional understanding of environmental influences on sound propagation and subsea positioning.
 
-Currently developing open and reproducible software for:
+---
 
-_Daily Sea Surface 
-      Temperature analysis (1981–present)_
+## Multibeam, Sonar & Marine Geophysical Systems
 
-_ENSO monitoring and analysis_
+`Kongsberg EM 2042` Â· `EM 2040 MKII` Â· `EM 712 / EM 712S` Â· `EM 710` Â· `EM 302` Â· `EM 3000`
 
-_Pacific Warm Pool variability_
+`MBES` Â· `Side-Scan Sonar` Â· `Sub-Bottom Profiler` Â· `Marine Geophysics`
 
-_Scientific software for 
-      research and education_
+Applications have included high-resolution seabed mapping, pipeline and subsea-infrastructure surveys, route investigation, environmental surveys and offshore project support.
 
-_Python climate analysis toolkit_
+---
 
-_Educational resources using 
-      authentic climate datasets_
+## Oceanographic Instrumentation
 
-_Pacific Warm Pool 
-      Scale-Dependent Variability_
+### CTD Systems & Sensors â€” Sea-Bird Scientific
 
-_Threshold-Dependent Expansion, Seasonality, 
-      and Spatial Reorganization of the Pacific Warm Pool_
+`SBE 19+ SeaCAT` Â· `SBE 19+ V2 SeaCAT` Â· `SBE 3+ Temperature` Â· `SBE 4+ Conductivity` Â· `SBE 5e Pump` Â· `SBE 37 MicroCAT`
 
-## Scientific Workflow
+**Acquisition & Processing:** `SeaTerm` Â· `Seasave` Â· `SBE Data Processing`
 
-Climate Data
+Experience includes instrument configuration, CTD deployment, real-time acquisition, data conversion, filtering, alignment, QA/QC and interpretation of physical-oceanographic profiles.
 
-↓
+### ADCP, Currents & Mooring Systems
 
-Quality Control
+`Teledyne RDI Workhorse Long Ranger 75 kHz` Â· `Teledyne RDI Workhorse Sentinel 300 / 600 / 1200 kHz` Â· `Nortek Aquadopp Profiler / Current Meter`
 
-↓
+**Software:** `PlanADCP` Â· `WinADCP` Â· `WinSC` Â· `BBTalk`
 
-Statistical Analysis
+Additional operational experience includes DVL data, current profiling, oceanographic moorings, instrument deployment/recovery, acoustic releases, Teledyne Benthos R-Series systems and environmental observations.
 
-↓
+### Marine Sampling & Observational Systems
 
-Time-Series Modelling
+Multi-bottle rosette systems Â· Nansen bottles Â· Plankton nets Â· Box-core sediment samplers Â· Oceanographic moorings Â· Wave buoys Â· CTD/SVP casts Â· Current-meter deployments
 
-↓
+Working directly with instruments and field observations provides important context when assessing the quality, uncertainty and physical meaning of environmental datasets.
 
-Wavelet analysis
+---
 
-↓
+## Scientific Computing & Environmental Data
 
-Forecasting
+**Languages & environments:**
+`Python` Â· `MATLAB` Â· `Unix / Linux` Â· `Windows` Â· `Git` Â· `GitHub` Â· `Jupyter` Â· `VS Code`
 
-↓
+**Python scientific stack:**
+`NumPy` Â· `pandas` Â· `SciPy` Â· `xarray` Â· `Statsmodels` Â· `Matplotlib` Â· `PyWavelets`
 
-Scientific Visualisation
+### Analytical Capabilities
 
-↓
+- Large multidimensional ocean and climate datasets
+- NetCDF and gridded geophysical observations
+- Satellite sea-surface temperature
+- Statistical and time-series analysis
+- Spatial analysis and spherical geometry
+- Connected-component analysis
+- Fourier analysis
+- Welch power spectral density
+- Continuous wavelet transforms
+- STL decomposition
+- Robust trend estimation
+- Occurrence and persistence analysis
+- Scientific visualisation
+- Automated QA/QC
+- Scientific provenance and reproducibility
 
-Publication
+---
 
-----------------------------------------------------
-GitHub Statistics
-----------------------------------------------------
+## Selected Research & Technical Work
 
-This GitHub account documents the development of scientific software, climate analysis workflows, and educational resources. Each repository is designed to be reproducible, well documented, and suitable for both research and teaching.
+### Pacific Warm Pool â€” Spatial Connectivity & Long-Term Change
 
-- contribution activity
+My current research uses daily **NOAA OISST v2.1** observations to investigate the geometry, variability and spatial organisation of the Pacific Warm Pool.
 
-- language usage
+The analysis covers **16,403 consecutive daily observations** from **1 September 1981 to 29 July 2026**, using a **0.25Â° Ã— 0.25Â°** SST product and multiple warm-pool thresholds.
 
-- repository statistics
+`Spherical Geometry` Â· `Connected Components` Â· `STL` Â· `Theilâ€“Sen Trends` Â· `Welch Spectra` Â· `Continuous Wavelets` Â· `Occurrence & Persistence`
 
-- streaks
+**Repository:** [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence)
 
-- trophies
+**Reproducibility Archive:** [Zenodo â€” Version 1.0.0](https://doi.org/10.5281/zenodo.22499662)
 
-These update automatically.
+<p align="center">
+  <img src="pwp_domain_definition_19980331.png" alt="Pacific Warm Pool analysis" width="82%">
+</p>
 
-----------------------------------------------------
-## Philosophy
-----------------------------------------------------
+### Pacific Warm Pool â€” Threshold & Centroid Geometry
 
-I believe that scientific research should be:
+A complementary research programme examines how the SST threshold used to define the Pacific Warm Pool affects its diagnosed area, centroid, spatial geometry, connectivity and temporal variability.
 
-Reproducible
-Transparent
-Open-source
-Well documented
-Accessible to researchers, educators, and students
+The work combines daily satellite-derived SST observations with spherical geometry, geodesic calculations, connected-component analysis and time-frequency diagnostics.
 
-----------------------------------------------------
-##  Contact
-----------------------------------------------------
+**Repositories:**
 
-Email: fvmachado.oceanscience@gmail.com./.
+- [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP)
+- [pwp-threshold-centroid-sensitivity](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity)
 
-ORCID: https://orcid.org/0000-0003-0723-075X ./.
+<p align="center">
+  <img src="pwp_wavelet_tc_longitude.png" alt="Pacific Warm Pool time-frequency analysis" width="82%">
+</p>
 
-Google Scholar: https://scholar.google.com/citations?hl=en&user=RkFTqu8AAAAJ ./.
+### Southern Ocean Observational Data
 
-LinkedIn ./.
+At the **University of Auckland Centre for eResearch**, I worked with irregularly sampled Southern Ocean observations, including **Argo profiling-float and animal-borne observations**, supporting regularly gridded observational fields and climatological products.
 
+This work combined physical-oceanographic interpretation with scientific data processing and was reported through the Centre for eResearch in 2019.
 
-Outside research, I enjoy Brazilian Jiu-Jitsu, surfing, bodyboarding, and spending time at the beach
+---
+
+## From Early Satellite Oceanography to Reproducible Scientific Software
+
+My Pacific climate research began during my undergraduate work in Physical Oceanography.
+
+In 1999â€“2000, a FAPERJ-supported project at the State University of Rio de Janeiro involved developing **C++ and Fortran software** to process NOAA/AVHRR sea-surface temperature observations, calculate Pacific Warm Pool area and centroid, analyse time series, generate scientific graphics and communicate results through reports and seminars.
+
+That work subsequently developed into conference presentations and peer-reviewed research.
+
+Today, related scientific questions are being revisited using daily high-resolution satellite observations, Python, spherical geometry, spatial-connectivity analysis, modern time-frequency methods, version control and reproducible research infrastructure.
+
+<p align="center">
+  <strong>Satellite SST & C++/Fortran â†’ PWP/ENSO research â†’ Offshore oceanography â†’ AUV/HUGIN & multibeam â†’ Subsea projects â†’ Southern Ocean data â†’ Python & reproducible climate science</strong>
+</p>
+
+---
+
+## Research Manuscripts â€” 2026
+
+### Journal of Atmospheric and Oceanic Technology
+
+**Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation**
+
+*Submitted August 2026.*
+
+The study examines how 28.0, 28.5 and 29.0 Â°C SST definitions alter diagnosed Pacific Warm Pool area, centroid position, spatial geometry and displacement while assessing the robustness of interannual variance modulation across thresholds.
+
+### Revista Brasileira de Meteorologia
+
+**Variability, Expansion and Spatial Organization of the 28 Â°C Pacific Warm Pool from 1981 to 2026**
+
+*Submitted 28 August 2026.*
+
+The study examines daily PWP28 area, long-term expansion, seasonality, temporal variability and spatial connectivity using NOAA OISST v2.1.
+
+### Journal of Climate
+
+**Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981â€“2026**
+
+*Submitted September 2026.*
+
+The study investigates the long-term evolution of the largest spatially connected warm-water component across multiple SST thresholds, integrating trends, seasonality, spectral variability, spatial occurrence and connectivity diagnostics.
+
+---
+
+## Peer-Reviewed Publications
+
+### Machado, F. V., & d'Ãvila, V. A. (2014)
+
+**O centrÃ³ide da piscina de Ã¡gua quente do PacÃ­fico como um indicador dos fenÃ´menos El NiÃ±o e La NiÃ±a.**
+
+*Revista Brasileira de Meteorologia, 29*, 443â€“456.
+
+[DOI: 10.1590/0102-778620130595](https://doi.org/10.1590/0102-778620130595)
+
+### Machado, F. V., & d'Ãvila, V. A. (2006)
+
+**A trajetÃ³ria e a Ã¡rea da piscina de Ã¡gua quente do PacÃ­fico.**
+
+*Revista Brasileira de Meteorologia, 21*, 161â€“169.
+
+---
+
+## Scientific & Research Communication
+
+Scientific communication has been part of my work from my early oceanographic research through postgraduate atmospheric science and current climate research.
+
+### Oral Presentations & Research Seminars
+
+- **Brazilian Congress of Meteorology â€” CBMet** â€” Oral scientific presentation
+- **Laboratory for Computing and Applied Mathematics â€” LAC / INPE** â€” Oral scientific presentation
+- **Institute of Astronomy, Geophysics and Atmospheric Sciences â€” IAG-USP** â€” Research seminar / oral presentation
+- **Institute of Astronomy, Geophysics and Atmospheric Sciences â€” IAG-USP** â€” Second research seminar / oral presentation
+
+### Poster Presentations
+
+- **Brazilian Symposium of Oceanography â€” SBO** â€” Scientific poster presentation
+- **Brazilian Congress of Oceanography â€” CBO** â€” Scientific poster presentation
+- **Brazilian Congress of Meteorology â€” CBMet** â€” Scientific poster presentation
+- **Regional Meeting of Applied and Computational Mathematics â€” ERMAC / SBMAC** â€” Scientific presentation
+
+### Conference Proceedings / Scientific Software
+
+**d'Ãvila, V. A., & Machado, F. V. (2004).**
+
+*Programa para a visualizaÃ§Ã£o da grade de temperatura superficial dos oceanos e ediÃ§Ã£o de mÃ¡scaras numÃ©ricas continentais.*
+
+**Congresso Brasileiro de Meteorologia â€” CBMet, Proceedings.**
+
+This early work involved development of software for visualising ocean surface-temperature grids and manipulating numerical continental masks.
+
+---
+
+## Education
+
+### MSc â€” Meteorology / Atmospheric Sciences
+
+**University of SÃ£o Paulo â€” USP, Brazil**
+
+Advanced postgraduate study in atmospheric and climate sciences, including atmospheric dynamics, meteorology, micrometeorology, climate variability and oceanâ€“atmosphere processes.
+
+**NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
+
+### Postgraduate Study â€” Ocean & Earth Dynamics
+
+**Fluminense Federal University â€” UFF, Brazil**
+
+Advanced study related to ocean and Earth-system dynamics, including marine and geophysical processes.
+
+### BSc â€” Oceanography
+
+**State University of Rio de Janeiro â€” UERJ, Brazil Â· 2002**
+
+Professional university education across physical, geological and chemical oceanography, hydrography, marine observations and environmental sciences, supported by mathematics, statistics and physics.
+
+---
+
+## Quantitative, Ocean & Atmospheric Science Foundation
+
+### Mathematics & Statistics
+
+`Calculus I & II` Â· `Statistics` Â· `Differential Equations` Â· `Time-Series Analysis` Â· `Spherical Trigonometry`
+
+### Physics & Dynamics
+
+`Physics` Â· `Fluid Dynamics` Â· `Navierâ€“Stokes Equations` Â· `Atmospheric Dynamics`
+
+### Ocean Sciences
+
+`Physical Oceanography` Â· `Ocean Physics` Â· `Hydrography` Â· `Geological Oceanography` Â· `Marine Geophysics` Â· `Estuarine Oceanography`
+
+### Atmospheric & Climate Sciences
+
+`Meteorology` Â· `Climatology` Â· `Atmospheric Dynamics` Â· `Micrometeorology` Â· `Climate Variability` Â· `Oceanâ€“Atmosphere Interaction`
+
+### Navigation & Geospatial Sciences
+
+`Navigation` Â· `Astronomy` Â· `Spherical Trigonometry` Â· `GIS` Â· `Spatial / Geographic Data`
+
+This interdisciplinary foundation allows me to move between the **underlying physics, observations and computational analysis** rather than treating environmental data as abstract numerical inputs.
+
+---
+
+## Advanced Scientific & Professional Training
+
+- **Navierâ€“Stokes Equations & Turbulence** â€” National Laboratory for Scientific Computing (LNCC), Brazil
+- **Summer School in Geophysics** â€” National Observatory / Ministry of Science and Technology, Brazil
+- **Mid-Ocean Ridge Geophysics** â€” LAGEMAR / Fluminense Federal University & UniversitÃ© de Bretagne Occidentale
+- **Estuarine Oceanography** â€” Oceanographic Institute, University of SÃ£o Paulo
+- **Physical Oceanography of the South Atlantic** â€” Federal University of Rio Grande (FURG)
+- **Satellite Oceanography**
+- **CARIS HIPS** â€” Hydrographic data-processing training
+- **Sea-Bird CTD** â€” Instrument operation and data processing
+
+---
+
+## Early Career & Research Foundation
+
+### Climate Group â€” CPTEC / INPE
+
+**Research Internship Â· 1999**
+
+Early experience within the Climate Group at Brazil's **Center for Weather Forecasting and Climate Studies (CPTEC/INPE)**, under the supervision of Dr. JosÃ© Antonio Marengo Orsini.
+
+This experience contributed to my early development in meteorology, climate variability and oceanâ€“atmosphere science.
+
+### Physical Oceanography & Satellite Data â€” UERJ / FAPERJ
+
+**Undergraduate Research Â· 1999â€“2000**
+
+Worked on the FAPERJ-supported research project **â€œA Mathematical Model for the El NiÃ±o Phenomenonâ€** at the State University of Rio de Janeiro.
+
+Activities included:
+
+- NOAA/AVHRR satellite SST observations
+- C++ and Fortran scientific programming
+- Pacific Warm Pool area calculations
+- Centroid calculations
+- Time-series analysis
+- Scientific graphics
+- Technical reports
+- Scientific seminars and conference presentations
+
+### Brazilian Navy â€” IEAPM
+
+**Oceanographic Data Processing Internship Â· 2000**
+
+**Almirante Paulo Moreira Institute of Sea Studies â€” IEAPM**
+Propagation Projects Division
+
+Worked with physical-oceanographic data processing and computational routines associated with the marine environment and underwater sound propagation.
+
+This early combination of **physical oceanography, computing and underwater acoustics** later became directly relevant to offshore hydrographic surveying, acoustic positioning and subsea operations.
+
+---
+
+## Offshore & Marine Survey Career
+
+My offshore career progressed from navigation, processing and survey-support responsibilities to AUV/HUGIN and multibeam operations, senior oceanographic work, field supervision, client-side technical support and project coordination.
+
+### C&C Technologies do Brasil
+
+- Vessel-based hydrographic and marine-geophysical operations
+- AUV/HUGIN survey operations
+- Multibeam acquisition and processing
+- Real-time marine-data processing
+- Navigation and positioning
+- ADCP/DVL and associated oceanographic data
+- Field QA/QC
+- Survey procedures and operational support
+
+### Petrobras
+
+- Marine survey and oceanographic work packages
+- Bathymetric, positioning and environmental datasets
+- Vessel and contractor activities
+- HSE and quality control
+- Procedures and risk assessments
+- Technical reporting
+- Multidisciplinary project coordination
+
+### Subsea Consult
+
+- Pipeline-route and subsea-infrastructure surveys
+- Pre-lay, post-lay and as-built surveys
+- Freespan and shore-approach work
+- Dredging and backfilling projects
+- AUV high-resolution geophysical surveys
+- Oceanographic moorings
+- ADCP deployments
+- Client representation
+- Technical reporting and field support
+
+---
+
+## Professional & Academic Recognition
+
+Independent professional and academic references document different stages of my development from scientific programming and oceanographic research to offshore data analysis, AUV operations, field coordination and subsea project delivery.
+
+### David Aucoin â€” Offshore Survey & AUV Operations
+
+A professional testimonial from former Offshore Manager **David Aucoin** documents my work aboard the **R/V Northern Resolution** and **Rig Supporter** in AUV survey operations, data acquisition and processing.
+
+His assessment particularly recognised my ability to identify potential technical and data-quality problems, develop procedures and assume responsibility in operational and analytical environments.
+
+### Luciano Arvelo â€” Subsea & Marine Projects
+
+A professional reference from **Luciano Arvelo** documents my work across subsea, hydrographic, geophysical and oceanographic projects.
+
+The documented work includes dredging and shallow-water geophysical surveys, field operational coordination, technical-report review, reconnaissance surveys, high-resolution AUV geophysical surveys, oceanographic mooring projects and coastal ADCP deployments.
+
+### Victor de Amorim d'Ãvila â€” Scientific Research
+
+An academic research reference from **Victor de Amorim d'Ãvila** documents my early physical-oceanography and Pacific-climate research, including NOAA/AVHRR satellite SST, C++ and Fortran programming, Pacific Warm Pool area and centroid calculations, time-series analysis, scientific visualisation, technical reporting and scientific presentations.
+
+### Academic References
+
+Additional academic documentation and references from **FAOC/UERJ** and the **University of SÃ£o Paulo** support my development in Oceanography, Meteorology, atmospheric science and oceanâ€“atmosphere research.
+
+**Professional and academic references are available when appropriate.**
+
+---
+
+## Reproducibility & Open Science
+
+For scientific work, producing a result is only part of the task. It should also be possible to establish **how the result was produced**.
+
+My current workflows incorporate:
+
+- Version-controlled source code
+- Explicit scientific configuration
+- Environment and dependency records
+- Input and output inventories
+- Automated quality control
+- Numerical validation
+- Metadata capture
+- SHA-256 integrity manifests
+- Tagged software releases
+- Persistent archival records
+- Zenodo DOI integration
+- Documented provenance from observations to publication products
+
+---
+
+## Teaching & Scientific Communication
+
+Alongside research and technical work, I have taught **Mathematics, Statistics, Physics and Science** in New Zealand.
+
+Teaching has strengthened an important part of my professional practice: communicating quantitative and scientific concepts clearly to people with different technical backgrounds.
+
+I am particularly interested in using **authentic environmental observations** to teach mathematics, statistics, data analysis and Earth-system science.
+
+---
+
+## Areas of Professional Interest
+
+**Hydrographic Survey** Â· **Offshore Survey** Â· **Physical Oceanography** Â· **Metocean**
+
+**Marine Geophysics** Â· **Underwater Acoustics** Â· **Subsea Positioning**
+
+**Oceanographic Instrumentation** Â· **Environmental Monitoring** Â· **Ocean Observations**
+
+**Climate Variability** Â· **ENSO** Â· **Pacific Warm Pool** Â· **Satellite Oceanography**
+
+**Scientific Python** Â· **Environmental Data Science** Â· **Time-Series Analysis**
+
+**Reproducible Research** Â· **Scientific Software** Â· **Research Data Management**
+
+---
+
+## Work With Me
+
+I am open to **consulting, project-based and fixed-term assignments** where oceanographic knowledge, offshore experience and quantitative data analysis can contribute to solving real scientific or operational problems.
+
+Areas where I can contribute include:
+
+- Hydrographic and offshore survey projects
+- AUV and marine survey operations
+- Marine and metocean data analysis
+- Oceanographic observational programmes
+- Environmental monitoring and scientific assessment
+- Hydrographic and oceanographic data QA/QC
+- Scientific Python development
+- Legacy scientific-data processing and modernisation
+- Climate and ocean time-series analysis
+- Research software and reproducibility
+- Technical and scientific reporting
+- Scientific collaboration
+- Research and educational projects using authentic environmental observations
+
+**New Zealand and international projects welcome.**
+
+---
+
+## Connect
+
+**Email:** fvmachado.oceanscience@gmail.com
+
+**ORCID:** [0000-0003-0723-075X](https://orcid.org/0000-0003-0723-075X)
+
+**GitHub:** [blackbeltbjj](https://github.com/blackbeltbjj)
+
+---
+
+<p align="center">
+  <strong>Ocean observations Â· Offshore operations Â· Scientific computing Â· Reproducible research</strong>
+</p>
+
+<p align="center">
+  <em>From measurements at sea to defensible scientific information.</em>
+</p>
