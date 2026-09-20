@@ -258,7 +258,7 @@ This work combined physical-oceanographic interpretation with scientific data pr
 **Methods:** Argo profiling floats | Animal-borne observations | Irregular sampling | Filtering | Gridding | Climatological products
 
 <p align="center">
-  <img src="images/southern_ocean_gridded_analysis.png" alt="Southern Ocean gridded analysis" width="57%">
+  <img src="images/southern_ocean_gridded_analysis.png" alt="Southern Ocean gridded analysis" width="45%">
 </p>
 
 <p align="center">
