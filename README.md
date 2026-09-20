@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="images/blackbeltbjjBanner.png" alt="Fabio Vieira Machado" width="100%">
 </p>
 
@@ -25,34 +25,27 @@
 ## Connect
 
 **Email:** [fvmachado.oceanscience@gmail.com](mailto:fvmachado.oceanscience@gmail.com)
-
 **ORCID:** [0000-0003-0723-075X](https://orcid.org/0000-0003-0723-075X)
-
 **GitHub:** [blackbeltbjj](https://github.com/blackbeltbjj)
 
 ---
 
 ## Work With Me
 
-I am open to **consulting, project-based and fixed-term assignments** where oceanographic knowledge, offshore experience and quantitative data analysis can contribute to solving real scientific or operational problems.
+I am open to **consulting, project-based and fixed-term assignments** where oceanographic knowledge, offshore experience and quantitative data analysis can contribute to solving scientific or operational problems.
 
 Areas where I can contribute include:
 
-- Hydrographic and offshore survey projects
-- AUV and marine survey operations
-- Marine geophysical survey acquisition and processing
+- Hydrographic, offshore and marine geophysical survey projects
+- AUV/HUGIN and subsea survey operations
 - Marine and metocean data analysis
-- Oceanographic observational programmes
-- Oceanographic mooring line installation, recovery and data processing
-- Environmental monitoring and scientific assessment
+- Oceanographic observational programmes and environmental monitoring
 - Hydrographic and oceanographic data QA/QC
-- Scientific Python development
-- Legacy scientific-data processing and modernisation
+- Scientific Python development and legacy scientific-data modernisation
 - Climate and ocean time-series analysis
-- Research software and reproducibility
+- Research software, reproducibility and research-data management
 - Technical and scientific reporting
-- Scientific collaboration
-- Research and educational projects using authentic environmental observations
+- Scientific collaboration and education using authentic environmental observations
 
 **New Zealand and international projects welcome.**
 
@@ -125,19 +118,13 @@ This combination allows me to understand environmental and survey data not simpl
 - Real-time marine geophysical data analysis
 - Survey QA/QC and technical reporting
 
----
-
-## Acoustic Positioning & Subsea Navigation
+### Acoustic Positioning & Subsea Navigation
 
 `Kongsberg HiPAP` | `APOS` | `C-NAV DGPS` | `USBL` | `LBL` | `AUV / HUGIN`
 
-Experience with offshore navigation, subsea acoustic positioning and autonomous survey operations, including AUV mission support and integration of navigation, positioning and survey data.
+Experience with offshore navigation, subsea acoustic positioning and autonomous survey operations, including AUV mission support and integration of navigation, positioning and survey data. My background in physical oceanography and underwater acoustics provides additional understanding of environmental influences on sound propagation and subsea positioning.
 
-My background in physical oceanography and underwater acoustics provides additional understanding of environmental influences on sound propagation and subsea positioning.
-
----
-
-## Multibeam, Sonar & Marine Geophysical Systems
+### Multibeam, Sonar & Marine Geophysical Systems
 
 `Kongsberg EM 2042` | `EM 2040 MKII` | `EM 712 / EM 712S` | `EM 710` | `EM 302` | `EM 3000`
 
@@ -163,18 +150,7 @@ Experience includes instrument configuration, CTD deployment, real-time acquisit
 
 **Software:** `PlanADCP` | `WinADCP` | `WinSC` | `BBTalk`
 
-Experience includes:
-
-- ADCP and DVL data acquisition and processing
-- Current profiling
-- Oceanographic mooring line installation
-- Mooring recovery
-- Mooring data processing and QA/QC
-- Instrument configuration
-- Acoustic releases
-- Teledyne Benthos R-Series systems
-- Wave and current observations
-- Environmental monitoring
+Experience includes ADCP and DVL acquisition and processing, current profiling, oceanographic mooring installation and recovery, instrument configuration, acoustic releases, Teledyne Benthos R-Series systems, wave/current observations, environmental monitoring and associated QA/QC.
 
 ### Marine Sampling & Observational Systems
 
@@ -218,35 +194,57 @@ Working directly with instruments and field observations provides important cont
 
 ---
 
-## Selected Research & Technical Work
+## Publications, Software & Reproducibility
 
-### Pacific Warm Pool - Spatial Connectivity & Long-Term Change
+My current research links scientific manuscripts with version-controlled computational workflows, audited software releases and persistent archival records where available.
 
-My current research uses daily **NOAA OISST v2.1** observations to investigate the geometry, variability and spatial organisation of the Pacific Warm Pool.
+### Pacific Warm Pool - Threshold Definition & Centroid Geometry
 
-The analysis covers **16,403 consecutive daily observations** from **1 September 1981 to 29 July 2026**, using a **0.25 x 0.25 degree** SST product and multiple warm-pool thresholds.
+**Manuscript:** *Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation*
 
-`Spherical Geometry` | `Connected Components` | `STL` | `Theil-Sen Trends` | `Welch Spectra` | `Continuous Wavelets` | `Occurrence & Persistence`
+**Journal:** Journal of Atmospheric and Oceanic Technology
+**Status:** Submitted 18 August 2026
 
-**Repository:** [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence)
+The study examines how 28.0, 28.5 and 29.0 degrees C SST definitions alter diagnosed Pacific Warm Pool area, centroid position, spatial geometry and displacement, while assessing the robustness of interannual variance modulation across thresholds.
 
-<p align="center">
-  <img src="pwp_domain_definition_19980331.png" alt="Pacific Warm Pool analysis" width="82%">
-</p>
+**Scientific software and data:**
 
-### Pacific Warm Pool - Threshold & Centroid Geometry
+- [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP) - [v1.0.0](https://github.com/blackbeltbjj/OSAF-PWP/releases/tag/v1.0.0) - [Zenodo DOI: 10.5281/zenodo.21964951](https://doi.org/10.5281/zenodo.21964951)
+- [pwp-threshold-centroid-sensitivity](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity) - [v1.0.0](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity/releases/tag/v1.0.0) - [Zenodo DOI: 10.5281/zenodo.21964955](https://doi.org/10.5281/zenodo.21964955)
+- Derived Data v1.0.0 - [Zenodo DOI: 10.5281/zenodo.21976955](https://doi.org/10.5281/zenodo.21976955)
 
-A complementary research programme examines how the SST threshold used to define the Pacific Warm Pool affects its diagnosed area, centroid, spatial geometry, connectivity and temporal variability.
-
-The work combines daily satellite-derived SST observations with spherical geometry, geodesic calculations, connected-component analysis and time-frequency diagnostics.
-
-**Repositories:**
-
-- [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP)
-- [pwp-threshold-centroid-sensitivity](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity)
+**Methods:** Spherical geometry | Physical-area weighting | Threshold sensitivity | Centroid analysis | Connectivity | Wavelets | Occurrence & persistence
 
 <p align="center">
   <img src="pwp_wavelet_tc_longitude.png" alt="Pacific Warm Pool time-frequency analysis" width="82%">
+</p>
+
+### Pacific Warm Pool - 28 C Area Expansion & Spatial Organization
+
+**Manuscript:** *Variability, Expansion and Spatial Organization of the 28 degrees C Pacific Warm Pool from 1981 to 2026*
+
+**Journal:** Revista Brasileira de Meteorologia
+**Status:** Submitted 28 August 2026; anonymous review
+
+The study examines daily PWP28 area, long-term expansion, seasonality, temporal variability and spatial connectivity using NOAA OISST v2.1. The supporting repository is currently maintained privately during review.
+
+### Pacific Warm Pool - Largest Connected Component
+
+**Manuscript:** *Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981-2026*
+
+**Journal:** Journal of Climate
+**Status:** Submitted 6 September 2026
+
+The study investigates the long-term evolution of the largest spatially connected warm-water component across multiple SST thresholds, integrating trends, seasonality, spectral variability, spatial occurrence and connectivity diagnostics.
+
+**Scientific software:** [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence)
+**Release:** [v1.0.0 - Scientific/Reproducibility Freeze](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence/releases/tag/v1.0.0)
+**Zenodo:** [Version DOI: 10.5281/zenodo.22499662](https://doi.org/10.5281/zenodo.22499662)
+
+**Methods:** Connected-component analysis | Theil-Sen trends | STL | Welch power spectra | Continuous wavelets | Occurrence & persistence
+
+<p align="center">
+  <img src="pwp_domain_definition_19980331.png" alt="Pacific Warm Pool analysis" width="82%">
 </p>
 
 ### Southern Ocean Observational Data
@@ -255,47 +253,29 @@ At the **University of Auckland Centre for eResearch**, I worked with irregularl
 
 This work combined physical-oceanographic interpretation with scientific data processing and was reported through the Centre for eResearch in 2019.
 
----
+**Repository:** [argo](https://github.com/blackbeltbjj/argo)
 
-## From Early Satellite Oceanography to Reproducible Scientific Software
+**Methods:** Argo profiling floats | Animal-borne observations | Irregular sampling | Filtering | Gridding | Climatological products
 
-My Pacific climate research began during my undergraduate work in Physical Oceanography.
+<p align="center">
+  <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational analysis" width="82%">
+</p>
 
-In 1999-2000, a FAPERJ-supported project at the State University of Rio de Janeiro involved developing **C++ and Fortran software** to process NOAA/AVHRR sea-surface temperature observations, calculate Pacific Warm Pool area and centroid, analyse time series, generate scientific graphics and communicate results through reports and seminars.
+### Reproducibility Practice
 
-That work subsequently developed into conference presentations and peer-reviewed research.
+For current scientific work, producing a result is only part of the task. My workflows incorporate:
 
-Today, related scientific questions are being revisited using daily high-resolution satellite observations, Python, spherical geometry, spatial-connectivity analysis, modern time-frequency methods, version control and reproducible research infrastructure.
-
-**Satellite SST & C++/Fortran -> PWP/ENSO research -> Offshore oceanography -> AUV/HUGIN & multibeam -> Subsea projects -> Southern Ocean data -> Python & reproducible climate science**
-
----
-
-## Research Manuscripts - 2026
-
-### Journal of Atmospheric and Oceanic Technology
-
-**Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation**
-
-*Submitted 18 August 2026.*
-
-The study examines how 28.0, 28.5 and 29.0 degrees C SST definitions alter diagnosed Pacific Warm Pool area, centroid position, spatial geometry and displacement while assessing the robustness of interannual variance modulation across thresholds.
-
-### Revista Brasileira de Meteorologia
-
-**Variability, Expansion and Spatial Organization of the 28 degrees C Pacific Warm Pool from 1981 to 2026**
-
-*Submitted 28 August 2026.*
-
-The study examines daily PWP28 area, long-term expansion, seasonality, temporal variability and spatial connectivity using NOAA OISST v2.1.
-
-### Journal of Climate
-
-**Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981-2026**
-
-*Submitted 6 September 2026.*
-
-The study investigates the long-term evolution of the largest spatially connected warm-water component across multiple SST thresholds, integrating trends, seasonality, spectral variability, spatial occurrence and connectivity diagnostics.
+- Version-controlled source code
+- Explicit scientific configuration
+- Environment and dependency records
+- Input and output inventories
+- Automated quality control
+- Numerical validation
+- Metadata capture
+- SHA-256 integrity manifests
+- Tagged software releases
+- Persistent archival records
+- Documented provenance from observations to publication products
 
 ---
 
@@ -315,36 +295,6 @@ The study investigates the long-term evolution of the largest spatially connecte
 
 *Revista Brasileira de Meteorologia, 21*, 161-169.
 
----
-
-## Research Reports & Research Contributions
-
-### Machado, F. V. - University of Auckland Centre for eResearch (2019)
-
-Research contribution reported through the **University of Auckland Centre for eResearch Annual Report**, associated with Southern Ocean observational-data research.
-
-The work involved irregularly sampled ocean observations, including Argo profiling-float and animal-borne observations, and supported the development of regularly gridded observational fields and climatological products.
-
----
-
-## Scientific & Research Communication
-
-Scientific communication has been part of my work from early oceanographic research through postgraduate atmospheric science and current climate research.
-
-### Oral Presentations & Research Seminars
-
-- **Brazilian Congress of Meteorology - CBMet** - Oral scientific presentation
-- **Laboratory for Computing and Applied Mathematics - LAC / INPE** - Oral scientific presentation
-- **Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP** - Research seminar / oral presentation
-- **Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP** - Second research seminar / oral presentation
-
-### Poster & Conference Presentations
-
-- **Brazilian Symposium of Oceanography - SBO** - Scientific poster presentations
-- **Brazilian Congress of Oceanography - CBO** - Scientific poster presentation
-- **Brazilian Congress of Meteorology - CBMet** - Scientific poster presentation
-- **Regional Meeting of Applied and Computational Mathematics - ERMAC / SBMAC** - Scientific presentation
-
 ### Conference Proceedings & Scientific Software
 
 **d'Avila, V. A., & Machado, F. V. (2004).**
@@ -354,6 +304,20 @@ Scientific communication has been part of my work from early oceanographic resea
 **Congresso Brasileiro de Meteorologia - CBMet, Proceedings.**
 
 This early work involved development of software for visualising ocean surface-temperature grids and manipulating numerical continental masks.
+
+---
+
+## From Early Satellite Oceanography to Reproducible Scientific Software
+
+My Pacific climate research began during my undergraduate work in Physical Oceanography.
+
+In 1999-2000, a FAPERJ-supported project at the State University of Rio de Janeiro involved developing **C++ and Fortran software** to process NOAA/AVHRR sea-surface temperature observations, calculate Pacific Warm Pool area and centroid, analyse time series, generate scientific graphics and communicate results through reports and seminars.
+
+That work subsequently developed into conference presentations and peer-reviewed research.
+
+Today, related scientific questions are being revisited using daily high-resolution satellite observations, Python, spherical geometry, spatial-connectivity analysis, modern time-frequency methods, version control and reproducible research infrastructure.
+
+**Satellite SST & C++/Fortran -> PWP/ENSO research -> Offshore oceanography -> AUV/HUGIN & multibeam -> Subsea projects -> Southern Ocean data -> Python & reproducible climate science**
 
 ---
 
@@ -462,11 +426,6 @@ This interdisciplinary foundation allows me to move between the **underlying phy
 - **CARIS HIPS** - Hydrographic data-processing training
 - **Sea-Bird CTD** - Instrument operation and data processing
 
-### Additional Marine Science Training
-
-- **Morphology of Elasmobranchii - UERJ (2002)**
-- Additional specialist courses and scientific training across oceanography, marine science, geophysics, atmospheric science and environmental observations
-
 ---
 
 ## Early Career & Research Foundation
@@ -510,57 +469,32 @@ This early combination of **physical oceanography, computing and underwater acou
 
 ---
 
+## Scientific & Research Communication
+
+Scientific communication has been part of my work from early oceanographic research through postgraduate atmospheric science and current climate research.
+
+### Oral Presentations & Research Seminars
+
+- **Brazilian Congress of Meteorology - CBMet** - Oral scientific presentation
+- **Laboratory for Computing and Applied Mathematics - LAC / INPE** - Oral scientific presentation
+- **Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP** - Research seminars / oral presentations
+
+### Poster & Conference Presentations
+
+- **Brazilian Symposium of Oceanography - SBO** - Scientific poster presentations
+- **Brazilian Congress of Oceanography - CBO** - Scientific poster presentation
+- **Brazilian Congress of Meteorology - CBMet** - Scientific poster presentation
+- **Regional Meeting of Applied and Computational Mathematics - ERMAC / SBMAC** - Scientific presentation
+
+---
+
 ## Professional & Academic Recognition
 
 My offshore survey and scientific work is supported by professional and academic references covering different stages of my career.
 
-### Donizeti de Jesus Carneiro, PhD - C&C Technologies
-
-A professional reference from former C&C Technologies do Brasil Business Development Manager and Brazilian Branch Director **Donizeti de Jesus Carneiro** documents my work across hydrographic, marine-geophysical, AUV high-resolution, metocean and earth-science data projects.
-
-The reference records progression through responsibilities including Hydrographic Surveyor, Offshore Operations Party Chief, Metocean Specialist, HiPAP/AUV Operator and Marine Geophysical Real-Time Data Analyst.
-
-### David Aucoin - Offshore Survey & AUV Operations
-
-A professional testimonial from former Offshore Manager **David Aucoin** documents my work aboard the **R/V Northern Resolution** and **Rig Supporter** in AUV survey operations, data acquisition and processing.
-
-His assessment particularly recognised my ability to identify potential technical and data-quality problems and develop procedures to address operational problems.
-
-### Luciano Arvelo - Subsea & Marine Projects
-
-A professional reference from **Luciano Arvelo** documents my work across subsea, hydrographic, geophysical and oceanographic projects.
-
-The documented work includes dredging and shallow-water geophysical surveys, field operational coordination, technical-report review, reconnaissance surveys, high-resolution AUV geophysical surveys, oceanographic mooring projects and coastal ADCP deployments.
-
-### Victor de Amorim d'Avila - Scientific Research
-
-An academic research reference from **Victor de Amorim d'Avila** documents my early physical-oceanography and Pacific-climate research, including NOAA/AVHRR satellite SST, C++ and Fortran programming, Pacific Warm Pool area and centroid calculations, time-series analysis, scientific visualisation, technical reporting and scientific presentations.
-
-### Academic References
-
-Additional academic documentation and references from **FAOC/UERJ** and the **University of Sao Paulo** support my development in Oceanography, Meteorology, atmospheric science and ocean-atmosphere research.
+Professional documentation records work across hydrographic and marine-geophysical surveys, AUV/HUGIN high-resolution operations, metocean projects, acoustic positioning, oceanographic moorings, ADCP deployments, field coordination, scientific programming and research communication.
 
 **Professional and academic references are available when appropriate.**
-
----
-
-## Reproducibility & Open Science
-
-For scientific work, producing a result is only part of the task. It should also be possible to establish **how the result was produced**.
-
-My current workflows incorporate:
-
-- Version-controlled source code
-- Explicit scientific configuration
-- Environment and dependency records
-- Input and output inventories
-- Automated quality control
-- Numerical validation
-- Metadata capture
-- SHA-256 integrity manifests
-- Tagged software releases
-- Persistent archival records
-- Documented provenance from observations to publication products
 
 ---
 
@@ -579,9 +513,7 @@ I am particularly interested in using **authentic environmental observations** t
 For consulting, project-based work, research collaboration or technical discussions:
 
 **Email:** [fvmachado.oceanscience@gmail.com](mailto:fvmachado.oceanscience@gmail.com)
-
 **ORCID:** [0000-0003-0723-075X](https://orcid.org/0000-0003-0723-075X)
-
 **GitHub:** [blackbeltbjj](https://github.com/blackbeltbjj)
 
 <p align="center">
