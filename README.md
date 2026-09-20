@@ -258,13 +258,12 @@ This work combined physical-oceanographic interpretation with scientific data pr
 **Methods:** Argo profiling floats | Animal-borne observations | Irregular sampling | Filtering | Gridding | Climatological products
 
 <p align="center">
-  <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational analysis" width="82%">
+  <img src="images/southern_ocean_gridded_analysis.png" alt="Southern Ocean gridded analysis" width="82%">
 </p>
 
 <p align="center">
-  <img src="images/southern_ocean_profile_analysis.png" alt="Southern Ocean profile analysis" width="82%">
+  <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational analysis" width="82%">
 </p>
-
 ### Reproducibility Practice
 
 For current scientific work, producing a result is only part of the task. My workflows incorporate:
