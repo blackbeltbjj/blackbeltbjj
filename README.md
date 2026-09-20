@@ -257,9 +257,13 @@ This work combined physical-oceanographic interpretation with scientific data pr
 
 **Methods:** Argo profiling floats | Animal-borne observations | Irregular sampling | Filtering | Gridding | Climatological products
 
+<p align="center"><strong>Climatological Salinity Field</strong><br>Resolution: 1 x 1</p>
+
 <p align="center">
   <img src="images/southern_ocean_gridded_analysis.png" alt="Southern Ocean gridded analysis" width="45%">
 </p>
+
+<p align="center"><strong>Climatological Temperature Field</strong><br>Resolution: 1 x 1</p>
 
 <p align="center">
   <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational analysis" width="82%">
