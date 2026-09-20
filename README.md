@@ -261,6 +261,10 @@ This work combined physical-oceanographic interpretation with scientific data pr
   <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational analysis" width="82%">
 </p>
 
+<p align="center">
+  <img src="images/southern_ocean_profile_analysis.png" alt="Southern Ocean profile analysis" width="82%">
+</p>
+
 ### Reproducibility Practice
 
 For current scientific work, producing a result is only part of the task. My workflows incorporate:
