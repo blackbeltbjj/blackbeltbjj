@@ -244,9 +244,28 @@ The study investigates the long-term evolution of the largest spatially connecte
 **Methods:** Connected-component analysis | Theil-Sen trends | STL | Welch power spectra | Continuous wavelets | Occurrence & persistence
 
 <p align="center">
-  <img src="pwp_domain_definition_19980331.png" alt="Pacific Warm Pool analysis" width="82%">
+  <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Pacific Warm Pool analysis" width="82%">
 </p>
 
+### Pacific Warm Pool - Convective Enrichment
+
+**Manuscript:** *Threshold-Dependent Convective Enrichment of the Pacific Warm Pool, 1982-2025*
+
+**Journal:** Theoretical and Applied Climatology
+
+**Status:** Submitted September 2026
+
+The study examines how SST threshold choice affects the diagnosed relationship between Pacific Warm Pool structure and deep convection over 1982-2025, using NOAA OISST v2.1 and NOAA Daily OLR CDR v2.0.
+
+**Scientific software and reproducibility:**
+
+- [pwp-convective-enrichment](https://github.com/blackbeltbjj/pwp-convective-enrichment)
+- [v1.0.0 - Reproducibility Package](https://github.com/blackbeltbjj/pwp-convective-enrichment/releases/tag/v1.0.0)
+- [Zenodo Version DOI: 10.5281/zenodo.22857851](https://doi.org/10.5281/zenodo.22857851)
+
+**Methods:** SST-threshold analysis | Deep-convection diagnostics | OLR | Connected-component analysis | Equatorial geometry | ENSO relationships | Reproducible scientific workflows
+
+---
 ### Southern Ocean Observational Data
 
 At the **University of Auckland Centre for eResearch**, I worked with irregularly sampled Southern Ocean observations, including Argo profiling-float and animal-borne observations, supporting the development of regularly gridded observational fields and climatological products.
