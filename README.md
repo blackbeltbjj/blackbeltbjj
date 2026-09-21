@@ -228,6 +228,9 @@ The study examines how 28.0, 28.5 and 29.0 degrees C SST definitions alter diagn
 
 The study examines daily PWP28 area, long-term expansion, seasonality, temporal variability and spatial connectivity using NOAA OISST v2.1. The supporting repository is currently maintained privately during review.
 
+<p align="center">
+  <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Spatial comparison of the 28 degrees C Pacific Warm Pool" width="82%">
+</p>
 ### Pacific Warm Pool - Largest Connected Component
 
 **Manuscript:** *Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981-2026*
@@ -242,10 +245,10 @@ The study investigates the long-term evolution of the largest spatially connecte
 **Zenodo:** [Version DOI: 10.5281/zenodo.22499662](https://doi.org/10.5281/zenodo.22499662)
 
 **Methods:** Connected-component analysis | Theil-Sen trends | STL | Welch power spectra | Continuous wavelets | Occurrence & persistence
-
 <p align="center">
-  <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Pacific Warm Pool analysis" width="82%">
+  <img src="Figure_01_Canonical_vs_LCC_mean_occurrence.png" alt="Canonical Pacific Warm Pool and largest connected component mean occurrence" width="82%">
 </p>
+
 
 ### Pacific Warm Pool - Convective Enrichment
 
