@@ -45,21 +45,21 @@
 
 ### Professional Profile
 
-I am an oceanographer, hydrographic survey professional, and scientific data specialist whose career bridges field operations and quantitative science.
+I am an oceanographer, hydrographic survey professional, and scientific data specialist whose career bridges high theoretical knowledge, vast field operations experience, project coordination, and quantitative science.
 
-My experience spans satellite oceanography and climate research, vessel-based hydrographic and marine-geophysical surveys, AUV/HUGIN and multibeam operations, acoustic positioning, oceanographic instrumentation, subsea project support, environmental observations, scientific computing, and reproducible ocean and climate research.
+My experience spans satellite oceanography and climate research, scientific computing, reproducible ocean and climate research, vessel-based hydrographic and marine-geophysical surveys, AUV/HUGIN and multibeam operations, acoustic positioning, oceanographic instrumentation, subsea project support, and environmental observations.
 
 I have worked across the complete data lifecycle:
 
 > **Sensor deployment → positioning → real-time acquisition → processing → QA/QC → analysis → interpretation → technical and scientific reporting**
 
-This combination allows me to understand environmental and survey data not simply as numerical products, but as measurements shaped by instrumentation, positioning, environmental conditions, acquisition procedures, and physical processes.
+This combination allows me to understand climate, environmental and survey data not simply as numerical products, but as measurements shaped by instrumentation, positioning, environmental conditions, acquisition procedures, and physical processes.
 
 ### Professional Snapshot
 
 | Area | Profile |
 |---|---|
-| **Primary fields** | Physical Oceanography · Hydrographic Survey · Metocean · Environmental Data Science |
+| **Primary fields** | Physical Oceanography · Fluid mechanics · Metocean · Environmental Data Science · Hydrographic Survey |
 | **Operational background** | Offshore survey · AUV/HUGIN · Multibeam · Subsea positioning · Oceanographic instrumentation |
 | **Scientific background** | Climate variability · ENSO · Pacific Warm Pool · Satellite oceanography · Time-series analysis |
 | **Computational practice** | Python · MATLAB · NetCDF · Scientific QA/QC · Git/GitHub · Reproducible research |
@@ -69,16 +69,16 @@ This combination allows me to understand environmental and survey data not simpl
 
 I am open to consulting, project-based, and fixed-term assignments where oceanographic knowledge, offshore experience, and quantitative data analysis can contribute to solving scientific or operational problems.
 
-- Hydrographic and oceanographic data QA/QC
 - Scientific Python development and legacy scientific-data modernisation
 - Climate and ocean time-series analysis
-- Research software, reproducibility, and research-data management
-- Technical and scientific reporting
-- Scientific collaboration and education using authentic environmental observations
-- Hydrographic, offshore, and marine geophysical survey projects
-- AUV/HUGIN and subsea survey operations
 - Marine and metocean data analysis
 - Oceanographic observational programmes and environmental monitoring
+- Research software, reproducibility, and research-data management
+- Technical and scientific reporting
+- Hydrographic and oceanographic data QA/QC
+- Hydrographic, offshore, and marine geophysical survey projects
+- AUV/HUGIN and subsea survey operations
+- Scientific collaboration and education using authentic environmental observations
 
 **New Zealand and international projects welcome.**
 
