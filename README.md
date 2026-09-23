@@ -96,7 +96,7 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 | Seabed mapping | Oceanographic moorings | Statistics and time series |
 | Side-scan sonar | Waves and currents | Fourier and wavelet analysis |
 | Sub-bottom profiling | Satellite oceanography | Spatial analysis |
-| Offshore/subsea positioning | SST, ENSO, climate variability | Scientific visualisation |
+| Offshore/subsea positioning | SST, SSS, ENSO, climate variability | Scientific visualisation |
 | Pipeline and as-built surveys | Environmental monitoring | Automated QA/QC |
 | Dredging and backfilling | Marine observations | Reproducible workflows |
 
@@ -196,10 +196,10 @@ Working directly with instruments and field observations provides important cont
 
 - Large multidimensional ocean and climate datasets
 - NetCDF and gridded geophysical observations
-- Satellite sea-surface temperature and geospatial analysis
+- Satellite sea-surface temperature/salinity and geospatial analysis
 - Statistical, spatial, and time-series analysis
 - Spherical geometry and connected-component analysis
-- Fourier, wavelet, Welch power spectral density, and continuous wavelet transforms
+- Fourier, Wavelet, Welch power spectral density, and continuous Wavelet transforms CWT
 - STL decomposition and robust trend estimation
 - Occurrence and persistence analysis
 - Scientific visualisation and automated QA/QC
@@ -314,7 +314,7 @@ SST-threshold analysis · Deep-convection diagnostics · OLR · Connected-compon
 
 #### Project overview
 
-At the University of Auckland Centre for eResearch, I worked with irregularly sampled Southern Ocean observations, including Argo profiling-float and animal-borne observations, supporting the development of regularly gridded observational fields and climatological products.
+At the University of Auckland (along with the Centre for eResearch), I worked with irregularly sampled Southern Ocean observations, including Argo profiling-float and animal-borne observations, supporting the development of regularly gridded observational fields and climatological products.
 
 - **Repository:** [argo](https://github.com/blackbeltbjj/argo)
 - **Methods:** Argo profiling floats · Animal-borne observations · Irregular sampling · Filtering · Gridding · Climatological products
@@ -390,11 +390,11 @@ My offshore career progressed from navigation, processing, and survey-support re
 
 #### Marine survey and project responsibilities
 
+- Technical reporting and multidisciplinary project coordination
+- HSE, quality control, procedures, and risk assessments
+- Vessel and contractor activities
 - Marine survey and oceanographic work packages
 - Bathymetric, positioning, and environmental datasets
-- Vessel and contractor activities
-- HSE, quality control, procedures, and risk assessments
-- Technical reporting and multidisciplinary project coordination
 
 ### Subsea Consult
 
@@ -404,6 +404,7 @@ My offshore career progressed from navigation, processing, and survey-support re
 - Pre-lay, post-lay, as-built, freespan, and shore-approach work
 - Dredging and backfilling projects
 - AUV high-resolution geophysical surveys
+- Reconnaissance geophysical surveys
 - Oceanographic moorings and ADCP deployments
 - Client representation, technical reporting, and field support
 
@@ -416,12 +417,12 @@ My offshore career progressed from navigation, processing, and survey-support re
 #### MSc — Meteorology / Atmospheric Sciences
 
 **University of São Paulo — USP, Brazil**  
-Advanced postgraduate study in atmospheric and climate sciences, including atmospheric dynamics, meteorology, micrometeorology, climate variability, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
+Advanced postgraduate study in atmospheric and climate sciences, including atmospheric dynamics, physics of the ocean, micrometeorology, Navier-Stokes equation, climate variability, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
 
 #### Postgraduate Study — Ocean & Earth Dynamics
 
 **Fluminense Federal University — UFF, Brazil**  
-Advanced study related to ocean and Earth-system dynamics, including marine and geophysical processes.
+Advanced study related to ocean and Earth-system dynamics, including underwater acoustic, marine and geophysical processes.
 
 #### BSc — Oceanography
 
@@ -434,10 +435,11 @@ Professional education across physical, chemical, biological, and geological oce
 - **Ocean sciences:** Physical, chemical, biological, and geological oceanography; marine geophysics; hydrography; water-mass analysis; astronomy and navigation
 - **Coastal and marine sciences:** Estuarine oceanography, marine pollution, coastal processes, ecology, hydrodynamic modelling, tides, and cartography
 - **Climate sciences:** Meteorology, climatology, climate variability, ocean–atmosphere interaction, stochastic processes, and observational methods
-- **Mathematics and statistics:** Advanced calculus, statistics, differential equations, time-series analysis, spherical trigonometry, and data processing
+- **Mathematics and statistics:** Advanced calculus, statistics, partial differential equations, time-series analysis, spherical trigonometry, and data processing
 
 ### Advanced Scientific & Professional Training
 
+- Navier-Stokes Equation — LNCC (2003)
 - Instability Problems — LNCC (2003)
 - Summer School in Geophysics — National Observatory / Ministry of Science and Technology, Brazil
 - Mid-Ocean Ridge Geophysics — LAGEMAR/UFF and Université de Bretagne Occidentale
@@ -478,7 +480,7 @@ Worked with physical-oceanographic data processing and computational routines as
 
 ### Scientific & Research Communication
 
-- **Oral presentations and seminars:** Brazilian Congress of Meteorology, LAC/INPE, and IAG-USP
+- **Oral presentations and seminars:** Brazilian Congress of Meteorology, Brazilian Congress of Oceanography, LAC/INPE, and IAG-University of Sao Paulo
 - **Posters and conference presentations:** Brazilian Symposium of Oceanography, Brazilian Congress of Oceanography, Brazilian Congress of Meteorology, and ERMAC/SBMAC
 
 ### Teaching & Knowledge Transfer
