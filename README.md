@@ -25,7 +25,25 @@
 
 ---
 
-## Professional Profile
+## Contents
+
+- [About Me](#about-me)
+- [Core Professional Expertise](#core-professional-expertise)
+- [Hydrographic, AUV & Offshore Survey](#hydrographic-auv--offshore-survey)
+- [Oceanographic Instrumentation & Field Operations](#oceanographic-instrumentation--field-operations)
+- [Scientific Computing & Environmental Data](#scientific-computing--environmental-data)
+- [Research, Software & Reproducibility](#research-software--reproducibility)
+- [Offshore & Marine Survey Career](#offshore--marine-survey-career)
+- [Education & Training](#education--training)
+- [Early Career & Research Foundation](#early-career--research-foundation)
+- [Scientific Communication & Teaching](#scientific-communication--teaching)
+- [Contact](#contact)
+
+---
+
+## About Me
+
+### Professional Profile
 
 I am an oceanographer, hydrographic survey professional, and scientific data specialist whose career bridges field operations and quantitative science.
 
@@ -37,7 +55,17 @@ I have worked across the complete data lifecycle:
 
 This combination allows me to understand environmental and survey data not simply as numerical products, but as measurements shaped by instrumentation, positioning, environmental conditions, acquisition procedures, and physical processes.
 
-## Work With Me
+### Professional Snapshot
+
+| Area | Profile |
+|---|---|
+| **Primary fields** | Physical Oceanography · Hydrographic Survey · Metocean · Environmental Data Science |
+| **Operational background** | Offshore survey · AUV/HUGIN · Multibeam · Subsea positioning · Oceanographic instrumentation |
+| **Scientific background** | Climate variability · ENSO · Pacific Warm Pool · Satellite oceanography · Time-series analysis |
+| **Computational practice** | Python · MATLAB · NetCDF · Scientific QA/QC · Git/GitHub · Reproducible research |
+| **Current base** | New Zealand; available for national and international projects |
+
+### Work With Me
 
 I am open to consulting, project-based, and fixed-term assignments where oceanographic knowledge, offshore experience, and quantitative data analysis can contribute to solving scientific or operational problems.
 
@@ -54,7 +82,11 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 
 **New Zealand and international projects welcome.**
 
-## Professional Capabilities
+---
+
+## Core Professional Expertise
+
+### Professional Capabilities
 
 | Hydrographic & Offshore Survey | Oceanography & Metocean | Scientific Data |
 |---|---|---|
@@ -75,6 +107,8 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 - **Climate science:** Climate variability, ENSO, Pacific Warm Pool, and satellite oceanography
 - **Computing and data:** Scientific Python, environmental data science, time-series analysis, and spatial analysis
 - **Research practice:** Reproducible research, scientific software, and research-data management
+
+---
 
 ## Hydrographic, AUV & Offshore Survey
 
@@ -109,25 +143,44 @@ Experience with offshore navigation, subsea acoustic positioning, and autonomous
 
 Applications have included high-resolution seabed mapping, pipeline and subsea-infrastructure surveys, route investigation, environmental surveys, and offshore project support.
 
+---
+
 ## Oceanographic Instrumentation & Field Operations
 
 ### CTD Systems & Sensors — Sea-Bird Scientific
 
-- **Sensors:** SBE 19+ SeaCAT, SBE 19+ V2 SeaCAT, SBE 3+ Temperature, SBE 4+ Conductivity, SBE 5e Pump, and SBE 37 MicroCAT
-- **Acquisition and processing:** SeaTerm, Seasave, and SBE Data Processing
+#### Systems and sensors
+
+- SBE 19+ SeaCAT and SBE 19+ V2 SeaCAT
+- SBE 3+ Temperature, SBE 4+ Conductivity, and SBE 5e Pump
+- SBE 37 MicroCAT
+
+#### Acquisition, processing, and operations
+
+- **Software:** SeaTerm, Seasave, and SBE Data Processing
 - **Activities:** Instrument configuration, CTD deployment, real-time acquisition, data conversion, filtering, alignment, QA/QC, and interpretation of physical-oceanographic profiles
 
 ### ADCP, Currents & Mooring Systems
 
+#### Systems and software
+
 - **Systems:** Teledyne RDI Workhorse Long Ranger 75 kHz; Workhorse Sentinel 300, 600, and 1200 kHz; Nortek Aquadopp Profiler/Current Meter
 - **Software:** PlanADCP, WinADCP, WinSC, and BBTalk
-- **Experience:** ADCP and DVL acquisition and processing, current profiling, mooring installation and recovery, acoustic releases, wave/current observations, environmental monitoring, and QA/QC
+
+#### Operational experience
+
+- ADCP and DVL acquisition and processing
+- Current profiling and oceanographic mooring installation and recovery
+- Instrument configuration and acoustic releases
+- Wave/current observations, environmental monitoring, and QA/QC
 
 ### Marine Sampling & Observational Systems
 
 Multi-bottle rosette systems · Nansen bottles · Plankton nets · Box-core sediment samplers · Oceanographic moorings · Wave buoys · CTD/SVP casts · Current-meter deployments
 
 Working directly with instruments and field observations provides important context when assessing the quality, uncertainty, and physical meaning of environmental datasets.
+
+---
 
 ## Scientific Computing & Environmental Data
 
@@ -158,7 +211,18 @@ Working directly with instruments and field observations provides important cont
 
 My current research links scientific manuscripts with version-controlled computational workflows, audited software releases, and persistent archival records where available.
 
+### Featured Research Portfolio
+
+| Research programme | Scientific focus | Software and archive | Status |
+|---|---|---|---|
+| **PWP threshold definition and centroid geometry** | Effects of 28.0, 28.5, and 29.0 °C definitions on warm-pool geometry and variability | [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP) · [Sensitivity repository](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity) · Zenodo DOIs | JTECH submission, 18 Aug 2026 |
+| **PWP28 area expansion and spatial organisation** | Daily area, trend, seasonality, variability, connectivity, and fragmentation | Private reproducibility repository during review | RBMet submission, 28 Aug 2026 |
+| **Largest connected Pacific Warm Pool** | Long-term expansion and increasing spatial coherence across SST thresholds | [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence) · [Zenodo](https://doi.org/10.5281/zenodo.22499662) | Journal of Climate submission, 6 Sep 2026 |
+| **Convective enrichment** | Threshold-dependent relationship between warm-pool structure and deep convection | [pwp-convective-enrichment](https://github.com/blackbeltbjj/pwp-convective-enrichment) · [Zenodo](https://doi.org/10.5281/zenodo.22857851) | Theoretical and Applied Climatology submission, Sep 2026 |
+
 ### Pacific Warm Pool — Threshold Definition & Centroid Geometry
+
+#### Manuscript and scope
 
 **Manuscript:** *Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation*  
 **Journal:** Journal of Atmospheric and Oceanic Technology  
@@ -166,13 +230,15 @@ My current research links scientific manuscripts with version-controlled computa
 
 The study examines how 28.0, 28.5, and 29.0 °C SST definitions alter diagnosed Pacific Warm Pool area, centroid position, spatial geometry, and displacement, while assessing the robustness of interannual variance modulation across thresholds.
 
-**Scientific software and data**
+#### Scientific software and data
 
 - [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP), v1.0.0 — [Zenodo DOI](https://doi.org/10.5281/zenodo.21964951)
 - [pwp-threshold-centroid-sensitivity](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity), v1.0.0 — [Zenodo DOI](https://doi.org/10.5281/zenodo.21964955)
 - Derived Data v1.0.0 — [Zenodo DOI](https://doi.org/10.5281/zenodo.21976955)
 
-**Methods:** Spherical geometry · Physical-area weighting · Threshold sensitivity · Centroid analysis · Connectivity · Wavelets · Occurrence and persistence
+#### Methods
+
+Spherical geometry · Physical-area weighting · Threshold sensitivity · Centroid analysis · Connectivity · Wavelets · Occurrence and persistence
 
 <p align="center">
   <img src="pwp_wavelet_tc_longitude.png" alt="Pacific Warm Pool time-frequency analysis" width="82%">
@@ -180,11 +246,17 @@ The study examines how 28.0, 28.5, and 29.0 °C SST definitions alter diagnosed 
 
 ### Pacific Warm Pool — 28 °C Area Expansion & Spatial Organisation
 
+#### Manuscript and scope
+
 **Manuscript:** *Variability, Expansion and Spatial Organisation of the 28 °C Pacific Warm Pool from 1981 to 2026*  
 **Journal:** Revista Brasileira de Meteorologia  
 **Status:** Submitted 28 August 2026; anonymous review
 
 The study examines daily PWP28 area, long-term expansion, seasonality, temporal variability, and spatial connectivity using NOAA OISST v2.1. The supporting repository is maintained privately during review.
+
+#### Methods and reproducibility
+
+Daily area · Long-term trend · Seasonal cycle · Interannual variability · Time-frequency analysis · Connectivity and fragmentation · Scientific QA/QC
 
 <p align="center">
   <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Spatial comparison of the 28 degree Celsius Pacific Warm Pool" width="82%">
@@ -192,16 +264,23 @@ The study examines daily PWP28 area, long-term expansion, seasonality, temporal 
 
 ### Pacific Warm Pool — Largest Connected Component
 
+#### Manuscript and scope
+
 **Manuscript:** *Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981–2026*  
 **Journal:** Journal of Climate  
 **Status:** Submitted 6 September 2026
 
 The study investigates the long-term evolution of the largest spatially connected warm-water component across multiple SST thresholds, integrating trends, seasonality, spectral variability, spatial occurrence, and connectivity diagnostics.
 
+#### Scientific software and archive
+
 - **Scientific software:** [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence)
 - **Release:** v1.0.0 — Scientific/Reproducibility Freeze
 - **Archive:** [Zenodo DOI](https://doi.org/10.5281/zenodo.22499662)
-- **Methods:** Connected-component analysis · Theil–Sen trends · STL · Welch power spectra · Continuous wavelets · Occurrence and persistence
+
+#### Methods
+
+Connected-component analysis · Theil–Sen trends · STL · Welch power spectra · Continuous wavelets · Occurrence and persistence
 
 <p align="center">
   <img src="Figure_01_Canonical_vs_LCC_mean_occurrence_50pct.png" alt="Canonical Pacific Warm Pool and largest connected component mean occurrence" width="50%">
@@ -209,16 +288,23 @@ The study investigates the long-term evolution of the largest spatially connecte
 
 ### Pacific Warm Pool — Convective Enrichment
 
+#### Manuscript and scope
+
 **Manuscript:** *Threshold-Dependent Convective Enrichment of the Pacific Warm Pool, 1982–2025*  
 **Journal:** Theoretical and Applied Climatology  
 **Status:** Submitted September 2026
 
 The study examines how SST threshold choice affects the diagnosed relationship between Pacific Warm Pool structure and deep convection over 1982–2025, using NOAA OISST v2.1 and NOAA Daily OLR CDR v2.0.
 
+#### Scientific software and archive
+
 - **Scientific software:** [pwp-convective-enrichment](https://github.com/blackbeltbjj/pwp-convective-enrichment)
 - **Release:** v1.0.0 — Reproducibility Package
 - **Archive:** [Zenodo DOI](https://doi.org/10.5281/zenodo.22857851)
-- **Methods:** SST-threshold analysis · Deep-convection diagnostics · OLR · Connected-component analysis · Equatorial geometry · ENSO relationships
+
+#### Methods
+
+SST-threshold analysis · Deep-convection diagnostics · OLR · Connected-component analysis · Equatorial geometry · ENSO relationships
 
 <p align="center">
   <img src="TAAC13_Figure02_lcc_spatial_enrichment_v1.0.1.png" alt="Spatial convective enrichment of the Pacific Warm Pool across SST thresholds" width="70%">
@@ -226,10 +312,14 @@ The study examines how SST threshold choice affects the diagnosed relationship b
 
 ### Southern Ocean Observational Data
 
+#### Project overview
+
 At the University of Auckland Centre for eResearch, I worked with irregularly sampled Southern Ocean observations, including Argo profiling-float and animal-borne observations, supporting the development of regularly gridded observational fields and climatological products.
 
 - **Repository:** [argo](https://github.com/blackbeltbjj/argo)
 - **Methods:** Argo profiling floats · Animal-borne observations · Irregular sampling · Filtering · Gridding · Climatological products
+
+#### Climatological products
 
 <p align="center"><strong>Climatological Salinity Field</strong><br>Resolution: 1° × 1°</p>
 
@@ -255,7 +345,11 @@ My current scientific workflows incorporate:
 - Tagged software releases and persistent archival records
 - Documented provenance from observations to publication products
 
-## Peer-Reviewed Publications
+---
+
+## Publications & Scientific Development
+
+### Peer-Reviewed Publications
 
 1. **Machado, F. V., & d'Avila, V. A. (2014).** O centroide da piscina de água quente do Pacífico como um indicador dos fenômenos El Niño e La Niña. *Revista Brasileira de Meteorologia, 29*, 443–456. [https://doi.org/10.1590/0102-778620130595](https://doi.org/10.1590/0102-778620130595)
 2. **Machado, F. V., & d'Avila, V. A. (2006).** A trajetória e a área da piscina de água quente do Pacífico. *Revista Brasileira de Meteorologia, 21*, 161–169.
@@ -266,7 +360,7 @@ My current scientific workflows incorporate:
 
 This early work involved developing software to visualise ocean surface-temperature grids and manipulate numerical continental masks.
 
-## From Early Satellite Oceanography to Reproducible Scientific Software
+### From Early Satellite Oceanography to Reproducible Scientific Software
 
 My Pacific climate research began during undergraduate work in Physical Oceanography. In 1999–2000, a FAPERJ-supported project at the State University of Rio de Janeiro involved developing C++ and Fortran software to process NOAA/AVHRR sea-surface temperature observations, calculate Pacific Warm Pool area and centroid, analyse time series, generate scientific graphics, and communicate results through reports and seminars.
 
@@ -282,6 +376,8 @@ My offshore career progressed from navigation, processing, and survey-support re
 
 ### C&C Technologies do Brasil
 
+#### Hydrographic, AUV, and metocean responsibilities
+
 - Hydrographic and marine-geophysical surveys
 - Offshore Operations Party Chief responsibilities
 - AUV/HUGIN high-resolution survey operations
@@ -292,6 +388,8 @@ My offshore career progressed from navigation, processing, and survey-support re
 
 ### Petrobras
 
+#### Marine survey and project responsibilities
+
 - Marine survey and oceanographic work packages
 - Bathymetric, positioning, and environmental datasets
 - Vessel and contractor activities
@@ -300,6 +398,8 @@ My offshore career progressed from navigation, processing, and survey-support re
 
 ### Subsea Consult
 
+#### Subsea survey and client-support responsibilities
+
 - Pipeline-route and subsea-infrastructure surveys
 - Pre-lay, post-lay, as-built, freespan, and shore-approach work
 - Dredging and backfilling projects
@@ -307,19 +407,23 @@ My offshore career progressed from navigation, processing, and survey-support re
 - Oceanographic moorings and ADCP deployments
 - Client representation, technical reporting, and field support
 
-## Education
+---
 
-### MSc — Meteorology / Atmospheric Sciences
+## Education & Training
+
+### Academic Education
+
+#### MSc — Meteorology / Atmospheric Sciences
 
 **University of São Paulo — USP, Brazil**  
 Advanced postgraduate study in atmospheric and climate sciences, including atmospheric dynamics, meteorology, micrometeorology, climate variability, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
 
-### Postgraduate Study — Ocean & Earth Dynamics
+#### Postgraduate Study — Ocean & Earth Dynamics
 
 **Fluminense Federal University — UFF, Brazil**  
 Advanced study related to ocean and Earth-system dynamics, including marine and geophysical processes.
 
-### BSc — Oceanography
+#### BSc — Oceanography
 
 **State University of Rio de Janeiro — UERJ, Brazil | 2002**  
 Professional education across physical, chemical, biological, and geological oceanography, hydrography, marine observations, and environmental sciences, supported by mathematics, statistics, and physics.
@@ -343,30 +447,49 @@ Professional education across physical, chemical, biological, and geological oce
 - CARIS HIPS — Hydrographic data-processing training
 - Sea-Bird CTD — Instrument operation and data processing
 
+---
+
 ## Early Career & Research Foundation
 
 ### Climate Group — CPTEC/INPE
+
+#### Research Internship | 1999
 
 **Research Internship | 1999**  
 Early experience within the Climate Group at Brazil's Center for Weather Forecasting and Climate Studies, under the supervision of Dr. José Antonio Marengo Orsini.
 
 ### Physical Oceanography & Satellite Data — UERJ/FAPERJ
 
+#### Undergraduate Research | 1999–2000
+
 **Undergraduate Research | 1999–2000**  
 Worked on the FAPERJ-supported project *A Mathematical Model for the El Niño Phenomenon*, using NOAA/AVHRR satellite SST observations, C++ and Fortran, Pacific Warm Pool area and centroid calculations, time-series analysis, scientific graphics, technical reports, and research presentations.
 
 ### Brazilian Navy — IEAPM
 
+#### Oceanographic Data Processing Internship | 2000
+
 **Oceanographic Data Processing Internship | 2000**  
 Worked with physical-oceanographic data processing and computational routines associated with the marine environment and underwater sound propagation at the Almirante Paulo Moreira Institute of Sea Studies.
 
-## Scientific & Research Communication
+---
+
+## Scientific Communication & Teaching
+
+### Scientific & Research Communication
 
 - **Oral presentations and seminars:** Brazilian Congress of Meteorology, LAC/INPE, and IAG-USP
 - **Posters and conference presentations:** Brazilian Symposium of Oceanography, Brazilian Congress of Oceanography, Brazilian Congress of Meteorology, and ERMAC/SBMAC
-- **Teaching:** Mathematics, Statistics, Physics, and Science in New Zealand
 
-Teaching has strengthened an important part of my professional practice: communicating quantitative and scientific concepts clearly to people with different technical backgrounds. I am particularly interested in using authentic environmental observations to teach mathematics, statistics, data analysis, and Earth-system science.
+### Teaching & Knowledge Transfer
+
+- Mathematics, Statistics, Physics, and Science teaching in New Zealand
+- Communication of quantitative and scientific concepts to audiences with different technical backgrounds
+- Use of authentic environmental observations in mathematics, statistics, data analysis, and Earth-system science
+
+Teaching has strengthened an important part of my professional practice: communicating quantitative and scientific concepts clearly to people with different technical backgrounds.
+
+---
 
 ## Contact
 
