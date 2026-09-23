@@ -28,7 +28,7 @@ ORCID: 0000-0003-0723-075X
 
 GitHub: blackbeltbjj
 
-Work With Me
+### Work With Me
 
 I am open to consulting, project-based and fixed-term assignments where oceanographic knowledge, offshore experience and quantitative data analysis can contribute to solving scientific or operational problems.
 
