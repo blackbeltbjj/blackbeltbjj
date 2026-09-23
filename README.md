@@ -69,16 +69,16 @@ This combination allows me to understand environmental and survey data not simpl
 
 I am open to consulting, project-based, and fixed-term assignments where oceanographic knowledge, offshore experience, and quantitative data analysis can contribute to solving scientific or operational problems.
 
-- Hydrographic, offshore, and marine geophysical survey projects
-- AUV/HUGIN and subsea survey operations
-- Marine and metocean data analysis
-- Oceanographic observational programmes and environmental monitoring
 - Hydrographic and oceanographic data QA/QC
 - Scientific Python development and legacy scientific-data modernisation
 - Climate and ocean time-series analysis
 - Research software, reproducibility, and research-data management
 - Technical and scientific reporting
 - Scientific collaboration and education using authentic environmental observations
+- Hydrographic, offshore, and marine geophysical survey projects
+- AUV/HUGIN and subsea survey operations
+- Marine and metocean data analysis
+- Oceanographic observational programmes and environmental monitoring
 
 **New Zealand and international projects welcome.**
 
@@ -102,11 +102,11 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 
 ### Areas of Professional Interest
 
-- **Survey and offshore:** Hydrographic survey, offshore survey, marine geophysics, underwater acoustics, subsea positioning, and AUV operations
 - **Ocean and environment:** Physical oceanography, metocean, oceanographic instrumentation, environmental monitoring, and ocean observations
 - **Climate science:** Climate variability, ENSO, Pacific Warm Pool, and satellite oceanography
 - **Computing and data:** Scientific Python, environmental data science, time-series analysis, and spatial analysis
 - **Research practice:** Reproducible research, scientific software, and research-data management
+- **Survey and offshore:** Hydrographic survey, offshore survey, marine geophysics, underwater acoustics, subsea positioning, and AUV operations
 
 ---
 
