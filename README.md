@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Based in New Zealand 
+  Based in New Zealand </> 
   Available for consulting, project-based and fixed-term assignments nationally and internationally
 </p>
 
