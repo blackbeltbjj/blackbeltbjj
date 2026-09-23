@@ -82,7 +82,7 @@ sensor deployment -> positioning -> real-time acquisition -> processing -> QA/QC
 
 This combination allows me to understand environmental and survey data not simply as numerical products, but as measurements shaped by instrumentation, positioning, environmental conditions, acquisition procedures and physical processes.
 
-Professional Capabilities
+### Professional Capabilities
 
 Hydrographic & Offshore Survey
 
@@ -146,7 +146,7 @@ Reproducible workflows
 
 Hydrographic, AUV & Offshore Survey
 
-Survey & Processing Software
+### Survey & Processing Software
 
 CARIS HIPS / SIPS | Kongsberg SIS | Hydromap Multibeam | Fledermaus | NavLab | Hypack / Hysweep
 
@@ -176,7 +176,7 @@ Real-time marine geophysical data analysis
 
 Survey QA/QC and technical reporting
 
-Acoustic Positioning & Subsea Navigation
+### Acoustic Positioning & Subsea Navigation
 
 Kongsberg HiPAP | APOS | C-NAV DGPS | USBL | LBL | AUV / HUGIN
 
@@ -190,9 +190,9 @@ MBES | Side-Scan Sonar | Sub-Bottom Profiler | Marine Geophysics
 
 Applications have included high-resolution seabed mapping, pipeline and subsea-infrastructure surveys, route investigation, environmental surveys and offshore project support.
 
-Oceanographic Instrumentation & Field Operations
+### Oceanographic Instrumentation & Field Operations
 
-CTD Systems & Sensors - Sea-Bird Scientific
+## CTD Systems & Sensors - Sea-Bird Scientific
 
 SBE 19+ SeaCAT | SBE 19+ V2 SeaCAT | SBE 3+ Temperature | SBE 4+ Conductivity | SBE 5e Pump | SBE 37 MicroCAT
 
@@ -200,7 +200,7 @@ Acquisition & Processing: SeaTerm | Seasave | SBE Data Processing
 
 Experience includes instrument configuration, CTD deployment, real-time acquisition, data conversion, filtering, alignment, QA/QC and interpretation of physical-oceanographic profiles.
 
-ADCP, Currents & Mooring Systems
+## ADCP, Currents & Mooring Systems
 
 Teledyne RDI Workhorse Long Ranger 75 kHz | Teledyne RDI Workhorse Sentinel 300 / 600 / 1200 kHz | Nortek Aquadopp Profiler / Current Meter
 
@@ -208,23 +208,23 @@ Software: PlanADCP | WinADCP | WinSC | BBTalk
 
 Experience includes ADCP and DVL acquisition and processing, current profiling, oceanographic mooring installation and recovery, instrument configuration, acoustic releases, Teledyne Benthos R-Series systems, wave/current observations, environmental monitoring and associated QA/QC.
 
-Marine Sampling & Observational Systems
+## Marine Sampling & Observational Systems
 
 Multi-bottle rosette systems | Nansen bottles | Plankton nets | Box-core sediment samplers | Oceanographic moorings | Wave buoys | CTD/SVP casts | Current-meter deployments
 
 Working directly with instruments and field observations provides important context when assessing the quality, uncertainty and physical meaning of environmental datasets.
 
-Scientific Computing & Environmental Data
+### Scientific Computing & Environmental Data
 
-Languages & environments:
+## Languages & environments:
 
 Python | MATLAB | Unix / Linux | Windows | Git | GitHub | Jupyter | VS Code
 
-Python scientific stack:
+## Python scientific stack:
 
 NumPy | pandas | SciPy | xarray | Statsmodels | Matplotlib | PyWavelets
 
-Analytical Capabilities
+## Analytical Capabilities
 
 Python-based scientific data analysis
 
@@ -258,9 +258,9 @@ Scientific visualisation
 
 Automated QA/QC
 
-Scientific provenance
+### Scientific provenance
 
-Reproducible computational workflows
+### Reproducible computational workflows
 
 Research-data management
 
@@ -268,7 +268,7 @@ Publications, Software & Reproducibility
 
 My current research links scientific manuscripts with version-controlled computational workflows, audited software releases and persistent archival records where available.
 
-Pacific Warm Pool - Threshold Definition & Centroid Geometry
+## Pacific Warm Pool - Threshold Definition & Centroid Geometry
 
 Manuscript: Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation
 
@@ -278,7 +278,7 @@ Status: Submitted 18 August 2026
 
 The study examines how 28.0, 28.5 and 29.0 degrees C SST definitions alter diagnosed Pacific Warm Pool area, centroid position, spatial geometry and displacement, while assessing the robustness of interannual variance modulation across thresholds.
 
-Scientific software and data:
+# Scientific software and data:
 
 OSAF-PWP - v1.0.0 - Zenodo DOI: 10.5281/zenodo.21964951
 
@@ -292,7 +292,7 @@ Methods: Spherical geometry | Physical-area weighting | Threshold sensitivity | 
   <img src="pwp_wavelet_tc_longitude.png" alt="Pacific Warm Pool time-frequency analysis" width="82%">
 </p>
 
-Pacific Warm Pool - 28 C Area Expansion & Spatial Organization
+## Pacific Warm Pool - 28 C Area Expansion & Spatial Organization
 
 Manuscript: Variability, Expansion and Spatial Organization of the 28 degrees C Pacific Warm Pool from 1981 to 2026
 
@@ -306,7 +306,7 @@ The study examines daily PWP28 area, long-term expansion, seasonality, temporal 
   <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Spatial comparison of the 28 degrees C Pacific Warm Pool" width="82%">
 </p>
 
-Pacific Warm Pool - Largest Connected Component
+## Pacific Warm Pool - Largest Connected Component
 
 Manuscript: Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981-2026
 
@@ -328,7 +328,7 @@ Methods: Connected-component analysis | Theil-Sen trends | STL | Welch power spe
   <img src="Figure_01_Canonical_vs_LCC_mean_occurrence_50pct.png" alt="Canonical Pacific Warm Pool and largest connected component mean occurrence" width="50%">
 </p>
 
-Pacific Warm Pool - Convective Enrichment
+## Pacific Warm Pool - Convective Enrichment
 
 Manuscript: Threshold-Dependent Convective Enrichment of the Pacific Warm Pool, 1982-2025
 
@@ -352,7 +352,7 @@ Methods: SST-threshold analysis | Deep-convection diagnostics | OLR | Connected-
   <img src="TAAC13_Figure02_lcc_spatial_enrichment_v1.0.1.png" alt="Spatial convective enrichment of the Pacific Warm Pool across SST thresholds" width="70%">
 </p>
 
-Southern Ocean Observational Data
+## Southern Ocean Observational Data
 
 At the University of Auckland Centre for eResearch, I worked with irregularly sampled Southern Ocean observations, including Argo profiling-float and animal-borne observations, supporting the development of regularly gridded observational fields and climatological products.
 
@@ -374,7 +374,7 @@ Methods: Argo profiling floats | Animal-borne observations | Irregular sampling 
   <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational analysis" width="52%">
 </p>
 
-Reproducibility Practice
+### Reproducibility Practice
 
 For current scientific work, producing a result is only part of the task. My workflows incorporate:
 
@@ -400,7 +400,7 @@ Persistent archival records
 
 Documented provenance from observations to publication products
 
-Peer-Reviewed Publications
+### Peer-Reviewed Publications
 
 Machado, F. V., & d'Avila, V. A. (2014)
 
@@ -426,7 +426,7 @@ Congresso Brasileiro de Meteorologia - CBMet, Proceedings.
 
 This early work involved development of software for visualising ocean surface-temperature grids and manipulating numerical continental masks.
 
-From Early Satellite Oceanography to Reproducible Scientific Software
+### From Early Satellite Oceanography to Reproducible Scientific Software
 
 My Pacific climate research began during my undergraduate work in Physical Oceanography.
 
@@ -438,11 +438,11 @@ Today, related scientific questions are being revisited using daily high-resolut
 
 Satellite SST & C++/Fortran -> PWP/ENSO research -> Offshore oceanography -> AUV/HUGIN & multibeam -> Subsea projects -> Southern Ocean data -> Python & reproducible climate science
 
-Offshore & Marine Survey Career
+### Offshore & Marine Survey Career
 
 My offshore career progressed from navigation, processing and survey-support responsibilities to hydrographic surveying, Offshore Operations Party Chief responsibilities, metocean operations, AUV/HUGIN and multibeam operations, marine geophysical real-time data analysis, senior oceanographic work, field supervision, client-side technical support and project coordination.
 
-C&C Technologies do Brasil
+# C&C Technologies do Brasil
 
 Hydrographic and marine geophysical surveys
 
@@ -470,7 +470,7 @@ Field QA/QC
 
 Survey procedures and operational support
 
-Petrobras
+# Petrobras
 
 Marine survey and oceanographic work packages
 
@@ -486,7 +486,7 @@ Technical reporting
 
 Multidisciplinary project coordination
 
-Subsea Consult
+# Subsea Consult
 
 Pipeline-route and subsea-infrastructure surveys
 
@@ -506,9 +506,9 @@ Client representation
 
 Technical reporting and field support
 
-Education
+### Education
 
-MSc - Meteorology / Atmospheric Sciences
+# MSc - Meteorology / Atmospheric Sciences
 
 University of Sao Paulo - USP, Brazil
 
@@ -516,43 +516,43 @@ Advanced postgraduate study in atmospheric and climate sciences, including atmos
 
 NZQA assessed equivalent: New Zealand Level 9 Master's degree.
 
-Postgraduate Study - Ocean & Earth Dynamics
+# Postgraduate Study - Ocean & Earth Dynamics
 
 Fluminense Federal University - UFF, Brazil
 
 Advanced study related to ocean and Earth-system dynamics, including marine and geophysical processes.
 
-BSc - Oceanography
+# BSc - Oceanography
 
 State University of Rio de Janeiro - UERJ, Brazil | 2002
 
 Professional university education across physical, chemical, biological and geological oceanography, hydrography, marine observations and environmental sciences, supported by mathematics, statistics and physics.
 
-Scientific & Quantitative Foundation
+## Scientific & Quantitative Foundation
 
-Advanced Physics of the Ocean & Dynamics of the Atmosphere
+# Advanced Physics of the Ocean & Dynamics of the Atmosphere
 
 Fluid Dynamics | Wind Waves | Physics of the Ocean | Atmospheric Dynamics | Micrometeorology & Turbulence | Remote Sensing in Oceanography
 
-Ocean Sciences
+# Ocean Sciences
 
 Physical Oceanography | Chemical Oceanography | Biological Oceanography | Geological Oceanography | Marine Geophysics | Hydrography | Marine Pollution | Water-Mass Analysis | Astronomy & Navigation
 
-Coastal Oceanography & Marine Sciences
+# Coastal Oceanography & Marine Sciences
 
 Estuarine Oceanography | Marine Pollution | Mangroves | Coastal Processes | Marine Ecology | Estuaries | Estuarine Water Quality | Hydrodynamic Modelling | Tides | Paleontology | Cartography
 
-Atmospheric & Climate Sciences
+# Atmospheric & Climate Sciences
 
 Meteorology | Climatology | Atmospheric Dynamics | Micrometeorology | Climate Variability | Ocean-Atmosphere Interaction | Stochastic Processes & Time Series in Climatology and Meteorology | Observational Methods in Mesoscale Climatology and Meteorology
 
-Mathematics & Statistics
+# Mathematics & Statistics
 
 Advanced Differential & Integral Calculus I & II | Statistics | Differential Equations | Time-Series Analysis | Spherical Trigonometry | Introduction to Data Processing | Stochastic Processes
 
 This interdisciplinary foundation allows me to move between the underlying physics, observations and computational analysis rather than treating environmental data as abstract numerical inputs.
 
-Advanced Scientific & Professional Training
+# Advanced Scientific & Professional Training
 
 Instability Problems - LNCC (2003) - Advanced scientific training related to instability problems, applied mathematics and physical systems
 
@@ -570,19 +570,19 @@ CARIS HIPS - Hydrographic data-processing training
 
 Sea-Bird CTD - Instrument operation and data processing
 
-Early Career & Research Foundation
+### Early Career & Research Foundation
 
-Climate Group - CPTEC / INPE
+## Climate Group - CPTEC / INPE
 
-Research Internship | 1999
+# Research Internship | 1999
 
 Early experience within the Climate Group at Brazil's Center for Weather Forecasting and Climate Studies (CPTEC/INPE), under the supervision of Dr. Jose Antonio Marengo Orsini.
 
 This experience contributed to my early development in meteorology, climate variability and ocean-atmosphere science.
 
-Physical Oceanography & Satellite Data - UERJ / FAPERJ
+## Physical Oceanography & Satellite Data - UERJ / FAPERJ
 
-Undergraduate Research | 1999-2000
+# Undergraduate Research | 1999-2000
 
 Worked on the FAPERJ-supported research project "A Mathematical Model for the El Nino Phenomenon" at the State University of Rio de Janeiro.
 
@@ -604,23 +604,21 @@ Technical reports
 
 Scientific seminars and conference presentations
 
-Brazilian Navy - IEAPM
+## Brazilian Navy - Almirante Paulo Moreira Institute of Sea Studies - IEAPM
 
-Oceanographic Data Processing Internship | 2000
+# Oceanographic Data Processing Internship | 2000
 
-Almirante Paulo Moreira Institute of Sea Studies - IEAPM
-
-Propagation Projects Division
+# Propagation Projects Division
 
 Worked with physical-oceanographic data processing and computational routines associated with the marine environment and underwater sound propagation.
 
 This early combination of physical oceanography, computing and underwater acoustics later became directly relevant to offshore hydrographic surveying, acoustic positioning and subsea operations.
 
-Scientific & Research Communication
+### Scientific & Research Communication
 
 Scientific communication has been part of my work from early oceanographic research through postgraduate atmospheric science and current climate research.
 
-Oral Presentations & Research Seminars
+## Oral Presentations & Research Seminars
 
 Brazilian Congress of Meteorology - CBMet - Oral scientific presentation
 
@@ -628,7 +626,7 @@ Laboratory for Computing and Applied Mathematics - LAC / INPE - Oral scientific 
 
 Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP - Research seminars / oral presentations
 
-Poster & Conference Presentations
+## Poster & Conference Presentations
 
 Brazilian Symposium of Oceanography - SBO - Scientific poster presentations
 
@@ -638,7 +636,7 @@ Brazilian Congress of Meteorology - CBMet - Scientific poster presentation
 
 Regional Meeting of Applied and Computational Mathematics - ERMAC / SBMAC - Scientific presentation
 
-Professional & Academic Recognition
+### Professional & Academic Recognition
 
 My offshore survey and scientific work is supported by professional and academic references covering different stages of my career.
 
@@ -646,7 +644,7 @@ Professional documentation records work across hydrographic and marine-geophysic
 
 Professional and academic references are available when appropriate.
 
-Teaching & Scientific Communication
+### Teaching & Scientific Communication
 
 Alongside research and technical work, I have taught Mathematics, Statistics, Physics and Science in New Zealand.
 
@@ -654,7 +652,7 @@ Teaching has strengthened an important part of my professional practice: communi
 
 I am particularly interested in using authentic environmental observations to teach mathematics, statistics, data analysis and Earth-system science.
 
-Connect
+### Connect
 
 For consulting, project-based work, research collaboration or technical discussions:
 
