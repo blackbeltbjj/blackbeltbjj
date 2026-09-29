@@ -274,7 +274,8 @@ My offshore career progressed from navigation, processing, and survey-support re
       <sub><em>Preparing an Aquadopp current meter and mooring line during offshore field operations.</em></sub>
     </td>
     <td width="54%" valign="top">
-      Direct field experience includes instrument preparation, mooring-line assembly, vessel-based deployment and recovery, acquisition support, data QA/QC, and assessment of measurements within their operational and environmental context.
+      Assessed bathymetric, positioning and environmental data for shore approaches, dredging and backfilling; reviewed
+procedures, and risk assessments and reports.
     </td>
   </tr>
 </table>
