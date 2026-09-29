@@ -1,26 +1,39 @@
 <p align="center">
+
   <img src="images/blackbeltbjjBanner.png" alt="Fabio Vieira Machado" width="100%">
+
 </p>
 
 <h1 align="center">Fabio Vieira Machado</h1>
 
 <p align="center">
+
   <strong>Oceanographer | Hydrographic & Offshore Survey | Metocean | Scientific Data</strong><br>
+
   <em>From measurements at sea to defensible scientific information.</em>
+
 </p>
 
 <p align="center">
+
   <strong>20+ years spanning offshore survey operations, oceanographic observations, marine geophysics, subsea project support, scientific data analysis, and climate research.</strong>
+
 </p>
 
 <p align="center">
+
   Based in New Zealand | Available for consulting, project-based, and fixed-term assignments nationally and internationally
+
 </p>
 
 <p align="center">
+
   <a href="mailto:fvmachado.oceanscience@gmail.com">Email</a> ·
+
   <a href="https://orcid.org/0000-0003-0723-075X">ORCID</a> ·
+
   <a href="https://github.com/blackbeltbjj">GitHub</a>
+
 </p>
 
 ---
@@ -31,11 +44,12 @@
 - [Core Professional Expertise](#core-professional-expertise)
 - [Hydrographic, AUV & Offshore Survey](#hydrographic-auv--offshore-survey)
 - [Oceanographic Instrumentation & Field Operations](#oceanographic-instrumentation--field-operations)
+- [Offshore & Marine Survey Career](#offshore--marine-survey-career)
 - [Scientific Computing & Environmental Data](#scientific-computing--environmental-data)
 - [Research, Software & Reproducibility](#research-software--reproducibility)
-- [Offshore & Marine Survey Career](#offshore--marine-survey-career)
-- [Education & Training](#education--training)
+- [Publications & Scientific Development](#publications--scientific-development)
 - [Early Career & Research Foundation](#early-career--research-foundation)
+- [Education & Training](#education--training)
 - [Scientific Communication & Teaching](#scientific-communication--teaching)
 - [Contact](#contact)
 
@@ -112,6 +126,8 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 
 ## Hydrographic, AUV & Offshore Survey
 
+Technical capability across hydrographic acquisition, offshore navigation, AUV operations, multibeam processing, marine geophysics, field QA/QC, and survey deliverables.
+
 ### Survey & Processing Software
 
 `CARIS HIPS/SIPS` · `Kongsberg SIS` · `Hydromap Multibeam` · `Fledermaus` · `NavLab` · `Hypack/Hysweep`
@@ -131,7 +147,7 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 
 ### Acoustic Positioning & Subsea Navigation
 
-`Kongsberg HiPAP` · `APOS` · `C-NAV DGPS` · `USBL` · `LBL` · `AUV/HUGIN`
+`Kongsberg HiPAP` · `APOS` · `C-NAV DGPS` · `LBL` · `INS` · `DVL` · `AUV/HUGIN`
 
 Experience with offshore navigation, subsea acoustic positioning, and autonomous survey operations, including AUV mission support and integration of navigation, positioning, and survey data. My background in physical oceanography and underwater acoustics provides additional understanding of environmental influences on sound propagation and subsea positioning.
 
@@ -174,11 +190,112 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 - Instrument configuration and acoustic releases
 - Wave/current observations, environmental monitoring, and QA/QC
 
+<table>
+  <tr>
+    <td width="46%" align="center" valign="top">
+      <img src="images/offshore-field-operations.jpg"
+           alt="Fabio Machado and field team preparing an Aquadopp current meter and mooring line during offshore operations"
+           width="100%">
+      <br>
+      <sub><em>Preparing an Aquadopp current meter and mooring line during offshore field operations.</em></sub>
+    </td>
+    <td width="54%" valign="top">
+      Direct field experience includes instrument preparation, mooring-line assembly, vessel-based deployment and recovery, acquisition support, data QA/QC, and assessment of measurements within their operational and environmental context.
+    </td>
+  </tr>
+</table>
+
+#### ADCP Field Operations — Shore Approach
+
+Operational footage documenting vessel-based ADCP deployment and recovery during shore-approach survey work.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="videos/adcp-deployment-shore-approach.mp4?raw=1">
+        <img src="images/adcp-deployment-preview.jpg" alt="ADCP deployment during shore-approach survey operations" width="100%">
+      </a>
+      <br>
+      <strong>ADCP Deployment</strong><br>
+      <sub>Click the image to watch the operational footage.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="videos/adcp-recovery-shore-approach.mp4?raw=1">
+        <img src="images/adcp-recovery-preview.jpg" alt="ADCP recovery during shore-approach survey operations" width="100%">
+      </a>
+      <br>
+      <strong>ADCP Recovery</strong><br>
+      <sub>Click the image to watch the operational footage.</sub>
+    </td>
+  </tr>
+</table>
+
 ### Marine Sampling & Observational Systems
 
 Multi-bottle rosette systems · Nansen bottles · Plankton nets · Box-core sediment samplers · Oceanographic moorings · Wave buoys · CTD/SVP casts · Current-meter deployments
 
 Working directly with instruments and field observations provides important context when assessing the quality, uncertainty, and physical meaning of environmental datasets.
+
+---
+
+## Offshore & Marine Survey Career
+
+My offshore career progressed from navigation, processing, and survey-support responsibilities to hydrographic surveying, Offshore Operations Party Chief responsibilities, metocean operations, AUV/HUGIN and multibeam operations, marine-geophysical real-time data analysis, senior oceanographic work, field supervision, client-side technical support, and project coordination.
+
+### C&C Technologies do Brasil
+
+#### Hydrographic, AUV, and metocean responsibilities
+
+- Hydrographic and marine-geophysical surveys
+- Offshore Operations Party Chief responsibilities
+- AUV/HUGIN high-resolution survey operations
+- HiPAP acoustic positioning and offshore navigation
+- Multibeam acquisition, processing, and real-time geophysical analysis
+- Metocean services and physical-oceanographic observations
+- ADCP/DVL data, environmental-programme support, field QA/QC, and procedures
+
+### Petrobras
+
+#### Marine survey and project responsibilities
+
+- Marine survey and oceanographic work packages
+- Bathymetric, positioning, and environmental datasets
+- Vessel and contractor activities
+- HSE, quality control, procedures, and risk analysis
+- Technical reporting and multidisciplinary project coordination
+
+<table>
+
+  <tr>
+
+    <td width="34%" align="center" valign="top">
+
+      <img src="images/fvm_data_processing.jpg"
+
+           alt="Fabio Machado conducting bathymetric data processing and assessment during shore-approach survey work"
+
+           width="100%">
+
+      <br>
+
+      <sub><em>Shore approach — bathymetric data processing and assessment.</em></sub>
+
+    </td>
+
+  </tr>
+
+</table>
+
+### Subsea Consult
+
+#### Subsea survey and client-support responsibilities
+
+- Pipeline-route and subsea-infrastructure surveys
+- Pre-lay, post-lay, as-built, freespan, and shore-approach work
+- Dredging and backfilling projects
+- AUV high-resolution geophysical surveys
+- Oceanographic moorings and ADCP deployments
+- Client representation, technical reporting, and field support
 
 ---
 
@@ -224,8 +341,10 @@ My current research links scientific manuscripts with version-controlled computa
 
 #### Manuscript and scope
 
-**Manuscript:** *Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation*  
+**Manuscript:** **Defining the Pacific Warm Pool: Threshold Dependence of Centroid Geometry and Robustness of Interannual Variance Modulation**  
+
 **Journal:** Journal of Atmospheric and Oceanic Technology  
+
 **Status:** Submitted 18 August 2026
 
 The study examines how 28.0, 28.5, and 29.0 °C SST definitions alter diagnosed Pacific Warm Pool area, centroid position, spatial geometry, and displacement, while assessing the robustness of interannual variance modulation across thresholds.
@@ -241,15 +360,19 @@ The study examines how 28.0, 28.5, and 29.0 °C SST definitions alter diagnosed 
 Spherical geometry · Physical-area weighting · Threshold sensitivity · Centroid analysis · Connectivity · Wavelets · Occurrence and persistence
 
 <p align="center">
+
   <img src="pwp_wavelet_tc_longitude.png" alt="Pacific Warm Pool time-frequency analysis" width="82%">
+
 </p>
 
 ### Pacific Warm Pool — 28 °C Area Expansion & Spatial Organisation
 
 #### Manuscript and scope
 
-**Manuscript:** *Variability, Expansion and Spatial Organisation of the 28 °C Pacific Warm Pool from 1981 to 2026*  
+**Manuscript:** **Variability, Expansion and Spatial Organisation of the 28 °C Pacific Warm Pool from 1981 to 2026**  
+
 **Journal:** Revista Brasileira de Meteorologia  
+
 **Status:** Submitted 28 August 2026; anonymous review
 
 The study examines daily PWP28 area, long-term expansion, seasonality, temporal variability, and spatial connectivity using NOAA OISST v2.1. The supporting repository is maintained privately during review.
@@ -259,15 +382,19 @@ The study examines daily PWP28 area, long-term expansion, seasonality, temporal 
 Daily area · Long-term trend · Seasonal cycle · Interannual variability · Time-frequency analysis · Connectivity and fragmentation · Scientific QA/QC
 
 <p align="center">
+
   <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Spatial comparison of the 28 degree Celsius Pacific Warm Pool" width="82%">
+
 </p>
 
 ### Pacific Warm Pool — Largest Connected Component
 
 #### Manuscript and scope
 
-**Manuscript:** *Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981–2026*  
+**Manuscript:** **Expansion and Increasing Spatial Coherence of the Largest Connected Pacific Warm Pool, 1981–2026**  
+
 **Journal:** Journal of Climate  
+
 **Status:** Submitted 6 September 2026
 
 The study investigates the long-term evolution of the largest spatially connected warm-water component across multiple SST thresholds, integrating trends, seasonality, spectral variability, spatial occurrence, and connectivity diagnostics.
@@ -283,15 +410,19 @@ The study investigates the long-term evolution of the largest spatially connecte
 Connected-component analysis · Theil–Sen trends · STL · Welch power spectra · Continuous wavelets · Occurrence and persistence
 
 <p align="center">
+
   <img src="Figure_01_Canonical_vs_LCC_mean_occurrence_50pct.png" alt="Canonical Pacific Warm Pool and largest connected component mean occurrence" width="50%">
+
 </p>
 
 ### Pacific Warm Pool — Convective Enrichment
 
 #### Manuscript and scope
 
-**Manuscript:** *Threshold-Dependent Convective Enrichment of the Pacific Warm Pool, 1982–2025*  
+**Manuscript:** **Threshold-Dependent Convective Enrichment of the Pacific Warm Pool, 1982–2025**  
+
 **Journal:** Theoretical and Applied Climatology  
+
 **Status:** Submitted September 2026
 
 The study examines how SST threshold choice affects the diagnosed relationship between Pacific Warm Pool structure and deep convection over 1982–2025, using NOAA OISST v2.1 and NOAA Daily OLR CDR v2.0.
@@ -307,7 +438,9 @@ The study examines how SST threshold choice affects the diagnosed relationship b
 SST-threshold analysis · Deep-convection diagnostics · OLR · Connected-component analysis · Equatorial geometry · ENSO relationships
 
 <p align="center">
+
   <img src="TAAC13_Figure02_lcc_spatial_enrichment_v1.0.1.png" alt="Spatial convective enrichment of the Pacific Warm Pool across SST thresholds" width="70%">
+
 </p>
 
 ### Southern Ocean Observational Data
@@ -324,13 +457,17 @@ At the University of Auckland Centre for eResearch, I worked with irregularly sa
 <p align="center"><strong>Climatological Salinity Field</strong><br>Resolution: 1° × 1°</p>
 
 <p align="center">
+
   <img src="images/southern_ocean_gridded_analysis.png" alt="Southern Ocean gridded salinity analysis" width="45%">
+
 </p>
 
 <p align="center"><strong>Climatological Temperature Field</strong><br>Resolution: 1° × 1°</p>
 
 <p align="center">
+
   <img src="images/southern_ocean_observational_analysis.png" alt="Southern Ocean observational temperature analysis" width="52%">
+
 </p>
 
 ### Reproducibility Practice
@@ -351,12 +488,12 @@ My current scientific workflows incorporate:
 
 ### Peer-Reviewed Publications
 
-1. **Machado, F. V., & d'Avila, V. A. (2014).** O centroide da piscina de água quente do Pacífico como um indicador dos fenômenos El Niño e La Niña. *Revista Brasileira de Meteorologia, 29*, 443–456. [https://doi.org/10.1590/0102-778620130595](https://doi.org/10.1590/0102-778620130595)
-2. **Machado, F. V., & d'Avila, V. A. (2006).** A trajetória e a área da piscina de água quente do Pacífico. *Revista Brasileira de Meteorologia, 21*, 161–169.
+1. **Machado, F. V., & d'Avila, V. A. (2014).** O centroide da piscina de água quente do Pacífico como um indicador dos fenômenos El Niño e La Niña. **Revista Brasileira de Meteorologia, 29**, 443–456. [https://doi.org/10.1590/0102-778620130595](https://doi.org/10.1590/0102-778620130595)
+2. **Machado, F. V., & d'Avila, V. A. (2006).** A trajetória e a área da piscina de água quente do Pacífico. **Revista Brasileira de Meteorologia, 21**, 161–169.
 
 ### Conference Proceedings & Scientific Software
 
-**d'Avila, V. A., & Machado, F. V. (2004).** Programa para a visualização da grade de temperatura superficial dos oceanos e edição de máscaras numéricas continentais. *Congresso Brasileiro de Meteorologia — CBMet, Proceedings.*
+**d'Avila, V. A., & Machado, F. V. (2004).** Programa para a visualização da grade de temperatura superficial dos oceanos e edição de máscaras numéricas continentais. **Congresso Brasileiro de Meteorologia — CBMet, Proceedings.**
 
 This early work involved developing software to visualise ocean surface-temperature grids and manipulate numerical continental masks.
 
@@ -370,42 +507,25 @@ Today, related scientific questions are being revisited using daily high-resolut
 
 ---
 
-## Offshore & Marine Survey Career
+## Early Career & Research Foundation
 
-My offshore career progressed from navigation, processing, and survey-support responsibilities to hydrographic surveying, Offshore Operations Party Chief responsibilities, metocean operations, AUV/HUGIN and multibeam operations, marine-geophysical real-time data analysis, senior oceanographic work, field supervision, client-side technical support, and project coordination.
+### Climate Group — CPTEC/INPE
 
-### C&C Technologies do Brasil
+#### Research Internship | 1999
 
-#### Hydrographic, AUV, and metocean responsibilities
+Early experience within the Climate Group at Brazil's Center for Weather Forecasting and Climate Studies, under the supervision of Dr. José Antonio Marengo Orsini.
 
-- Hydrographic and marine-geophysical surveys
-- Offshore Operations Party Chief responsibilities
-- AUV/HUGIN high-resolution survey operations
-- HiPAP acoustic positioning and offshore navigation
-- Multibeam acquisition, processing, and real-time geophysical analysis
-- Metocean services and physical-oceanographic observations
-- ADCP/DVL data, environmental-programme support, field QA/QC, and procedures
+### Physical Oceanography & Satellite Data — UERJ/FAPERJ
 
-### Petrobras
+#### Undergraduate Research | 1999–2000
 
-#### Marine survey and project responsibilities
+Worked on the FAPERJ-supported project **A Mathematical Model for the El Niño Phenomenon**, using NOAA/AVHRR satellite SST observations, C++ and Fortran, Pacific Warm Pool area and centroid calculations, time-series analysis, scientific graphics, technical reports, and research presentations.
 
-- Marine survey and oceanographic work packages
-- Bathymetric, positioning, and environmental datasets
-- Vessel and contractor activities
-- HSE, quality control, procedures, and risk assessments
-- Technical reporting and multidisciplinary project coordination
+### Brazilian Navy — IEAPM
 
-### Subsea Consult
+#### Oceanographic Data Processing Internship | 2000
 
-#### Subsea survey and client-support responsibilities
-
-- Pipeline-route and subsea-infrastructure surveys
-- Pre-lay, post-lay, as-built, freespan, and shore-approach work
-- Dredging and backfilling projects
-- AUV high-resolution geophysical surveys
-- Oceanographic moorings and ADCP deployments
-- Client representation, technical reporting, and field support
+Worked with physical-oceanographic data processing and computational routines associated with the marine environment and underwater sound propagation at the Almirante Paulo Moreira Institute of Sea Studies.
 
 ---
 
@@ -416,16 +536,19 @@ My offshore career progressed from navigation, processing, and survey-support re
 #### MSc — Meteorology / Atmospheric Sciences
 
 **University of São Paulo — USP, Brazil**  
+
 Advanced postgraduate study in atmospheric and climate sciences, including atmospheric dynamics, meteorology, micrometeorology, climate variability, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
 
 #### Postgraduate Study — Ocean & Earth Dynamics
 
 **Fluminense Federal University — UFF, Brazil**  
+
 Advanced study related to ocean and Earth-system dynamics, including marine and geophysical processes.
 
 #### BSc — Oceanography
 
 **State University of Rio de Janeiro — UERJ, Brazil | 2002**  
+
 Professional education across physical, chemical, biological, and geological oceanography, hydrography, marine observations, and environmental sciences, supported by mathematics, statistics, and physics.
 
 ### Scientific & Quantitative Foundation
@@ -444,6 +567,7 @@ Professional education across physical, chemical, biological, and geological oce
 - **Teaching and Digital Education** - Massey University, Postgraduate Diploma in Education, 2026 | 30 credits | Grade: B
 
 **Completed postgraduate coursework since 2018: 75 credits.**
+
 ### Advanced Scientific & Professional Training
 
 - Instability Problems — LNCC (2003)
@@ -454,28 +578,6 @@ Professional education across physical, chemical, biological, and geological oce
 - Satellite Oceanography
 - CARIS HIPS — Hydrographic data-processing training
 - Sea-Bird CTD — Instrument operation and data processing
-
----
-
-## Early Career & Research Foundation
-
-### Climate Group — CPTEC/INPE
-
-#### Research Internship | 1999
-
-Early experience within the Climate Group at Brazil's Center for Weather Forecasting and Climate Studies, under the supervision of Dr. José Antonio Marengo Orsini.
-
-### Physical Oceanography & Satellite Data — UERJ/FAPERJ
-
-#### Undergraduate Research | 1999–2000
-
-Worked on the FAPERJ-supported project *A Mathematical Model for the El Niño Phenomenon*, using NOAA/AVHRR satellite SST observations, C++ and Fortran, Pacific Warm Pool area and centroid calculations, time-series analysis, scientific graphics, technical reports, and research presentations.
-
-### Brazilian Navy — IEAPM
-
-#### Oceanographic Data Processing Internship | 2000
-
-Worked with physical-oceanographic data processing and computational routines associated with the marine environment and underwater sound propagation at the Almirante Paulo Moreira Institute of Sea Studies.
 
 ---
 
@@ -505,6 +607,9 @@ For consulting, project-based work, research collaboration, or technical discuss
 - **GitHub:** [blackbeltbjj](https://github.com/blackbeltbjj)
 
 <p align="center">
+
   <strong>Ocean observations | Offshore operations | Scientific computing | Reproducible research</strong><br>
+
   <em>From measurements at sea to defensible scientific information.</em>
+
 </p>
