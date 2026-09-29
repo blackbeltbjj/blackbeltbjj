@@ -265,25 +265,18 @@ My offshore career progressed from navigation, processing, and survey-support re
 - Technical reporting and multidisciplinary project coordination
 
 <table>
-
   <tr>
-
-    <td width="34%" align="center" valign="top">
-
+    <td width="46%" align="center" valign="top">
       <img src="images/fvm_data_processing.jpg"
-
-           alt="Fabio Machado conducting bathymetric data processing and assessment during shore-approach survey work"
-
+           alt="Fabio Machado at Petrobras office assessing bathymetric report"
            width="100%">
-
       <br>
-
-      <sub><em>Shore approach — bathymetric data processing and assessment.</em></sub>
-
+      <sub><em>Preparing an Aquadopp current meter and mooring line during offshore field operations.</em></sub>
     </td>
-
+    <td width="54%" valign="top">
+      Direct field experience includes instrument preparation, mooring-line assembly, vessel-based deployment and recovery, acquisition support, data QA/QC, and assessment of measurements within their operational and environmental context.
+    </td>
   </tr>
-
 </table>
 
 ### Subsea Consult
