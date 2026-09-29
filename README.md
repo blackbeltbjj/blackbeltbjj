@@ -192,14 +192,14 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 
 <table>
   <tr>
-    <td width="46%" align="center" valign="top">
+    <td width="34%" align="left" valign="top">
       <img src="images/offshore-field-operations.jpg"
            alt="Fabio Machado and field team preparing an Aquadopp current meter and mooring line during offshore operations"
            width="100%">
       <br>
       <sub><em>Preparing an Aquadopp current meter and mooring line during offshore field operations.</em></sub>
     </td>
-    <td width="54%" valign="top">
+    <td width="43%" valign="top">
       Direct field experience includes instrument preparation, mooring-line assembly, vessel-based deployment and recovery, acquisition support, data QA/QC, and assessment of measurements within their operational and environmental context.
     </td>
   </tr>
@@ -211,7 +211,7 @@ Operational footage documenting vessel-based ADCP deployment and recovery during
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="40%" align="left" valign="top">
       <a href="videos/adcp-deployment-shore-approach.mp4?raw=1">
         <img src="images/adcp-deployment-preview.jpg" alt="ADCP deployment during shore-approach survey operations" width="100%">
       </a>
@@ -219,7 +219,7 @@ Operational footage documenting vessel-based ADCP deployment and recovery during
       <strong>ADCP Deployment</strong><br>
       <sub>Click the image to watch the operational footage.</sub>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="40%" align="right" valign="top">
       <a href="videos/adcp-recovery-shore-approach.mp4?raw=1">
         <img src="images/adcp-recovery-preview.jpg" alt="ADCP recovery during shore-approach survey operations" width="100%">
       </a>
@@ -266,14 +266,14 @@ My offshore career progressed from navigation, processing, and survey-support re
 
 <table>
   <tr>
-    <td width="46%" align="center" valign="top">
+    <td width="34%" align="center" valign="top">
       <img src="images/fvm_data_processing.jpg"
            alt="Fabio Machado at Petrobras office assessing bathymetric report"
            width="100%">
       <br>
       <sub><em>Preparing an Aquadopp current meter and mooring line during offshore field operations.</em></sub>
     </td>
-    <td width="54%" valign="top">
+    <td width="43%" valign="top">
       Assessed bathymetric, positioning and environmental data for shore approaches, dredging and backfilling; reviewed
 procedures, and risk assessments and reports.
     </td>
