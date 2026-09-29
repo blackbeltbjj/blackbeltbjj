@@ -271,7 +271,7 @@ My offshore career progressed from navigation, processing, and survey-support re
            alt="Fabio Machado at Petrobras office assessing bathymetric report"
            width="100%">
       <br>
-      <sub><em>Preparing an Aquadopp current meter and mooring line during offshore field operations.</em></sub>
+      <sub><em>At Petrobras office reviewing technical report.</em></sub>
     </td>
     <td width="43%" valign="top">
       Assessed bathymetric, positioning and environmental data for shore approaches, dredging and backfilling; reviewed
