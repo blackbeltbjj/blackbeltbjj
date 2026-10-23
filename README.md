@@ -406,11 +406,11 @@ This work follows daily sea-surface temperature observations through the definit
 Spherical geometry · NOAA OISST v2.1 · Daily area · Trend estimation · Seasonal climatology · Residual diagnostics · Autocorrelation · Hindcast and forecasting · Science education
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_01_PWP28_spatial_snapshots.png" alt="Six-date comparison of the canonical Pacific Warm Pool" width="65%">
+  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/main/figures/manuscript/RBEF_Figure_01_PWP28_spatial_snapshots.png" alt="Six-date comparison of the canonical Pacific Warm Pool" width="65%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_02_PWP28_daily_area.png" alt="Daily Pacific Warm Pool area, 1981 to 2026" width="48%">
-  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_03_PWP28_annual_trend.png" alt="Annual Pacific Warm Pool area trends" width="48%">
+  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/main/figures/manuscript/RBEF_Figure_02_PWP28_daily_area.png" alt="Daily Pacific Warm Pool area, 1981 to 2026" width="48%">
+  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/main/figures/manuscript/RBEF_Figure_03_PWP28_annual_trend.png" alt="Annual Pacific Warm Pool area trends" width="48%">
 </p>
 
 ### Pacific Warm Pool — Largest Connected Component
