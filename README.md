@@ -328,6 +328,7 @@ My current research links scientific manuscripts with version-controlled computa
 |---|---|---|---|
 | **PWP threshold definition and centroid geometry** | Effects of 28.0, 28.5, and 29.0 °C definitions on warm-pool geometry and variability | [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP) · [Sensitivity repository](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity) · Zenodo DOIs | JTECH submission, 18 Aug 2026 |
 | **PWP28 area expansion and spatial organisation** | Daily area, trend, seasonality, variability, connectivity, and fragmentation | Private reproducibility repository during review | RBMet submission, 28 Aug 2026 |
+| **PWP28 time-series analysis and physics education** | Daily SST-derived area, trends, seasonality, time-series diagnostics and educational applications | [PWP28-Physics-Education](https://github.com/blackbeltbjj/PWP28-Physics-Education) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23584235) | RBEF manuscript in preparation; archived release v1.0.0, Oct 2026 |
 | **Largest connected Pacific Warm Pool** | Long-term expansion and increasing spatial coherence across SST thresholds | [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence) · [Zenodo](https://doi.org/10.5281/zenodo.22499662) | Journal of Climate submission, 6 Sep 2026 |
 | **Convective enrichment** | Threshold-dependent relationship between warm-pool structure and deep convection | [pwp-convective-enrichment](https://github.com/blackbeltbjj/pwp-convective-enrichment) · [Zenodo](https://doi.org/10.5281/zenodo.22857851) | Theoretical and Applied Climatology submission, Sep 2026 |
 
@@ -381,6 +382,36 @@ Daily area · Long-term trend · Seasonal cycle · Interannual variability · Ti
 
 </p>
 
+### Pacific Warm Pool — Time-Series Analysis & Climate Education
+
+#### Manuscript and scope
+
+**Research focus:** Pacific Warm Pool area variability and the teaching of time-series analysis using authentic climate observations
+
+**Journal:** Revista Brasileira de Ensino de Física (RBEF)
+
+**Status:** Manuscript in preparation; reproducibility release v1.0.0 archived October 2026
+
+This work follows daily sea-surface temperature observations through the definition of the 28 °C Pacific Warm Pool, spherical area calculations, and statistical analysis. It connects spatial oceanographic observations with long-term trends, seasonal variability, residual diagnostics, and forecasting, providing a data-driven example for physics and statistics education.
+
+#### Scientific software and archive
+
+- **Software and derived data:** [PWP28-Physics-Education](https://github.com/blackbeltbjj/PWP28-Physics-Education)
+- **Release:** [v1.0.0](https://github.com/blackbeltbjj/PWP28-Physics-Education/releases/tag/v1.0.0)
+- **Archive:** [Zenodo DOI: 10.5281/zenodo.23584235](https://doi.org/10.5281/zenodo.23584235)
+- **Reproducibility:** 17 numerical output tables matched the original results; Figures 2–9 were regenerated. Full spatial reproduction of Figure 1 requires the original gridded SST data and Pacific-domain mask.
+
+#### Methods
+
+Spherical geometry · NOAA OISST v2.1 · Daily area · Trend estimation · Seasonal climatology · Residual diagnostics · Autocorrelation · Hindcast and forecasting · Science education
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_01_PWP28_spatial_snapshots.png" alt="Six-date comparison of the canonical Pacific Warm Pool" width="65%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_02_PWP28_daily_area.png" alt="Daily Pacific Warm Pool area, 1981 to 2026" width="48%">
+  <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_03_PWP28_annual_trend.png" alt="Annual Pacific Warm Pool area trends" width="48%">
+</p>
 ### Pacific Warm Pool — Largest Connected Component
 
 #### Manuscript and scope
