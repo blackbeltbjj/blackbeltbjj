@@ -412,6 +412,7 @@ Spherical geometry · NOAA OISST v2.1 · Daily area · Trend estimation · Seaso
   <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_02_PWP28_daily_area.png" alt="Daily Pacific Warm Pool area, 1981 to 2026" width="48%">
   <img src="https://raw.githubusercontent.com/blackbeltbjj/PWP28-Physics-Education/v1.0.0/figures/manuscript/RBEF_Figure_03_PWP28_annual_trend.png" alt="Annual Pacific Warm Pool area trends" width="48%">
 </p>
+
 ### Pacific Warm Pool — Largest Connected Component
 
 #### Manuscript and scope
