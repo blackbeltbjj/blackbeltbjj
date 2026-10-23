@@ -328,7 +328,7 @@ My current research links scientific manuscripts with version-controlled computa
 |---|---|---|---|
 | **PWP threshold definition and centroid geometry** | Effects of 28.0, 28.5, and 29.0 °C definitions on warm-pool geometry and variability | [OSAF-PWP](https://github.com/blackbeltbjj/OSAF-PWP) · [Sensitivity repository](https://github.com/blackbeltbjj/pwp-threshold-centroid-sensitivity) · Zenodo DOIs | JTECH submission, 18 Aug 2026 |
 | **PWP28 area expansion and spatial organisation** | Daily area, trend, seasonality, variability, connectivity, and fragmentation | Private reproducibility repository during review | RBMet submission, 28 Aug 2026 |
-| **PWP28 time-series analysis and physics education** | Daily SST-derived area, trends, seasonality, time-series diagnostics and educational applications | [PWP28-Physics-Education](https://github.com/blackbeltbjj/PWP28-Physics-Education) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23584235) | RBEF manuscript in preparation; archived release v1.0.0, Oct 2026 |
+| **PWP28 time-series analysis and physics education** | Daily SST-derived area, trends, seasonality, time-series diagnostics and educational applications | [PWP28-Physics-Education](https://github.com/blackbeltbjj/PWP28-Physics-Education) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23584235) | RBEF submitted 23 Oct 2026 (RBEF-2026-0506); archived release v1.0.0 |
 | **Largest connected Pacific Warm Pool** | Long-term expansion and increasing spatial coherence across SST thresholds | [pwp-lcc-spatial-coherence](https://github.com/blackbeltbjj/pwp-lcc-spatial-coherence) · [Zenodo](https://doi.org/10.5281/zenodo.22499662) | Journal of Climate submission, 6 Sep 2026 |
 | **Convective enrichment** | Threshold-dependent relationship between warm-pool structure and deep convection | [pwp-convective-enrichment](https://github.com/blackbeltbjj/pwp-convective-enrichment) · [Zenodo](https://doi.org/10.5281/zenodo.22857851) | Theoretical and Applied Climatology submission, Sep 2026 |
 
@@ -390,7 +390,7 @@ Daily area · Long-term trend · Seasonal cycle · Interannual variability · Ti
 
 **Journal:** Revista Brasileira de Ensino de Física (RBEF)
 
-**Status:** Manuscript in preparation; reproducibility release v1.0.0 archived October 2026
+**Status:** Submitted 23 October 2026 (RBEF-2026-0506); reproducibility release v1.0.0 archived October 2026
 
 This work follows daily sea-surface temperature observations through the definition of the 28 °C Pacific Warm Pool, spherical area calculations, and statistical analysis. It connects spatial oceanographic observations with long-term trends, seasonal variability, residual diagnostics, and forecasting, providing a data-driven example for physics and statistics education.
 
