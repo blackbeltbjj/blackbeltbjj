@@ -236,7 +236,11 @@ Software:
 
 #### Software and Operational Activities
 
-- PlanADCP, WinADCP, WinSC, and BBTalk, Nortek AquaPro
+- `PlanADCP` for planning and configuration
+- `WinADCP` to communicate and deploy the ADCP 
+- `WinSC` for communication, deployment planning, testing, and data recovery with WorkHorse ADCP instruments 
+- `BBTalk` to interface with Teledyne RDI hardware
+- `Nortek AquaPro` 
 - Compass calibration, instrument setup for data acquisition, deployment, and recovery 
 - Data conversion, filtering, QA/QC, and interpretation of current profiles and directional waves
 
