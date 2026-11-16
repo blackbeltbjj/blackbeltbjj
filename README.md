@@ -154,7 +154,7 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 - HUGIN 3000 and 4500 AUV operations 
 Aboard **R/V Northern Resolution** and **R/V Rig Supporter**
 `Kongsberg EM 2040 / EM 2000 MBES for bathymetry and backscatter` . `EdgeTech 2200/2205 dual-frequency SSS` . `EdgeTech CHIRP SBP` .
-`Teledyne RDI DVL` . 'Kongsberg cNODE / HiPAP acoustic transponders operated through APOS` . `Kongsberg / Cathx still cameras for seabed imagery and photomosaicking`
+`Teledyne RDI DVL` . `Kongsberg cNODE / HiPAP acoustic transponders operated through APOS` . `Kongsberg / Cathx still cameras for seabed imagery and photomosaicking`
 `Teledyne RDI DVL` . `Sea-Bird SBE 37/49 CTD` 
 
 Software: 
@@ -168,17 +168,17 @@ Software:
 
 - Reconnaissance supporting AUV deployments on continental shelf and upper-slope operations
 Aboard **R/V Ocean Surveyor and R/V Andrew Charles** 
-. Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES; 
-. EdgeTech CHIRP SBP; 
-. deep-towed EdgeTech SSS with armoured cable and 
-. USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders; 
-. Sea-Bird CTD casts; 
-. C-Nav GNSS.
+`Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES` 
+. `EdgeTech CHIRP SBP` 
+. `deep-towed EdgeTech SSS with armoured cable` and 
+. `USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders` 
+. `Sea-Bird CTD casts` 
+. `C-Nav GNSS`
 Software:
-. HydroMap for navigation and data acquisition; 
-. CARIS HIPS & SIPS for MBE and Backscatter data processing; 
-. SonarWiz for sonar visualisation; 
-. Sea-Bird Seaterm / SBE Data Processing for CTD workflows. 
+. `HydroMap` for navigation and data acquisition; 
+. `CARIS HIPS & SIPS` for MBE and Backscatter data processing; 
+. `SonarWiz` for sonar visualisation; 
+. `Sea-Bird Seaterm / SBE Data Processing` for CTD workflows. 
 
 #### Coastal Hydrographic & Geophysical Survey Operations (<100 m)
 ##### Party Chief / Hydrographic Surveyor
@@ -187,15 +187,15 @@ Software:
 
 Aboard **R/V Coastal Surveyor** using hull-mounted configurations: 
 
-. Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz); 
-. EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers; 
-. EdgeTech 4100/4200 series SSS in mounted and towed configurations. 
-. Sea-Bird SBE 19plus V2 SeaCAT CTD casts for SVP; 
-. C-Nav GNSS/DGPS integrated with MRU.  
+`Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz)` 
+. `EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers` 
+. `EdgeTech 4100/4200 series SSS in mounted and towed configurations` 
+. `Sea-Bird SBE 19plus V2 SeaCAT CTD casts for SVP` 
+. `C-Nav GNSS/DGPS integrated with MRU`.  
 Software: 
-. HydroMap for navigation, acquisition and MBES processing; 
-. SonarWiz for SSS/SBP; 
-. Seaterm / SBE Data Processing for CTD and sound-velocity processing. 
+`HydroMap` for navigation, acquisition and MBES processing 
+. `SonarWiz` for SSS/SBP; 
+. `Seaterm / SBE Data Processing` for CTD and sound-velocity processing. 
 
 
 ## Metoceanographic Operations
