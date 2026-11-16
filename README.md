@@ -42,7 +42,7 @@
 
 - [About Me](#about-me)
 - [Core Professional Expertise](#core-professional-expertise)
-- [Hydrographic, AUV & Offshore Survey](#hydrographic-auv--offshore-survey)
+- [Hydrographic AUV High Resolution & Reconnaissance Survey](#hydrographic-auv--high-resolution--reconnaissance-survey)
 - [Oceanographic Instrumentation & Field Operations](#oceanographic-instrumentation--field-operations)
 - [Offshore & Marine Survey Career](#offshore--marine-survey-career)
 - [Scientific Computing & Environmental Data](#scientific-computing--environmental-data)
@@ -116,8 +116,8 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 
 ### Areas of Professional Interest
 
-- **Survey and offshore:** Hydrographic survey, offshore survey, marine geophysics, underwater acoustics, subsea positioning, and AUV operations
-- **Ocean and environment:** Physical oceanography, metocean, oceanographic instrumentation, environmental monitoring, and ocean observations
+- **Survey and offshore:** Hydrographic survey, marine geophysics, underwater acoustics, subsea positioning, and AUV operations
+- **Ocean and environment:** Physical oceanography, metocean, oceanographic instrumentation, ocean observations, and environmental monitoring
 - **Climate science:** Climate variability, ENSO, Pacific Warm Pool, and satellite oceanography
 - **Computing and data:** Scientific Python, environmental data science, time-series analysis, and spatial analysis
 - **Research practice:** Reproducible research, scientific software, and research-data management
