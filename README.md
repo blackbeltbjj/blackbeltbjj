@@ -236,35 +236,35 @@ Fourmonth maintenance turnarounds covering recovery, biofouling cleaning, batter
 .  C-Nav GNSS. 
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
 Software: 
-.  Teledyne RDI VmDas 
-.  WinSC/WinADCP
-.  PlanADCP 
-.  BBTalk 
-.  Nortek AquaPro 
-.  Sea-Bird Seaterm, SeaSave, SBE Data Processing 
+.  Teledyne RDI VmDas\ 
+.  WinSC/WinADCP\ 
+.  PlanADCP\  
+.  BBTalk\  
+.  Nortek AquaPro\  
+.  Sea-Bird Seaterm, SeaSave, SBE Data Processing\  
 
 #### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
 ##### Supervisor / Senior Oceanographer
 - Shallow-Water mooring deployments and recoveries 
 Aboard local **ships of opportunity**: 
-. Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
-. Acoustic releases and pop-up buoy recovery. 
+-- Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
+-- Acoustic releases and pop-up buoy recovery. 
 Monthly maintenance turnarounds covering recovery, biofouling cleaning, battery replacement, data retrieval,  QC and redeployment. 
-.  C-Nav GNSS. 
+--  C-Nav GNSS. 
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
 Software: 
-.  WinSC/WinADCP
-.  PlanADCP 
-.  BBTalk 
+--  WinSC/WinADCP
+--  PlanADCP 
+--  BBTalk 
 
 #### Multidisciplinary Hydrographic, Mooring & Environmental Baseline Surveys
 #####  Supervisor / Senior Oceanographer 
-- Hydrographic reconnaissance survey and marine environmental monitoring 
-Aboard local ** R/V Andrew Charles**: 
-. Niskin and Nansen bottles for nutrients, pH and dissolved oxygen using Winkler titration; 
-. Plankton net tows; 
-. Boxcorer sediment sampling for benthic and geochemical assessments.   
-. Same as **Reconnaissance Survey Operations (100–800 m)**
+- Hydrographic reconnaissance survey and marine environmental monitoring\ 
+Aboard local ** R/V Andrew Charles**:\ 
+-- Niskin and Nansen bottles for nutrients, pH and dissolved oxygen using Winkler titration\ 
+-- Plankton net tows\ 
+-- Boxcorer sediment sampling for benthic and geochemical assessments\   
+-- Same as **Reconnaissance Survey Operations (100–800 m)**\
 
 ---
 
