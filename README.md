@@ -134,7 +134,7 @@ Technical capability across hydrographic acquisition, offshore navigation, AUV o
 
 ### Acoustic Positioning & Subsea Navigation
 
-`Kongsberg HiPAP` · `APOS` · `C-NAV DGPS` · `LBL` · `INS` · `DVL` · `AUV/HUGIN`
+`Kongsberg HiPAP` · `APOS` · `C-NAV DGPS` · `USBL` · `INS` · `DVL` · `AUV/HUGIN`
 
 Experience with offshore navigation, subsea acoustic positioning, and autonomous survey operations, including AUV mission support and integration of navigation, positioning, and survey data. My background in physical oceanography and underwater acoustics provides additional understanding of environmental influences on sound propagation and subsea positioning.
 
@@ -149,31 +149,43 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 ### Survey Applications
 
 #### Deep-Ocean AUV Hydrographic & Geophysical Survey Operations (>1,000 m)
-##### AUV Operator / MBES and Backscatter Data Processor
+_**Position: AUV Operator / MBES and Backscatter Data Processor**_
 
-- HUGIN 3000 and 4500 AUV operations 
+##### Aboard *R/V Northern Resolution* and *R/V Rig Supporter*
 
-Aboard **R/V Northern Resolution** and **R/V Rig Supporter**
+##### C-Surveyor II AUV HUGIN 3000 and 4500 AUV Systems & Payloads
 
-`Kongsberg EM 2040 / EM 2000 MBES for bathymetry and backscatter` . `EdgeTech 2200/2205 dual-frequency SSS` . `EdgeTech CHIRP SBP` .
-`Teledyne RDI DVL` . `Kongsberg cNODE / HiPAP acoustic transponders operated through APOS` . `Kongsberg / Cathx still cameras for seabed imagery and photomosaicking`
-`Teledyne RDI DVL` . `Sea-Bird SBE 37/49 CTD` 
+- `200 kHz Kongsberg EM2000 multibeam` . `EdgeTech 2200/2205 dual-frequency SSS` . `EdgeTech DW106 Chirp SBP`
+- `Teledyne RDI DVL` . `Kongsberg cNODE / HiPAP acoustic transponders operated through APOS` . `Ultra-Short BaseLine (USBL) acoustic tracking system`
+- `Teledyne RDI DVL` . `Sea-Bird SBE 37/49 CTD` 
+- `Kongsberg / Cathx still cameras for seabed imagery and photomosaicking`
+
+##### Hull-Mounted Sonars & Vessel Geophysical Gear
+
+- `12 kHz Kongsberg EM120` generated 191 beams per ping across a swath up to 5.5 times the water depth while simultaneously recording seabed backscatter during transit and reconnaissance phases.
+- ` 3.5 kHz / SBP 120`  to map upper sediment layers across broad regional transects during transit and reconnaissance phases.
+- `C-Nav dual-frequency DGPS` with satellite-based augmentation paired with a high-grade `Inertial Navigation System (INS)` / `Motion Reference Unit (MRU)` to compensate for vessel heave, pitch, roll, and yaw.
+- 'Ultra-Short Baseline (USBL)' subsea acoustic transceiver (Kongsberg HiPAP system) tracked the subsea acoustic transponder on the AUV or towfish in real time relative to the ship's GPS coordinates.
+- `Ring-laser gyro Inertial Measuring Unit (IMU)` aided by a `Doppler Velocity Log (DVL)` (which locks onto the seafloor to measure speed over ground), a high-precision `pressure depth sensor`, and a north-seeking `gyrocompass`.
+- `Acoustic data link` to transmit sub-sampled sonar snippets, vehicle health diagnostics, and navigation residuals up to the ship's survey lab in real time, allowing surveyors to verify data quality and adjust mission waypoints mid-dive without recovering the vehicle.
+
 
 Software: 
+
 - `APOS` to control and monitor underwater acoustic positioning systems, primarily HiPAP and HPR systems
 - `C&C HydroMap MBE` for navigation, acquisition, pre-processing, MBES and sensor-fusion workflows 
 - `Kongsberg NavLab` for navigation simulation, analysis, and post-processing 
-- `Chesapeake SonarWiz` for SSS/SBP visualization; 
 - `Seaterm` for direct serial/RS232 communication, status checks, and running direct instrument commands
 - `SEASOFT V2` for data acquisition, conversion, and post-processing
 - `SBE Data Processing` to convert raw hex/data files into engineering units, align CTD sensors, filter data, remove cell thermal mass effects, edit spikes, derive parameters (like salinity and TEOS-10 properties), and bin-average data
 
+
 #### Offshore Geophysical & Reconnaissance Survey Operations (100–800 m)
-##### AUV Operator / MBES Data Processor
+_**AUV Operator / MBES Data Processor**_
 
 - Reconnaissance supporting AUV deployments on continental shelf and upper-slope operations
 
-Aboard **R/V Ocean Surveyor and R/V Andrew Charles** 
+##### Aboard *R/V Ocean Surveyor* and *R/V Andrew Charles* 
 
 - `Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES` . `EdgeTech CHIRP SBP` . `deep-towed EdgeTech SSS with armoured cable` and 
 - `USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders` 
@@ -190,11 +202,11 @@ Software:
 - `SBE Data Processing` to convert raw hex/data files into engineering units, align CTD sensors, filter data, remove cell thermal mass effects, edit spikes, derive parameters (like salinity and TEOS-10 properties), and bin-average data
 
 #### Coastal Hydrographic & Geophysical Survey Operations (<100 m)
-##### Party Chief / Hydrographic Surveyor
+_**Party Chief / Hydrographic Surveyor**_
 
 - Shallow-water operations 
 
-Aboard **R/V Coastal Surveyor** using hull-mounted configurations: 
+##### Aboard *R/V Coastal Surveyor* using hull-mounted configurations: 
 
 - `Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz)` 
 - `EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers` 
@@ -245,11 +257,11 @@ Software:
 - Data conversion, filtering, QA/QC, and interpretation of current profiles and directional waves
 
 ### Deep- & Ultra-Deep-Water Mooring & Metocean Operations (1,200–2,600 m)
-##### Supervisor / Senior Oceanographer
+_**Supervisor / Senior Oceanographer**_
 
 - Deep- & Ultra-Deep-Water mooring deployments, recoveries and metocean surveys 
 
-Aboard **R/V V Emma McCall**: 
+##### Aboard *R/V Emma McCall*: 
 
 - SBE 37 MicroCAT CTD; 
 - Nortek Aquadopp current meters; 
@@ -273,11 +285,11 @@ Software:
 - Sea-Bird Seaterm, SeaSave, SBE Data Processing 
 
 ### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
-##### Supervisor / Senior Oceanographer
+_**Supervisor / Senior Oceanographer**_
 
 - Shallow-Water mooring deployments and recoveries 
 
-Aboard local **ships of opportunity**: 
+#####  Aboard local *ships of opportunity*: 
 
 - Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
 - Acoustic releases and pop-up buoy recovery. 
@@ -293,11 +305,11 @@ Software:
 -  BBTalk 
 
 ### Multidisciplinary Hydrographic, Mooring & Environmental Baseline Surveys
-#####  Supervisor / Senior Oceanographer 
+**_Supervisor / Senior Oceanographer_** 
 
 - Hydrographic reconnaissance survey and marine environmental monitoring 
 
-Aboard local ** R/V Andrew Charles**:
+#####  Aboard R/V Andrew Charles**:
 
 - Niskin and Nansen bottles for nutrients, pH and dissolved oxygen using Winkler titration 
 - Plankton net tows
