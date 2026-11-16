@@ -160,10 +160,13 @@ Aboard **R/V Northern Resolution** and **R/V Rig Supporter**
 `Teledyne RDI DVL` . `Sea-Bird SBE 37/49 CTD` 
 
 Software: 
-`C&C HydroMap` for navigation, acquisition, pre-processing, MBES and sensor-fusion workflows . 
-`Kongsberg NavLab` for inertial navigation post-processing; 
-`Chesapeake SonarWiz` for SSS/SBP visualization; 
-`Sea-Bird Seaterm / SBE Data Processing` for CTD configuration, diagnostics and SVP processing. 
+- `APOS` to control and monitor underwater acoustic positioning systems, primarily HiPAP and HPR systems
+- `C&C HydroMap MBE` for navigation, acquisition, pre-processing, MBES and sensor-fusion workflows 
+- `Kongsberg NavLab` for navigation simulation, analysis, and post-processing 
+- `Chesapeake SonarWiz` for SSS/SBP visualization; 
+- `Seaterm` for direct serial/RS232 communication, status checks, and running direct instrument commands
+- `SEASOFT V2` for data acquisition, conversion, and post-processing
+- `SBE Data Processing` to convert raw hex/data files into engineering units, align CTD sensors, filter data, remove cell thermal mass effects, edit spikes, derive parameters (like salinity and TEOS-10 properties), and bin-average data
 
 #### Offshore Geophysical & Reconnaissance Survey Operations (100–800 m)
 ##### AUV Operator / MBES Data Processor
@@ -172,17 +175,19 @@ Software:
 
 Aboard **R/V Ocean Surveyor and R/V Andrew Charles** 
 
-`Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES` . `EdgeTech CHIRP SBP` . `deep-towed EdgeTech SSS with armoured cable` and 
-. `USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders` 
-. `Sea-Bird CTD casts` 
-. `C-Nav GNSS`
+- `Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES` . `EdgeTech CHIRP SBP` . `deep-towed EdgeTech SSS with armoured cable` and 
+- `USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders` 
+- `Sea-Bird CTD casts` 
+- `C-Nav GNSS`
 
 Software:
 
-. `HydroMap` for navigation and data acquisition; 
-. `CARIS HIPS & SIPS` for MBE and Backscatter data processing; 
-. `SonarWiz` for sonar visualisation; 
-. `Sea-Bird Seaterm / SBE Data Processing` for CTD workflows. 
+- `C&C HydroMap MBE` for navigation and data acquisition and processing 
+- `CARIS HIPS & SIPS` for MBE and Backscatter data processing
+- `SonarWiz` for sonar visualisation
+- `Seaterm` for direct serial/RS232 communication, status checks, and running direct instrument commands
+- `SEASOFT V2` for data acquisition, conversion, and post-processing
+- `SBE Data Processing` to convert raw hex/data files into engineering units, align CTD sensors, filter data, remove cell thermal mass effects, edit spikes, derive parameters (like salinity and TEOS-10 properties), and bin-average data
 
 #### Coastal Hydrographic & Geophysical Survey Operations (<100 m)
 ##### Party Chief / Hydrographic Surveyor
@@ -191,17 +196,19 @@ Software:
 
 Aboard **R/V Coastal Surveyor** using hull-mounted configurations: 
 
-`Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz)` 
-. `EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers` 
-. `EdgeTech 4100/4200 series SSS in mounted and towed configurations` 
-. `Sea-Bird SBE 19plus V2 SeaCAT CTD casts for SVP` 
-. `C-Nav GNSS/DGPS integrated with MRU`.  
+- `Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz)` 
+- `EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers` 
+- `EdgeTech 4100/4200 series SSS in mounted and towed configurations` 
+- `Sea-Bird SBE 19plus V2 SeaCAT CTD casts for SVP` 
+- `C-Nav GNSS/DGPS integrated with MRU`.  
 
 Software: 
 
-. `HydroMap` for navigation, acquisition and MBES processing 
-. `SonarWiz` for SSS/SBP; 
-. `Seaterm / SBE Data Processing` for CTD and sound-velocity processing. 
+- `HydroMap` for navigation, acquisition and MBES processing 
+- `SonarWiz` for SSS/SBP; 
+- `Seaterm` for direct serial/RS232 communication, status checks, and running direct instrument commands
+- `SEASOFT V2` for data acquisition, conversion, and post-processing
+- `SBE Data Processing` to convert raw hex/data files into engineering units, align CTD sensors, filter data, remove cell thermal mass effects, edit spikes, derive parameters (like salinity and TEOS-10 properties), and bin-average data
 
 
 ---
@@ -216,9 +223,10 @@ Software:
 
 #### Software and Operational Activities
 
-- SeaTerm, Seasave, and SBE Data Processing
-- Instrument setup, deployment, recovery, real-time data acquisition, 
-- Data conversion, filtering, alignment, QA/QC, and interpretation of physical-oceanographic profiles
+- `Seasave V7` for real-time data acquisition and display during shipboard profiling
+- `Seaterm` for direct serial/RS232 communication, status checks, and running direct instrument commands
+- `SEASOFT V2` for data acquisition, conversion, and post-processing
+- `SBE Data Processing` to convert raw hex/data files into engineering units, align CTD sensors, filter data, remove cell thermal mass effects, edit spikes, derive parameters (like salinity and TEOS-10 properties), and bin-average data
 
 ### ADCP Systems and Current meter 
 
@@ -269,7 +277,7 @@ Aboard local **ships of opportunity**:
 
 - Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
 - Acoustic releases and pop-up buoy recovery. 
--  C-Nav GNSS. 
+- C-Nav GNSS. 
 
 Monthly maintenance turnarounds covering recovery, biofouling cleaning, battery replacement, data retrieval,  QC and redeployment. 
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
