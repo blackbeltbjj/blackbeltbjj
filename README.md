@@ -518,7 +518,7 @@ Daily area · Long-term trend · Seasonal cycle · Interannual variability · Ti
 
 <p align="center">
 
-  <img src="Figure_1_OISST_Pacific_Ocean_SST_28C.png" alt="Spatial comparison of the 28 degree Celsius Pacific Warm Pool" width="82%">
+  <img src="RBMET_Figure_01_RGB_600dpi.tif" alt="Spatial comparison of the 28 degree Celsius Pacific Warm Pool" width="82%">
 
 </p>
 
