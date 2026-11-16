@@ -187,7 +187,9 @@ Software:
 ##### Party Chief / Hydrographic Surveyor
 
 - Shallow-water operations 
-. Aboard **R/V Coastal Surveyor** using hull-mounted configurations: 
+
+Aboard **R/V Coastal Surveyor** using hull-mounted configurations: 
+
 . Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz); 
 . EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers; 
 . EdgeTech 4100/4200 series SSS in mounted and towed configurations. 
@@ -225,46 +227,60 @@ Software:
 ##### Supervisor / Senior Oceanographer
 
 - Deep- & Ultra-Deep-Water mooring deployments, recoveries and metocean surveys 
+
 Aboard **R/V V Emma McCall**: 
+
 .  SBE 37 MicroCAT CTD; 
 .  Nortek Aquadopp current meters; 
 .  Teledyne RDI Workhorse Long Ranger 75 kHz ADCP; 
 .  EdgeTech 8242XS deep-water acoustic releases. 
+
 Fourmonth maintenance turnarounds covering recovery, biofouling cleaning, batteries, data retrieval and redeployment. 
+
 .  Vessel-mounted Teledyne RDI Ocean Surveyor ADCP, 
 .  full-depth SBE 19plus (4 Hz) SeaCAT CTD casts and 
 .  C-Nav GNSS. 
+
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
 Software: 
-.  Teledyne RDI VmDas  \ 
-.  WinSC/WinADCP  \ 
-.  PlanADCP  \  
-.  BBTalk  \  
-.  Nortek AquaPro  \  
-.  Sea-Bird Seaterm, SeaSave, SBE Data Processing  \  
+
+.  Teledyne RDI VmDas 
+.  WinSC/WinADCP
+.  PlanADCP
+.  BBTalk  
+.  Nortek AquaPro  
+.  Sea-Bird Seaterm, SeaSave, SBE Data Processing 
 
 #### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
 ##### Supervisor / Senior Oceanographer
+
 - Shallow-Water mooring deployments and recoveries 
+
 Aboard local **ships of opportunity**: 
--- Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
--- Acoustic releases and pop-up buoy recovery. 
+
+- Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
+- Acoustic releases and pop-up buoy recovery. 
 Monthly maintenance turnarounds covering recovery, biofouling cleaning, battery replacement, data retrieval,  QC and redeployment. 
---  C-Nav GNSS. 
+-  C-Nav GNSS. 
+
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
 Software: 
---  WinSC/WinADCP
---  PlanADCP 
---  BBTalk 
+
+-  WinSC/WinADCP
+-  PlanADCP 
+-  BBTalk 
 
 #### Multidisciplinary Hydrographic, Mooring & Environmental Baseline Surveys
 #####  Supervisor / Senior Oceanographer 
-- Hydrographic reconnaissance survey and marine environmental monitoring\ 
-Aboard local ** R/V Andrew Charles**:\ 
--- Niskin and Nansen bottles for nutrients, pH and dissolved oxygen using Winkler titration\ 
--- Plankton net tows\ 
--- Boxcorer sediment sampling for benthic and geochemical assessments\   
--- Same as **Reconnaissance Survey Operations (100–800 m)**\
+
+- Hydrographic reconnaissance survey and marine environmental monitoring 
+
+Aboard local ** R/V Andrew Charles**:
+
+- Niskin and Nansen bottles for nutrients, pH and dissolved oxygen using Winkler titration 
+- Plankton net tows
+- Boxcorer sediment sampling for benthic and geochemical assessments  
+- Same as **Reconnaissance Survey Operations (100–800 m)**
 
 ---
 
