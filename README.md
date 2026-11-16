@@ -152,7 +152,9 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 ##### AUV Operator / MBES and Backscatter Data Processor
 
 - HUGIN 3000 and 4500 AUV operations 
+
 Aboard **R/V Northern Resolution** and **R/V Rig Supporter**
+
 `Kongsberg EM 2040 / EM 2000 MBES for bathymetry and backscatter` . `EdgeTech 2200/2205 dual-frequency SSS` . `EdgeTech CHIRP SBP` .
 `Teledyne RDI DVL` . `Kongsberg cNODE / HiPAP acoustic transponders operated through APOS` . `Kongsberg / Cathx still cameras for seabed imagery and photomosaicking`
 `Teledyne RDI DVL` . `Sea-Bird SBE 37/49 CTD` 
@@ -167,14 +169,16 @@ Software:
 ##### AUV Operator / MBES Data Processor
 
 - Reconnaissance supporting AUV deployments on continental shelf and upper-slope operations
+
 Aboard **R/V Ocean Surveyor and R/V Andrew Charles** 
-`Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES` 
-. `EdgeTech CHIRP SBP` 
-. `deep-towed EdgeTech SSS with armoured cable` and 
+
+`Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES` . `EdgeTech CHIRP SBP` . `deep-towed EdgeTech SSS with armoured cable` and 
 . `USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders` 
 . `Sea-Bird CTD casts` 
 . `C-Nav GNSS`
+
 Software:
+
 . `HydroMap` for navigation and data acquisition; 
 . `CARIS HIPS & SIPS` for MBE and Backscatter data processing; 
 . `SonarWiz` for sonar visualisation; 
@@ -192,63 +196,71 @@ Aboard **R/V Coastal Surveyor** using hull-mounted configurations:
 . `EdgeTech 4100/4200 series SSS in mounted and towed configurations` 
 . `Sea-Bird SBE 19plus V2 SeaCAT CTD casts for SVP` 
 . `C-Nav GNSS/DGPS integrated with MRU`.  
+
 Software: 
-`HydroMap` for navigation, acquisition and MBES processing 
+
+. `HydroMap` for navigation, acquisition and MBES processing 
 . `SonarWiz` for SSS/SBP; 
 . `Seaterm / SBE Data Processing` for CTD and sound-velocity processing. 
 
+
+---
 
 ## Metoceanographic Operations
 
 ### CTD Systems & Sensors — Sea-Bird Scientific
 
-#### Systems and sensors
-
 - SBE 19+ SeaCAT and SBE 19+ V2 SeaCAT
 - SBE 3+ Temperature, SBE 4+ Conductivity, and SBE 5e Pump
 - SBE 37 MicroCAT
 
-#### Acquisition, processing, and operations
+#### Software and Operational Activities
 
-- **Software:** SeaTerm, Seasave, and SBE Data Processing
-- **Activities:** Instrument configuration, CTD deployment, real-time acquisition, data conversion, filtering, alignment, QA/QC, and interpretation of physical-oceanographic profiles
+- SeaTerm, Seasave, and SBE Data Processing
+- Instrument setup, deployment, recovery, real-time data acquisition, 
+- Data conversion, filtering, alignment, QA/QC, and interpretation of physical-oceanographic profiles
 
-### ADCP, Currents & Mooring Systems
+### ADCP Systems and Current meter 
 
-#### Systems and software
+- Teledyne RDI Workhorse Long Ranger 75 kHz; 
+- Workhorse Sentinel 300, 600, and 1200 kHz; 
+- Nortek Aquadopp Profiler/Current Meter
 
-- **Systems:** Teledyne RDI Workhorse Long Ranger 75 kHz; Workhorse Sentinel 300, 600, and 1200 kHz; Nortek Aquadopp Profiler/Current Meter
-- **Software:** PlanADCP, WinADCP, WinSC, and BBTalk
+#### Software and Operational Activities
 
-#### Deep- & Ultra-Deep-Water Mooring & Metocean Operations (1,200–2,600 m)
+- PlanADCP, WinADCP, WinSC, and BBTalk, Nortek AquaPro
+- Compass calibration, instrument setup for data acquisition, deployment, and recovery 
+- Data conversion, filtering, QA/QC, and interpretation of current profiles and directional waves
+
+### Deep- & Ultra-Deep-Water Mooring & Metocean Operations (1,200–2,600 m)
 ##### Supervisor / Senior Oceanographer
 
 - Deep- & Ultra-Deep-Water mooring deployments, recoveries and metocean surveys 
 
 Aboard **R/V V Emma McCall**: 
 
-.  SBE 37 MicroCAT CTD; 
-.  Nortek Aquadopp current meters; 
-.  Teledyne RDI Workhorse Long Ranger 75 kHz ADCP; 
-.  EdgeTech 8242XS deep-water acoustic releases. 
+- SBE 37 MicroCAT CTD; 
+- Nortek Aquadopp current meters; 
+- Teledyne RDI Workhorse Long Ranger 75 kHz ADCP; 
+- EdgeTech 8242XS deep-water acoustic releases. 
 
 Fourmonth maintenance turnarounds covering recovery, biofouling cleaning, batteries, data retrieval and redeployment. 
 
-.  Vessel-mounted Teledyne RDI Ocean Surveyor ADCP, 
-.  full-depth SBE 19plus (4 Hz) SeaCAT CTD casts and 
-.  C-Nav GNSS. 
+- Vessel-mounted Teledyne RDI Ocean Surveyor ADCP, 
+- full-depth SBE 19plus (4 Hz) SeaCAT CTD casts and 
+- C-Nav GNSS. 
 
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
 Software: 
 
-.  Teledyne RDI VmDas 
-.  WinSC/WinADCP
-.  PlanADCP
-.  BBTalk  
-.  Nortek AquaPro  
-.  Sea-Bird Seaterm, SeaSave, SBE Data Processing 
+- Teledyne RDI VmDas 
+- WinSC/WinADCP
+- PlanADCP
+- BBTalk  
+- Nortek AquaPro  
+- Sea-Bird Seaterm, SeaSave, SBE Data Processing 
 
-#### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
+### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
 ##### Supervisor / Senior Oceanographer
 
 - Shallow-Water mooring deployments and recoveries 
@@ -257,17 +269,18 @@ Aboard local **ships of opportunity**:
 
 - Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
 - Acoustic releases and pop-up buoy recovery. 
-Monthly maintenance turnarounds covering recovery, biofouling cleaning, battery replacement, data retrieval,  QC and redeployment. 
 -  C-Nav GNSS. 
 
+Monthly maintenance turnarounds covering recovery, biofouling cleaning, battery replacement, data retrieval,  QC and redeployment. 
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
+
 Software: 
 
 -  WinSC/WinADCP
 -  PlanADCP 
 -  BBTalk 
 
-#### Multidisciplinary Hydrographic, Mooring & Environmental Baseline Surveys
+### Multidisciplinary Hydrographic, Mooring & Environmental Baseline Surveys
 #####  Supervisor / Senior Oceanographer 
 
 - Hydrographic reconnaissance survey and marine environmental monitoring 
