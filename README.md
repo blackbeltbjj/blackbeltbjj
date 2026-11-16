@@ -153,18 +153,15 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 
 - HUGIN 3000 and 4500 AUV operations 
 Aboard **R/V Northern Resolution** and **R/V Rig Supporter**
-. Kongsberg EM 2040 / EM 2000 MBES for bathymetry and backscatter; 
-. EdgeTech 2200/2205 dual-frequency SSS; 
-. EdgeTech CHIRP SBP; 
-. Teledyne RDI DVL; 
-. Kongsberg cNODE / HiPAP acoustic transponders operated through APOS; 
-. Sea-Bird SBE 37/49 CTD; 
-. Kongsberg / Cathx still cameras for seabed imagery and photomosaicking
+`Kongsberg EM 2040 / EM 2000 MBES for bathymetry and backscatter` . `EdgeTech 2200/2205 dual-frequency SSS` . `EdgeTech CHIRP SBP` .
+`Teledyne RDI DVL` . 'Kongsberg cNODE / HiPAP acoustic transponders operated through APOS` . `Kongsberg / Cathx still cameras for seabed imagery and photomosaicking`
+`Teledyne RDI DVL` . `Sea-Bird SBE 37/49 CTD` 
+
 Software: 
-. C&C HydroMap for navigation, acquisition, pre-processing, MBES and sensor-fusion workflows; 
-. Kongsberg NavLab for inertial navigation post-processing; 
-. Chesapeake SonarWiz for SSS/SBP visualization; 
-. Sea-Bird Seaterm / SBE Data Processing for CTD configuration, diagnostics and SVP processing. 
+`C&C HydroMap` for navigation, acquisition, pre-processing, MBES and sensor-fusion workflows . 
+`Kongsberg NavLab` for inertial navigation post-processing; 
+`Chesapeake SonarWiz` for SSS/SBP visualization; 
+`Sea-Bird Seaterm / SBE Data Processing` for CTD configuration, diagnostics and SVP processing. 
 
 #### Offshore Geophysical & Reconnaissance Survey Operations (100–800 m)
 ##### AUV Operator / MBES Data Processor
