@@ -701,19 +701,19 @@ Worked with physical-oceanographic data processing and computational routines as
 
 **University of São Paulo — USP, Brazil**  
 
-Advanced postgraduate study in atmospheric and climate sciences, including atmospheric dynamics, meteorology, micrometeorology, climate variability, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
+Advanced postgraduate study in atmospheric and climate sciences, including atmosphere and ocean dynamics, geophysical fluid dynamics, climate variability, micrometeorology and turbulence, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
 
 #### Postgraduate Study — Ocean & Earth Dynamics
 
 **Fluminense Federal University — UFF, Brazil**  
 
-Advanced study related to ocean and Earth-system dynamics, including marine and geophysical processes.
+Advanced study related to ocean and Earth-system dynamics,  including underwater acoustic, and marine geophysical processes.
 
 #### BSc — Oceanography
 
 **State University of Rio de Janeiro — UERJ, Brazil | 2002**  
 
-Professional education across physical, chemical, biological, and geological oceanography, hydrography, marine observations, and environmental sciences, supported by mathematics, statistics, and physics.
+Professional education across physical, chemical, biological, and geological oceanography, hydrography, marine observations and data analysis, meteorology and climatology, and environmental sciences.
 
 ### Scientific & Quantitative Foundation
 
@@ -723,25 +723,34 @@ Professional education across physical, chemical, biological, and geological oce
 - **Climate sciences:** Meteorology, climatology, climate variability, ocean–atmosphere interaction, stochastic processes, and observational methods
 - **Mathematics and statistics:** Advanced calculus, statistics, differential equations, time-series analysis, spherical trigonometry, and data processing
 
-### Additional Postgraduate Study Since 2018
+### Additional Postgraduate Study Since 2018 - New Zealand
 
 - **Writing Research Reports (Academic Writing)** - University of Auckland, Certificate of Proficiency in Science, 2019 | 15 credits | Grade: B+
 - **Mana Tangata: Education in Aotearoa** - Postgraduate Diploma in Secondary Teaching coursework, 2024 | 15 credits | Grade: B-
 - **Practising Excellence 1: Curriculum & Pedagogy** - Postgraduate Diploma in Secondary Teaching coursework, 2024 | 15 credits | Grade: B-
 - **Teaching and Digital Education** - Massey University, Postgraduate Diploma in Education, 2026 | 30 credits | Grade: B
+- **Ocean models** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2015 | 15 credits | Grade: A
+- **Oceanographic Instrumentation** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2016 | 15 credits | Grade: A
+- **Topics in Physical oceanography** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2016 | 15 credits | Grade: A
 
 **Completed postgraduate coursework since 2018: 75 credits.**
+
+### Additional Postgraduate Study between 2015 to 2017
+
+- **Ocean models** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2015 | 30 credits | Grade: A
+- **Oceanographic Instrumentation** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2016 | 30 credits | Grade: A
+- **Topics in Physical oceanography** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2017 | 30 credits | Grade: B
 
 ### Advanced Scientific & Professional Training
 
 - Instability Problems — LNCC (2003)
-- Summer School in Geophysics — National Observatory / Ministry of Science and Technology, Brazil
-- Mid-Ocean Ridge Geophysics — LAGEMAR/UFF and Université de Bretagne Occidentale
-- Estuarine Oceanography — Oceanographic Institute, University of São Paulo
-- Physical Oceanography of the South Atlantic — Federal University of Rio Grande
-- Satellite Oceanography
-- CARIS HIPS — Hydrographic data-processing training
-- Sea-Bird CTD — Instrument operation and data processing
+- Summer School in Geophysics — National Observatory / Ministry of Science and Technology, Brazil (2002)
+- Mid-Ocean Ridge Geophysics — LAGEMAR/UFF and Université de Bretagne Occidentale (1998)
+- Estuarine Oceanography — Oceanographic Institute, University of São Paulo(2022) 
+- Physical Oceanography of the South Atlantic — Federal University of Rio Grande (2001)
+- Satellite Oceanography (1999)
+- CARIS HIPS — Hydrographic data-processing training (2011)
+- Sea-Bird CTD — Instrument operation and data processing (2011)
 
 ---
 
