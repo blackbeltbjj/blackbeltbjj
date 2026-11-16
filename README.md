@@ -42,7 +42,7 @@
 
 - [About Me](#about-me)
 - [Core Professional Expertise](#core-professional-expertise)
-- [Hydrographic AUV High Resolution & Reconnaissance Survey](#hydrographic-auv--high-resolution--reconnaissance-survey)
+- [Hydrographic AUV High Resolution & Reconnaissance Survey](#hydrographic-auv-high-resolution--reconnaissance-survey)
 - [Oceanographic Instrumentation & Field Operations](#oceanographic-instrumentation--field-operations)
 - [Offshore & Marine Survey Career](#offshore--marine-survey-career)
 - [Scientific Computing & Environmental Data](#scientific-computing--environmental-data)
@@ -67,6 +67,8 @@ I have worked across the complete data lifecycle:
 
 > **Sensor deployment → positioning → real-time acquisition → processing → QA/QC → analysis → interpretation → technical and scientific reporting**
 
+> **Sensor deployment → positioning → data acquisition → Sensor recovery → processing → QA/QC → analysis → interpretation → technical and scientific reporting**
+
 This combination allows me to understand environmental and survey data not simply as numerical products, but as measurements shaped by instrumentation, positioning, environmental conditions, acquisition procedures, and physical processes.
 
 ### Professional Snapshot
@@ -83,9 +85,9 @@ This combination allows me to understand environmental and survey data not simpl
 
 I am open to consulting, project-based, and fixed-term assignments where oceanographic knowledge, offshore experience, and quantitative data analysis can contribute to solving scientific or operational problems.
 
-- Hydrographic, offshore, and marine geophysical survey projects
+- Hydrographic and marine geophysical survey projects
 - AUV/HUGIN and subsea survey operations
-- Marine and metocean data analysis
+- Metocean data analysis
 - Oceanographic observational programmes and environmental monitoring
 - Hydrographic and oceanographic data QA/QC
 - Scientific Python development and legacy scientific-data modernisation
@@ -105,10 +107,10 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 | Hydrographic & Offshore Survey | Oceanography & Metocean | Scientific Data |
 |---|---|---|
 | Multibeam bathymetry | Physical oceanography | Python & MATLAB |
-| AUV/HUGIN operations | CTD/SVP observations | Large environmental datasets |
-| High-resolution AUV surveys | ADCP/current measurements | NetCDF and gridded data |
+| AUV/HUGIN operations | Navier-Stokes Equation | Large environmental datasets |
+| High-resolution AUV surveys | CTD/SVP/ADCP observations | NetCDF and gridded data |
 | Seabed mapping | Oceanographic moorings | Statistics and time series |
-| Side-scan sonar | Waves and currents | Fourier and wavelet analysis |
+| Side-scan sonar | Waves and tide | Fourier and wavelet analysis |
 | Sub-bottom profiling | Satellite oceanography | Spatial analysis |
 | Offshore/subsea positioning | SST, ENSO, climate variability | Scientific visualisation |
 | Pipeline and as-built surveys | Environmental monitoring | Automated QA/QC |
