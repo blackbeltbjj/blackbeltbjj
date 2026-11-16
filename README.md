@@ -236,12 +236,12 @@ Fourmonth maintenance turnarounds covering recovery, biofouling cleaning, batter
 .  C-Nav GNSS. 
 Maintained contract-specified geodetic coordinates and datums in operational logs.  
 Software: 
-.  Teledyne RDI VmDas\ 
-.  WinSC/WinADCP\ 
-.  PlanADCP\  
-.  BBTalk\  
-.  Nortek AquaPro\  
-.  Sea-Bird Seaterm, SeaSave, SBE Data Processing\  
+.  Teledyne RDI VmDas  \ 
+.  WinSC/WinADCP  \ 
+.  PlanADCP  \  
+.  BBTalk  \  
+.  Nortek AquaPro  \  
+.  Sea-Bird Seaterm, SeaSave, SBE Data Processing  \  
 
 #### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
 ##### Supervisor / Senior Oceanographer
