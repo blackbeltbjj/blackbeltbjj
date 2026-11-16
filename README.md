@@ -124,26 +124,13 @@ I am open to consulting, project-based, and fixed-term assignments where oceanog
 
 ---
 
-## Hydrographic, AUV & Offshore Survey
+## Hydrographic AUV High Resolution and Reconnaissance Survey
 
 Technical capability across hydrographic acquisition, offshore navigation, AUV operations, multibeam processing, marine geophysics, field QA/QC, and survey deliverables.
 
 ### Survey & Processing Software
 
 `CARIS HIPS/SIPS` · `Kongsberg SIS` · `Hydromap Multibeam` · `Fledermaus` · `NavLab` · `Hypack/Hysweep`
-
-### Survey Applications
-
-- Hydrographic and marine-geophysical surveys
-- Multibeam bathymetry and high-resolution seabed mapping
-- AUV high-resolution survey acquisition and processing
-- Real-time and post-processed hydrographic data
-- Side-scan sonar and sub-bottom profiling
-- Pipeline-route, pre-lay, post-lay, and as-built surveys
-- Shore approaches, dredging, and backfilling monitoring
-- Offshore navigation and acoustic positioning
-- Environmental survey support
-- Survey planning, field execution, QA/QC, and technical reporting
 
 ### Acoustic Positioning & Subsea Navigation
 
@@ -153,15 +140,66 @@ Experience with offshore navigation, subsea acoustic positioning, and autonomous
 
 ### Multibeam, Sonar & Marine Geophysical Systems
 
-`Kongsberg EM 2042` · `EM 2040 MKII` · `EM 712/712S` · `EM 710` · `EM 302` · `EM 3000`
+`Kongsberg EM 2042` · `EM 1002` · `EM 712/712S` · `EM 710` · `EM 302` · `EM 3000`
 
 `MBES` · `Side-Scan Sonar` · `Sub-Bottom Profiler` · `Marine Geophysics`
 
 Applications have included high-resolution seabed mapping, pipeline and subsea-infrastructure surveys, route investigation, environmental surveys, and offshore project support.
 
----
+### Survey Applications
 
-## Oceanographic Instrumentation & Field Operations
+#### Deep-Ocean AUV Hydrographic & Geophysical Survey Operations (>1,000 m)
+##### AUV Operator / MBES and Backscatter Data Processor
+
+- HUGIN 3000 and 4500 AUV operations 
+Aboard **R/V Northern Resolution** and **R/V Rig Supporter**
+. Kongsberg EM 2040 / EM 2000 MBES for bathymetry and backscatter; 
+. EdgeTech 2200/2205 dual-frequency SSS; 
+. EdgeTech CHIRP SBP; 
+. Teledyne RDI DVL; 
+. Kongsberg cNODE / HiPAP acoustic transponders operated through APOS; 
+. Sea-Bird SBE 37/49 CTD; 
+. Kongsberg / Cathx still cameras for seabed imagery and photomosaicking
+Software: 
+. C&C HydroMap for navigation, acquisition, pre-processing, MBES and sensor-fusion workflows; 
+. Kongsberg NavLab for inertial navigation post-processing; 
+. Chesapeake SonarWiz for SSS/SBP visualization; 
+. Sea-Bird Seaterm / SBE Data Processing for CTD configuration, diagnostics and SVP processing. 
+
+#### Offshore Geophysical & Reconnaissance Survey Operations (100–800 m)
+##### AUV Operator / MBES Data Processor
+
+- Reconnaissance supporting AUV deployments on continental shelf and upper-slope operations
+Aboard **R/V Ocean Surveyor and R/V Andrew Charles** 
+. Hull-mounted Kongsberg Simrad EM 1002 / EM 710 MBES; 
+. EdgeTech CHIRP SBP; 
+. deep-towed EdgeTech SSS with armoured cable and 
+. USBL/APOS/HiPAP acoustic positioning and cable-mounted transponders; 
+. Sea-Bird CTD casts; 
+. C-Nav GNSS.
+Software:
+. HydroMap for navigation and data acquisition; 
+. CARIS HIPS & SIPS for MBE and Backscatter data processing; 
+. SonarWiz for sonar visualisation; 
+. Sea-Bird Seaterm / SBE Data Processing for CTD workflows. 
+
+#### Coastal Hydrographic & Geophysical Survey Operations (<100 m)
+##### Party Chief / Hydrographic Surveyor
+
+- Shallow-water operations 
+. Aboard **R/V Coastal Surveyor** using hull-mounted configurations: 
+. Kongsberg Simrad EM 3002 / EM 3000 MBES (300 kHz); 
+. EdgeTech 3100-P / 3200-XS CHIRP SBP with SB-216S (2–16 kHz) / SB-424 (4–24 kHz) transducers; 
+. EdgeTech 4100/4200 series SSS in mounted and towed configurations. 
+. Sea-Bird SBE 19plus V2 SeaCAT CTD casts for SVP; 
+. C-Nav GNSS/DGPS integrated with MRU.  
+Software: 
+. HydroMap for navigation, acquisition and MBES processing; 
+. SonarWiz for SSS/SBP; 
+. Seaterm / SBE Data Processing for CTD and sound-velocity processing. 
+
+
+## Metoceanographic Operations
 
 ### CTD Systems & Sensors — Sea-Bird Scientific
 
@@ -183,12 +221,62 @@ Applications have included high-resolution seabed mapping, pipeline and subsea-i
 - **Systems:** Teledyne RDI Workhorse Long Ranger 75 kHz; Workhorse Sentinel 300, 600, and 1200 kHz; Nortek Aquadopp Profiler/Current Meter
 - **Software:** PlanADCP, WinADCP, WinSC, and BBTalk
 
+#### Deep- & Ultra-Deep-Water Mooring & Metocean Operations (1,200–2,600 m)
+##### Supervisor / Senior Oceanographer
+
+- Deep- & Ultra-Deep-Water mooring deployments, recoveries and metocean surveys 
+Aboard **R/V V Emma McCall**: 
+.  SBE 37 MicroCAT CTD; 
+.  Nortek Aquadopp current meters; 
+.  Teledyne RDI Workhorse Long Ranger 75 kHz ADCP; 
+.  EdgeTech 8242XS deep-water acoustic releases. 
+Fourmonth maintenance turnarounds covering recovery, biofouling cleaning, batteries, data retrieval and redeployment. 
+.  Vessel-mounted Teledyne RDI Ocean Surveyor ADCP, 
+.  full-depth SBE 19plus (4 Hz) SeaCAT CTD casts and 
+.  C-Nav GNSS. 
+Maintained contract-specified geodetic coordinates and datums in operational logs.  
+Software: 
+.  Teledyne RDI VmDas 
+.  WinSC/WinADCP
+.  PlanADCP 
+.  BBTalk 
+.  Nortek AquaPro 
+.  Sea-Bird Seaterm, SeaSave, SBE Data Processing 
+
+#### Nearshore & Shore Approach Metocean Mooring Operations (20–25 m)
+##### Supervisor / Senior Oceanographer
+- Shallow-Water mooring deployments and recoveries 
+Aboard local **ships of opportunity**: 
+. Bottom-mounted Teledyne RDI Workhorse Sentinel 600 kHz / Sentinel V 500 kHz ADCPs with wave-measurement capabilities; 
+. Acoustic releases and pop-up buoy recovery. 
+Monthly maintenance turnarounds covering recovery, biofouling cleaning, battery replacement, data retrieval,  QC and redeployment. 
+.  C-Nav GNSS. 
+Maintained contract-specified geodetic coordinates and datums in operational logs.  
+Software: 
+.  WinSC/WinADCP
+.  PlanADCP 
+.  BBTalk 
+
+#### Multidisciplinary Hydrographic, Mooring & Environmental Baseline Surveys
+#####  Supervisor / Senior Oceanographer 
+- Hydrographic reconnaissance survey and marine environmental monitoring 
+Aboard local ** R/V Andrew Charles**: 
+. Niskin and Nansen bottles for nutrients, pH and dissolved oxygen using Winkler titration; 
+. Plankton net tows; 
+. Boxcorer sediment sampling for benthic and geochemical assessments.   
+. Same as **Reconnaissance Survey Operations (100–800 m)**
+
+---
+
+## Oceanographic Instrumentation & Field Operations
+
 #### Operational experience
 
-- ADCP and DVL acquisition and processing
+- ADCP: Instrument configuration, data acquisition and analysis
 - Current profiling and oceanographic mooring installation and recovery
-- Instrument configuration and acoustic releases
 - Wave/current observations, environmental monitoring, and QA/QC
+- CTD moorings and vertical profiles: Instrument setup, data acquisition and analysis
+- Multi-bottle rosette systems
 
 <table>
   <tr>
