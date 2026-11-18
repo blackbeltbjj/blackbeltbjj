@@ -650,19 +650,6 @@ My current scientific workflows incorporate:
 
 ---
 
-## Publications & Scientific Development
-
-### Peer-Reviewed Publications
-
-1. **Machado, F. V., & d'Avila, V. A. (2014).** O centroide da piscina de água quente do Pacífico como um indicador dos fenômenos El Niño e La Niña. **Revista Brasileira de Meteorologia, 29**, 443–456. [https://doi.org/10.1590/0102-778620130595](https://doi.org/10.1590/0102-778620130595)
-2. **Machado, F. V., & d'Avila, V. A. (2006).** A trajetória e a área da piscina de água quente do Pacífico. **Revista Brasileira de Meteorologia, 21**, 161–169.
-
-### Conference Proceedings & Scientific Software
-
-**d'Avila, V. A., & Machado, F. V. (2004).** Programa para a visualização da grade de temperatura superficial dos oceanos e edição de máscaras numéricas continentais. **Congresso Brasileiro de Meteorologia — CBMet, Proceedings.**
-
-This early work involved developing software to visualise ocean surface-temperature grids and manipulate numerical continental masks.
-
 ### From Early Satellite Oceanography to Reproducible Scientific Software
 
 My Pacific climate research began during undergraduate work in Physical Oceanography. In 1999–2000, a FAPERJ-supported project at the State University of Rio de Janeiro involved developing C++ and Fortran software to process NOAA/AVHRR sea-surface temperature observations, calculate Pacific Warm Pool area and centroid, analyse time series, generate scientific graphics, and communicate results through reports and seminars.
@@ -719,11 +706,11 @@ Professional education across physical, chemical, biological, and geological oce
 
 ### Scientific & Quantitative Foundation
 
-- **Ocean and atmosphere:** Fluid dynamics, wind waves, physics of the ocean, atmospheric dynamics, micrometeorology, turbulence, and remote sensing
+- **Ocean and atmosphere:** Geophysical Fluid Dynamics, wind waves, physics of the ocean, atmospheric dynamics, micrometeorology, turbulence, and remote sensing
 - **Ocean sciences:** Physical, chemical, biological, and geological oceanography; marine geophysics; hydrography; water-mass analysis; astronomy and navigation
 - **Coastal and marine sciences:** Estuarine oceanography, marine pollution, coastal processes, ecology, hydrodynamic modelling, tides, and cartography
-- **Climate sciences:** Meteorology, climatology, climate variability, ocean–atmosphere interaction, stochastic processes, and observational methods
-- **Mathematics and statistics:** Advanced calculus, statistics, differential equations, time-series analysis, spherical trigonometry, and data processing
+- **Climate sciences:** Climatology, climate variability, Meteorology, Oceanography, Ocean–Atmosphere interaction, stochastic processes, and observational methods
+- **Mathematics and statistics:** Advanced calculus, partial differential equations, Fluid dynamics, spherical trigonometry, statistics, time-series analysis, Fourier Transform, Continuous Wavelet Transform, and data processing
 
 ### Additional Postgraduate Study Since 2018 - New Zealand
 
@@ -731,9 +718,6 @@ Professional education across physical, chemical, biological, and geological oce
 - **Mana Tangata: Education in Aotearoa** - Postgraduate Diploma in Secondary Teaching coursework, 2024 | 15 credits | Grade: B-
 - **Practising Excellence 1: Curriculum & Pedagogy** - Postgraduate Diploma in Secondary Teaching coursework, 2024 | 15 credits | Grade: B-
 - **Teaching and Digital Education** - Massey University, Postgraduate Diploma in Education, 2026 | 30 credits | Grade: B
-- **Ocean models** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2015 | 15 credits | Grade: A
-- **Oceanographic Instrumentation** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2016 | 15 credits | Grade: A
-- **Topics in Physical oceanography** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2016 | 15 credits | Grade: A
 
 **Completed postgraduate coursework since 2018: 75 credits.**
 
@@ -745,29 +729,100 @@ Professional education across physical, chemical, biological, and geological oce
 
 ### Advanced Scientific & Professional Training
 
-- Instability Problems — LNCC (2003)
-- Summer School in Geophysics — National Observatory / Ministry of Science and Technology, Brazil (2002)
-- Mid-Ocean Ridge Geophysics — LAGEMAR/UFF and Université de Bretagne Occidentale (1998)
-- Estuarine Oceanography — Oceanographic Institute, University of São Paulo(2022) 
-- Physical Oceanography of the South Atlantic — Federal University of Rio Grande (2001)
-- Satellite Oceanography (1999)
 - CARIS HIPS — Hydrographic data-processing training (2011)
 - Sea-Bird CTD — Instrument operation and data processing (2011)
+- Instability Problems — National laboratory for Computer Sciences LNCC (2003)
+- Navier-Stokes Equation and turbulence — National laboratory for Computer Sciences LNCC (2003)
+- Estuarine Oceanography — Oceanographic Institute, University of São Paulo(2002)
+- Physical Oceanography of the South Atlantic — Federal University of Rio Grande (2001)
+- Summer School in Geophysics — National Observatory / Ministry of Science and Technology, Brazil (2002)
+- Mid-Ocean Ridge Geophysics — LAGEMAR/UFF and Université de Bretagne Occidentale (1998)
+- Satellite Oceanography (1999)
 
 ---
 
-## Scientific Communication & Teaching
+## Publications & Scientific Development
 
-### Scientific & Research Communication
+### Peer-Reviewed Journal Articles
 
-- **Oral presentations and seminars:** Brazilian Congress of Meteorology, LAC/INPE, and IAG-USP
-- **Posters and conference presentations:** Brazilian Symposium of Oceanography, Brazilian Congress of Oceanography, Brazilian Congress of Meteorology, and ERMAC/SBMAC
+1. Machado, F. V., & d'Avila, V. A. (2014). O centroide da piscina de água quente do Pacífico como um indicador dos fenômenos El Niño e La Niña [The centroid of the Pacific warm pool as an indicator of El Niño and La Niña phenomena]. *Revista Brasileira de Meteorologia*, *29*(3), 443–456. https://doi.org
+2. Machado, F. V., & d'Avila, V. A. (2006). A trajetória e a área da piscina de água quente do Pacífico [The trajectory and area of the Pacific warm pool]. *Revista Brasileira de Meteorologia*, *21*(2), 161–169.
 
-### Teaching & Knowledge Transfer
+### Technical & Institutional Reports
 
-- Mathematics, Statistics, Physics, and Science teaching in New Zealand
-- Communication of quantitative and scientific concepts to audiences with different technical backgrounds
-- Use of authentic environmental observations in mathematics, statistics, data analysis, and Earth-system science
+1. Machado, F. V. (2019). Evenly spaced observation fields from irregularly sampled data in the Southern Ocean. In *Centre for eResearch Annual Report 2019* (pp. 50–55). The University of Auckland.
+
+### Full Papers in Conference Proceedings
+
+1. Machado, F. V., Soares, J. R., & d'Avila, V. A. (2004, August 29–September 3). Resultados preliminares do estudo da variabilidade espacial e temporal da piscina de água quente do Oceano Pacífico [Preliminary results of the study on the spatial and temporal variability of the Pacific Ocean warm pool] [Oral presentation]. In *Anais do XIII Congresso Brasileiro de Meteorologia* [Proceedings of the 13th Brazilian Congress of Meteorology] (Marina Park Hotel, Fortaleza, CE, Brazil). Sociedade Brasileira de Meteorologia.
+2. Machado, F. V., & d'Avila, V. A. (2004, August 29–September 3). Programa para a visualização da grade de temperatura superficial dos oceanos e edição de máscaras numéricas continentais [Program for visualizing the sea surface temperature grid and editing continental numerical masks] [Poster presentation]. In *Anais do XIII Congresso Brasileiro de Meteorologia* [Proceedings of the 13th Brazilian Congress of Meteorology] (Marina Park Hotel, Fortaleza, CE, Brazil). Sociedade Brasileira de Meteorologia.
+
+### Conference Abstracts & Presentations
+
+1. Machado, F. V., & d'Avila, V. A. (2005, May 16–20). *Variabilidade espaço-temporal da piscina de água quente do Pacífico. Parte 1: Definição das variáveis* [Spatiotemporal variability of the Pacific warm pool. Part 1: Definition of variables] [Oral presentation]. XI Congreso Latinoamericano de Ciencias del Mar (COLACMAR) & XXV Congreso de Ciencias del Mar de Chile, Viña del Mar, Chile.
+2. Machado, F. V., & d'Avila, V. A. (2005, May 16–20). *Variabilidade em tempo-escala da piscina de água quente do Pacífico. Parte III: A componente longitudinal* [Time-scale variability of the Pacific warm pool. Part III: The longitudinal component] [Oral presentation]. XI Congreso Latinoamericano de Ciencias del Mar (COLACMAR) & XXV Congreso de Ciencias del Mar de Chile, Viña del Mar, Chile.
+3. Machado, F. V., & d'Avila, V. A. (2004, October 10–15). *The space and time variabilities of the latitudinal component of the Pacific warm pool* [Abstract presentation]. I Congresso Brasileiro de Oceanografia: As instituições e o mercado frente à evolução tecnológica [1st Brazilian Congress of Oceanography], Universidade do Vale do Itajaí, Itajaí, SC, Brazil.
+4. Machado, F. V., d'Avila, V. A., & Soares, J. R. (2004, June 21–25). *The centroid motion of the Pacific warm pool described by spherical coordinates* [Abstract presentation]. 1st International CLIVAR Science Conference, Baltimore, MD, United States. (Abstract No. OC-67).
+5. Machado, F. V., & d'Avila, V. A. (2004, May 16–20). *The visualization of the variabilities of the Pacific warm pool and SST: A new code* [Poster presentation]. IV Encontro Regional de Matemática Aplicada e Computacional, I Workshop sobre Simulação e Análise de Sistemas Complexos & III Escola Brasileira de Ciências Emergentes (IV ERMAC + WSASC & EBCE), Maresias Beach Hotel, São Sebastião, SP, Brazil.
+6. d'Avila, V. A., Machado, F. V., & Soares, J. R. (2003, October 27–31). *Rotina para acesso aos dados históricos para a temperatura da superfície do mar* [Routine for accessing historical sea surface temperature data] [Abstract presentation]. XV Semana Nacional de Oceanografia [15th National Oceanography Week], Universidade do Vale do Itajaí, Itajaí, SC, Brazil.
+7. Soares, J. R., Oliveira, A. P., Barcelar, S. A., Espinosa, A. M., & Machado, F. V. (2003). *Resultados preliminares da campanha de medidas do projeto FluTuA* [Preliminary results of the measurement campaign of the FluTuA project] [Abstract presentation]. V Seminário de Ondas, Marés e Engenharia Oceânica [5th Seminar on Waves, Tides, and Ocean Engineering], Arraial do Cabo, RJ, Brazil.
+8. Machado, F. V., & d'Avila, V. A. (2002, August 26–30). *Definição de máscaras numéricas para a grade de temperatura superficial dos oceanos* [Definition of numerical masks for the sea surface temperature grid] [Abstract presentation]. I Simpósio Brasileiro de Oceanografia [1st Brazilian Symposium on Oceanography], Instituto Oceanográfico da Universidade de São Paulo, São Paulo, SP, Brazil.
+9. Machado, F. V., & d'Avila, V. A. (2002, August 26–30). *Rotina para acesso aos dados do NOAA para a temperatura superficial dos oceanos* [Routine for accessing NOAA sea surface temperature data] [Abstract presentation]. I Simpósio Brasileiro de Oceanografia [1st Brazilian Symposium on Oceanography], Instituto Oceanográfico da Universidade de São Paulo, São Paulo, SP, Brazil.
+10. d'Avila, V. A., & Machado, F. V. (2002, August 26–30). *Um diagrama de fase para descrição do El Niño* [A phase diagram for describing El Niño] [Abstract presentation]. I Simpósio Brasileiro de Oceanografia [1st Brazilian Symposium on Oceanography], Instituto Oceanográfico da Universidade de São Paulo, São Paulo, SP, Brazil.
+11. d'Avila, V. A., & Machado, F. V. (2002, August 26–30). *Um modelo para mudanças globais e El Niño* [A model for global changes and El Niño] [Abstract presentation]. I Simpósio Brasileiro de Oceanografia [1st Brazilian Symposium on Oceanography], Instituto Oceanográfico da Universidade de São Paulo, São Paulo, SP, Brazil.
+
+---
+
+## Scientific & Research Communication
+
+### Conference Oral Presentations
+
+1. Machado, F. V., & d'Avila, V. A. (2004, October 10–15). *The space and time variabilities of the longitudinal component of the Western Pacific Warm Pool* [Oral presentation]. I Brazilian Congress of Oceanography, Universidade do Vale do Itajaí, Itajaí, SC, Brazil.
+
+2. Machado, F. V., Soares, J. R., & d'Avila, V. A. (2004, August 29–September 3). *Preliminary results on the space-time variability study of the Western Pacific Warm Pool* [Oral presentation]. XIII Brazilian Congress of Meteorology, Marina Park Hotel, Fortaleza, CE, Brazil.
+
+### Invited Talks & Departmental Seminars
+
+1. Machado, F. V. (2005, October 6). *The zonal displacement of the Western Pacific Warm Pool: El Niño phenomenon* [Seminar presentation]. Department of Atmospheric Sciences, Institute of Astronomy, Geophysics and Atmospheric Sciences, University of São Paulo (IAG-USP), São Paulo, SP, Brazil.
+
+2. Machado, F. V. (2005, April 8). *Aspectos oceanográficos e meteorológicos do evento ENOS de 1997–98* [Oceanographic and meteorological aspects of the 1997–98 ENSO event] [Seminar presentation]. Department of Atmospheric Sciences (DCA), Institute of Astronomy, Geophysics and Atmospheric Sciences, University of São Paulo (IAG-USP), São Paulo, SP, Brazil.
+
+3. Machado, F. V. (2004, November 11). *A componente longitudinal do centroide da piscina quente do Pacífico como um indicador do fenômeno ENOS* [The longitudinal component of the Pacific warm pool centroid as an indicator of the ENSO phenomenon] [Invited seminar]. Graduate Program in Applied Computing (CAP), Associated Laboratory for Computing and Applied Mathematics (LAC), National Institute for Space Research (INPE), São José dos Campos, SP, Brazil.
+
+4. Machado, F. V. (2004, November 5). *Aspectos oceanográficos no Pacífico Tropical e o monitoramento do fenômeno ENOS* [Oceanographic aspects in the Tropical Pacific and the monitoring of the ENSO phenomenon] [Seminar presentation]. Department of Atmospheric Sciences (DCA), Institute of Astronomy, Geophysics and Atmospheric Sciences, University of São Paulo (IAG-USP), São Paulo, SP, Brazil.
+
+---
+
+## Teaching Experience
+
+### Higher Education
+
+* **Graduate Teaching Assistant — MARINE 202** | *Mar 2019 – Jul 2019*  
+  School of Environment, Faculty of Science, The University of Auckland, Auckland, New Zealand.  
+  * Facilitated laboratory sessions, field trips, and course preparation for *MARINE 202* (46 hours total) under Head of School Prof. David Hayward.
+
+* **Graduate Teaching Fellow — Teaching Improvement Program (PAE)** | *Feb 2004 – Jun 2004*  
+  Department of Atmospheric Sciences, Institute of Astronomy, Geophysics and Atmospheric Sciences, University of São Paulo (IAG-USP), São Paulo, SP, Brazil.  
+  * Supported graduate-level instruction in Meteorology (6 hours/week) under the supervision of Prof. Dr. Jacyra Ramos Soares.
+
+* **Undergraduate Teaching Assistant — Physical Oceanography I & II** | *Apr 2001 – Dec 2001*  
+  Institute of Geosciences (IGEO), Rio de Janeiro State University (UERJ), Rio de Janeiro, RJ, Brazil.  
+  * Assisted undergraduate students and laboratory activities in *Physical Oceanography I and II* (20 hours/week) under the supervision of Prof. Luiz Carlos Ferreira da Silva.
+
+### Secondary Education (Aotearoa New Zealand)
+
+* **Mathematics Teacher (0.6 FTE) & Mathematics Learning Support Tutor** | *Mar 2026 – Dec 2026*  
+  Huanui College, Whangārei, Northland, New Zealand.  
+  * **Mathematics Teacher (Fixed-Term, 0.6 FTE):** Delivered secondary Mathematics curriculum instruction (24 hours/week), tracked student progress data, and contributed to pastoral care and co-curricular school life (2 Mar 2026 – 11 Dec 2026).
+  * **Key Learning Support Tutor (Fixed-Term):** Provided targeted one-on-one Mathematics tutoring (4 hours/week) alongside core teaching duties (2 Mar 2026 – 25 Sep 2026).
+
+* **Physics & Science Teacher (Fixed-Term, 0.6 FTE)** | *Mar 2025 – [End Month 2025]*  
+  Whangārei Boys' High School, Whangārei, Northland, New Zealand.  
+  * Taught Senior Physics (Year 12 / NCEA Level 2) and Junior Science (15 contact hours/week) under a Limited Authority to Teach (LAT), managing lesson delivery, practical laboratory work, and student assessment (commenced 6 Mar 2025).
+
+* **Relief Teacher (Casual)** | *Sep 2024 – Dec 2024*  
+  Tikipunga High School, Whangārei, Northland, New Zealand.  
+
 
 Teaching has strengthened an important part of my professional practice: communicating quantitative and scientific concepts clearly to people with different technical backgrounds.
 
