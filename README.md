@@ -686,24 +686,6 @@ Worked with physical-oceanographic data processing and computational routines as
 
 ### Academic Education
 
-#### MSc — Meteorology / Atmospheric Sciences
-
-**University of São Paulo — USP, Brazil**  
-
-Advanced postgraduate study in atmospheric and climate sciences, including atmosphere and ocean dynamics, geophysical fluid dynamics, climate variability, micrometeorology and turbulence, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
-
-#### Postgraduate Study — Ocean & Earth Dynamics
-
-**Fluminense Federal University — UFF, Brazil**  
-
-Advanced study related to ocean and Earth-system dynamics,  including underwater acoustic, and marine geophysical processes.
-
-#### BSc — Oceanography
-
-**State University of Rio de Janeiro — UERJ, Brazil | 2002**  
-
-Professional education across physical, chemical, biological, and geological oceanography, hydrography, marine observations and data analysis, meteorology and climatology, and environmental sciences.
-
 ### Scientific & Quantitative Foundation
 
 - **Ocean and atmosphere:** Geophysical Fluid Dynamics, wind waves, physics of the ocean, atmospheric dynamics, micrometeorology, turbulence, and remote sensing
@@ -711,6 +693,106 @@ Professional education across physical, chemical, biological, and geological oce
 - **Coastal and marine sciences:** Estuarine oceanography, marine pollution, coastal processes, ecology, hydrodynamic modelling, tides, and cartography
 - **Climate sciences:** Climatology, climate variability, Meteorology, Oceanography, Ocean–Atmosphere interaction, stochastic processes, and observational methods
 - **Mathematics and statistics:** Advanced calculus, partial differential equations, Fluid dynamics, spherical trigonometry, statistics, time-series analysis, Fourier Transform, Continuous Wavelet Transform, and data processing
+
+
+## Education & Training
+
+### Academic Education
+
+### Additional Postgraduate Study (Brazil, 2015–2017)
+
+#### Graduate Researcher (Ph.D. Level) — Coastal and Oceanographic Engineering | *Sept 2015 – May 2018*
+Ocean Engineering Program (PEnO), COPPE / Federal University of Rio de Janeiro (UFRJ)
+Rio de Janeiro, RJ, Brazil | (Mês, Ano – Mês, Ano)• Conducted research in physical oceanography and coastal engineering
+
+#### MSc — Meteorology / Atmospheric Sciences | *Mar 2003 – Jun 2005*
+
+**University of São Paulo (USP) — Institute of Astronomy, Geophysics and Atmospheric Sciences (IAG), São Paulo, SP, Brazil**  
+* **Dissertation:** *O deslocamento da piscina de água quente do Pacífico: El Niño* [The displacement of the Pacific warm pool: El Niño] (Defended and approved on 10 Jun 2005; 46 dissertation credits).
+* **Advisor:** Prof. Dr. Jacyra Ramos Soares.
+* **Description:** Advanced postgraduate study in atmospheric and climate sciences, including atmosphere and ocean dynamics, geophysical fluid dynamics, climate variability, micrometeorology and turbulence, and ocean–atmosphere processes. **NZQA assessed equivalent: New Zealand Level 9 Master's degree.**
+
+#### BSc — Oceanography (Title: Oceanographer) | *Mar 1997 – Jul 2002*
+
+**Rio de Janeiro State University (UERJ) — Geosciences Institute (IGEO), Rio de Janeiro, RJ, Brazil**  
+* **Graduation Details:** Degree concluded in July 2002; formal graduation conferred on 13 September 2002 (233 total credits; 4,515 total workload hours; Cumulative GPA / CR: 7.75 / 10.0).
+* **Description:** Comprehensive undergraduate training in physical, chemical, biological, and geological oceanography, supported by foundational coursework in calculus, differential equations, fluid mechanics, physics, chemistry, cartography, hydrography, remote sensing, and supervised field internships.
+
+---
+### School Record — PhD in Coastal and Oceanographic Engineering (COPPE/UFRJ)
+
+* **Topics in Physical Oceanography** — Programme in Oceanic and Coastal Engineering, UFRJ, 2017 | Credit: 8 | Grade: C
+* **Oceanographic Instrumentation** — Programme in Oceanic and Coastal Engineering, UFRJ, 2017 | Credit: 8 | Grade: A
+* **Ocean Models** — Programme in Oceanic and Coastal Engineering, UFRJ, 2017 | Credit: 8 | Grade: A
+
+
+### School Record — MSc in Meteorology (USP)
+
+* **Physics of the Ocean I** - **IOF5817-2** - Oceanographic Institute, USP (IO-USP), 10/Mar/2003 | 01/Jun/2003 | 2003 | Credit: 8 | Grade: B
+* **Atmospheric Dynamics I** - **AGM5713-5** - Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP, São Paulo, SP, Brazil, 11/Mar/2003 | 12/May/2003 | 2003 | Credit: 6 | Grade: B
+* **Atmospheric Dynamics II** - **AGM5714-5** - Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP, 07/Apr/2003 | 08/Jun/2003 | 2003 | Credit: 6 | Grade: B
+* **Micrometeorology** - **AGM5804-7** - Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP, 04/Aug/2003 | 16/Nov/2003 | 2003 | Credit: 10 | Grade: A
+* **Stochastic Processes and Time Series: Application in Climatology and Meteorology** - **AGM5816-3** - Institute of Astronomy, Geophysics and Atmospheric Sciences - IAG-USP, 26/Aug/2003 | 27/Oct/2003 | 2003 | Credit: 6 | Grade: B
+* **Pedagogical Preparation** - **AGG5900-4** - Institute of Astronomy, Geophysics and Atmospheric Sciences - USP, 28/Aug/2003 | 10/Dec/2003 | 2003 | Credit: 1 | Grade: B
+* **Observational Methods in Climatology and Mesoscale Meteorology** - **AGM5733-1** - Institute of Astronomy, Geophysics and Atmospheric Sciences - USP, 09/Sep/2003 | 10/Nov/2003 | 2003 | Credit: 6 | Grade: A
+* **Physics of the Ocean II** - **IOF5818-6** - Oceanographic Institute, USP (IO-USP), 22/Sep/2003 | 14/Dec/2003 | 2003 | Credit: 8 | Grade: A
+
+---
+
+### School Record — BSc in Oceanography (UERJ)
+
+* **General Geology I** - **FGEL01-00805** - Faculty of Geology, UERJ, Semester 1 | 1997 | Credit: 5 | Grade: 7.90
+* **Physics V** - **FIS01-02042** - Institute of Physics, UERJ, Semester 1 | 1997 | Credit: 3 | Grade: 7.00
+* **Introduction to Oceanography** - **GEO03-07676** - Institute of Geoscience, UERJ, Semester 1 | 1997 | Credit: 3 | Grade: 8.50
+* **Fundamentals of Biology I** - **IBRAG02-01493** - Institute of Biology, UERJ, Semester 1 | 1997 | Credit: 5 | Grade: 7.30
+* **Differential and Integral Calculus I** - **IME01-00508** - Institute of Mathematics and Statistics, UERJ, Semester 1 | 1997 | Credit: 5 | Grade: 5.50
+* **Chemistry I** - **QUI01-01042** - Institute of Chemistry, UERJ, Semester 1 | 1997 | Credit: 4 | Grade: 8.10
+* **Fundamentals of Cartography** - **FEN08-06980** - Faculty of Engineering, UERJ, Semester 2 | 1997 | Credit: 4 | Grade: 8.30
+* **Geology II** - **FGEL01-01956** - Faculty of Geology, UERJ, Semester 2 | 1997 | Credit: 5 | Grade: 8.50
+* **Physics VI** - **FIS02-02306** - Institute of Physics, UERJ, Semester 2 | 1997 | Credit: 3 | Grade: 7.20
+* **Fundamentals of Biology II** - **IBRAG02-01642** - Institute of Biology, UERJ, Semester 2 | 1997 | Credit: 5 | Grade: 8.30
+* **Differential and Integral Calculus II** - **IME01-00854** - Institute of Mathematics and Statistics, UERJ, Semester 2 | 1997 | Credit: 5 | Grade: 7.00
+* **Chemistry VII** - **QUI01-03222** - Institute of Chemistry, UERJ, Semester 2 | 1997 | Credit: 3 | Grade: 7.50
+* **Cartography X** - **FEN08-06990** - Faculty of Engineering, UERJ, Semester 1 | 1998 | Credit: 5 | Grade: 10.00
+* **Geology III** - **FGEL02-01494** - Faculty of Geology, UERJ, Semester 1 | 1998 | Credit: 5 | Grade: 8.60
+* **Physics VII** - **FIS03-02410** - Institute of Physics, UERJ, Semester 1 | 1998 | Credit: 3 | Grade: 6.80
+* **Fundamentals of Biology III** - **IBRAG02-01862** - Institute of Biology, UERJ, Semester 1 | 1998 | Credit: 5 | Grade: 7.50
+* **Statistics II** - **IME05-03964** - Institute of Mathematics and Statistics, UERJ, Semester 1 | 1998 | Credit: 4 | Grade: 6.40
+* **Chemistry VIII** - **QUI01-03406** - Institute of Chemistry, UERJ, Semester 1 | 1998 | Credit: 3 | Grade: 7.50
+* **Neontology** - **FGEL02-01645** - Faculty of Geology, UERJ, Semester 2 | 1998 | Credit: 5 | Grade: 7.20
+* **Physics VIII** - **FIS04-02520** - Institute of Physics, UERJ, Semester 2 | 1998 | Credit: 4 | Grade: 8.50
+* **Climatology III** - **GEO04-00877** - Institute of Geoscience, UERJ, Semester 2 | 1998 | Credit: 4 | Grade: 10.00
+* **Marine Ecology** - **IBRAG02-01990** - Institute of Biology, UERJ, Semester 2 | 1998 | Credit: 5 | Grade: 7.60
+* **Differential Equations IV** - **IME01-01873** - Institute of Mathematics and Statistics, UERJ, Semester 2 | 1998 | Credit: 5 | Grade: 10.00
+* **Chemistry IX** - **QUI01-03485** - Institute of Chemistry, UERJ, Semester 2 | 1998 | Credit: 3 | Grade: 7.90
+* **Fluid Mechanics III** - **FEN03-05575** -  Faculty of Engineering, UERJ, Semester 1 | 1999 | Credit: 4 | Grade: 9.00
+* **Biological Oceanography I** - **GEO03-02370** - Institute of Geoscience, UERJ, Semester 1 | 1999 | Credit: 4 | Grade: 5.10
+* **Physical Oceanography I** - **GEO03-03130** - Institute of Geoscience, UERJ, Semester 1 | 1999 | Credit: 4 | Grade: 8.10
+* **Meteorology I** - **GEO04-00554** - Institute of Geoscience, UERJ, Semester 1 | 1999 | Credit: 4 | Grade: 8.30
+* **Biological Oceanography II** - **GEO03-02483** - Institute of Geoscience, UERJ, Semester 2 | 1999 | Credit: 4 | Grade: 6.00
+* **Physical Oceanography II** - **GEO03-03220** - Institute of Geoscience, UERJ, Semester 2 | 1999 | Credit: 4 | Grade: 5.30
+* **Hydrography II** - **GEO03-03788** - Institute of Geoscience, UERJ, Semester 2 | 1999 | Credit: 5 | Grade: 9.00
+* **Statistics III** - **IME05-04030** - Institute of Mathematics and Statistics, UERJ, Semester 2 | 1999 | Credit: 4 | Grade: 9.20
+* **Special Mathematics I** - **IME06-01366** - Institute of Mathematics and Statistics, UERJ, Semester 2 | 1999 | Credit: 5 | Grade: 7.00
+* **Astronomy and Navigation** - **GEO03-01871** - Institute of Geoscience, UERJ, Semester 1 | 2000 | Credit: 5 | Grade: 8.00
+* **Biological Oceanography III** - **GEO03-02611** - Institute of Geoscience, UERJ, Semester 1 | 2000 | Credit: 4 | Grade: 6.70
+* **Geological Oceanography I** - **GEO03-03482** - Institute of Geoscience, UERJ, Semester 1 | 2000 | Credit: 5 | Grade: 7.00
+* **Chemical Oceanography I** - **GEO03-03652** - Institute of Geoscience, UERJ, Semester 1 | 2000 | Credit: 5 | Grade: 8.10
+* **Introduction to Data Processing** - **IME04-00627** - Institute of Mathematics and Statistics, UERJ, Semester 1 | 2000 | Credit: 4 | Grade: 8.50
+* **Remote Sensing in Oceanography** - **FEN08-06932** - Rio de Janeiro State University (UERJ), Semester 2 | 2000 | Credit: 4 | Grade: 8.50
+* **Chemical Oceanography II** - **GEO03-03718** - Institute of Geoscience, UERJ, Semester 2 | 2000 | Credit: 4 | Grade: 7.60
+* **Waves** - **GEO03-04390** - Institute of Geoscience, UERJ, Semester 2 | 2000 | Credit: 4 | Grade: 7.00
+* **Marine Pollution** - **GEO03-02707** - Institute of Geoscience, UERJ, Semester 1 | 2001 | Credit: 4 | Grade: 7.50
+* **Physical Oceanography III** - **GEO03-03403** - Institute of Geoscience, UERJ, Semester 1 | 2001 | Credit: 4 | Grade: 7.00
+* **Estuaries** - **GEO03-04046** - Institute of Geoscience, UERJ, Semester 1 | 2001 | Credit: 4 | Grade: 6.70
+* **Coastal Processes** - **GEO03-04576** -Institute of Geoscience, UERJ, Semester 1 | 2001 | Credit: 4 | Grade: 7.00
+* **Water Quality in Estuaries** - **GEO03-04636** - Institute of Geoscience, UERJ, Semester 1 | 2001 | Credit: 4 | Grade: 7.60
+* **Oriented Internship I** - **GEO03-00344** - Institute of Geoscience, UERJ, Semester 2 | 2001 | Credit: 10 | Grade: 8.50
+* **Descriptive Oceanography** - **GEO03-02144** - Institute of Geoscience, UERJ, Semester 2 | 2001 | Credit: 4 | Grade: 5.30
+* **Water Mass Analysis** - **GEO03-03858** - Institute of Geoscience, UERJ, Semester 2 | 2001 | Credit: 4 | Grade: 9.10
+* **Meteorology II** - **GEO04-00709** - Institute of Geoscience, UERJ, Semester 2 | 2001 | Credit: 4 | Grade: 9.00
+* **Oriented Internship II** - **GEO03-00515** - Institute of Geoscience, UERJ, Semester 1 | 2002 | Credit: 12 | Grade: 9.60
+* **Geological Oceanography II** - **GEO03-03566** - Institute of Geoscience, UERJ, Semester 1 | 2002 | Credit: 5 | Grade: 7.10
 
 ### Additional Postgraduate Study Since 2018 - New Zealand
 
@@ -721,23 +803,22 @@ Professional education across physical, chemical, biological, and geological oce
 
 **Completed postgraduate coursework since 2018: 75 credits.**
 
-### Additional Postgraduate Study between 2015 to 2017
-
-- **Ocean models** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2015 | 30 credits | Grade: A
-- **Oceanographic Instrumentation** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2016 | 30 credits | Grade: A
-- **Topics in Physical oceanography** - Federal University of Rio de janeiro, PhD in Oceanic and Coastal Engineering, 2017 | 30 credits | Grade: B
-
 ### Advanced Scientific & Professional Training
 
-- CARIS HIPS — Hydrographic data-processing training (2011)
-- Sea-Bird CTD — Instrument operation and data processing (2011)
-- Instability Problems — National laboratory for Computer Sciences LNCC (2003)
-- Navier-Stokes Equation and turbulence — National laboratory for Computer Sciences LNCC (2003)
-- Estuarine Oceanography — Oceanographic Institute, University of São Paulo(2002)
-- Physical Oceanography of the South Atlantic — Federal University of Rio Grande (2001)
-- Summer School in Geophysics — National Observatory / Ministry of Science and Technology, Brazil (2002)
-- Mid-Ocean Ridge Geophysics — LAGEMAR/UFF and Université de Bretagne Occidentale (1998)
-- Satellite Oceanography (1999)
+* **CARIS HIPS** — Hydrographic data-processing certification (2011)
+* **Sea-Bird Electronics CTD** — Instrument operation and data processing certification (2011)
+* **Helicopter Underwater Egress Training (HUET)** — Seal Inspection & Training Ltda., Rio de Janeiro, Brazil (Dec 2009; initial certification Apr 2006)
+* **Sea Survival Training** — Seal Inspection & Training Ltda. / CEFAAN, Rio de Janeiro, Brazil (Mar 2006)
+* **17th Pre-Archipelago Training (*Programa Arquipélago de São Pedro e São Paulo*)** — Interministerial Commission for Marine Resources (SECIRM), Natal Naval Base, Brazil (17–24 Aug 2003)
+* **Navier-Stokes Equations and Turbulence** — National Laboratory for Scientific Computing (LNCC) Summer Programme, Brazil (24–27 Feb 2003; 10 hours)
+* **Instability Problems** — National Laboratory for Scientific Computing (LNCC) Summer Programme, Brazil (2003)
+* **ADCP Operation and Interface Software Training** — RD Instruments / GEOTRON Engenharia Eletrônica Ltda., Rio de Janeiro, Brazil (13–16 Jan 2003; 40 hours)
+* **Estuarine Oceanography** — Oceanographic Institute, University of São Paulo (IO-USP) (2002)
+* **Summer School in Geophysics** — National Observatory / Ministry of Science and Technology, Brazil (2002)
+* **Physical Oceanography of the South Atlantic** — Federal University of Rio Grande (FURG) (2001)
+* **Satellite Oceanography** — Short course (1999)
+* **Mid-Ocean Ridge Geophysics** — LAGEMAR/UFF and Université de Bretagne Occidentale (1998)
+
 
 ---
 
